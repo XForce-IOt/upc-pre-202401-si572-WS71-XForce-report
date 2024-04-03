@@ -31,5 +31,5 @@ Ciclo: 2024-1
 
 <div align="right"><Abril 2024></div>
 <p align="right">
-(<a href="https://github.com/TechSolution-ArquiTectura/upc-pre-202401-si728-WS82-techsolutions-report/blob/develop/%C3%8Dndice.md"> Índice</a>)
+(<a href="https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/blob/develop/%C3%8Dndice.md"> Índice</a>)
 </p>
