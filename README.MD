@@ -9,7 +9,7 @@
 
 Curso: Desarrollo de Soluciones IoT
 
-Sección: WS82
+Sección: WS71
 
 Profesor: Velasquez Nuñez, Angel Augusto
 
