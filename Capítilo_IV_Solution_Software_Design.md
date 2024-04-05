@@ -101,3 +101,32 @@ Para un mayor detalle revisar el tablero de Miro:
 
 #### 4.1.1.2 Domain Message Flows Modeling.
 #### 4.1.1.3 Bounded Context Canvases.
+### 4.1.2. Context Mapping.
+
+### 4.1.3. Software Architecture.
+
+La arquitectura de software se refiere a la estructura fundamental de un sistema de software, incluyendo sus componentes, relaciones, y principios de diseño. Esta disciplina implica diseñar y organizar los diferentes elementos del software para lograr un sistema funcional, eficiente, escalable y fácil de mantener. Se consideran aspectos como la distribución de tareas, la comunicación entre componentes, la gestión de datos y la seguridad del sistema. A continuación, veremos los diagramas de arquitectura de software relacionados a PetHealth. 
+
+#### 4.1.3.1. Software Architecture System Landscape Diagram.
+
+Es un diagrama que muestra la estructura general del sistema, incluyendo sus componentes clave, relaciones entre ellos y cómo se integran en el entorno tecnológico más amplio.
+
+[![Landscape.png](https://i.postimg.cc/wj2jL2BD/Landscape.png)](https://postimg.cc/G4BR1kGp)
+
+#### 4.1.3.2. Software Architecture Context Level Diagrams.
+
+Es un diagrama que proporciona una vista de alto nivel de los actores externos y sus interacciones con el sistema.
+
+[![Software-Architecture-Context-Level-Diagram.png](https://i.postimg.cc/0jP4YYjJ/Software-Architecture-Context-Level-Diagram.png)](https://postimg.cc/DJp5Fbq2)
+
+#### 4.1.3.2. Software Architecture Container Level Diagrams.
+
+Es un diagrama que se enfoca en los contenedores de software y sus relaciones. Representa cómo la aplicación móvil, la API propia, el servidor de aplicación y la base de datos están organizados y cómo interactúan entre sí para proporcionar funcionalidades completas a los usuarios.
+
+[![Software-Architecture-Container-Level-Diagram.png](https://i.postimg.cc/jd81fJbL/Software-Architecture-Container-Level-Diagram.png)](https://postimg.cc/rKrgXszk)
+
+#### 4.1.3.3. Software Architecture Deployment Diagrams.
+
+Este diagrama muestra cómo los diferentes elementos del sistema, como aplicaciones, servidores, bases de datos y dispositivos de usuario, se despliegan en nodos físicos o virtuales, y cómo se conectan entre sí para que el sistema funcione correctamente en el entorno de producción.
+
+[![Deployment-Diagram.png](https://i.postimg.cc/0jwVQ3bx/Deployment-Diagram.png)](https://postimg.cc/n9n4S34w)
