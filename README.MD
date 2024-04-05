@@ -29,6 +29,7 @@ Ciclo: 2024-1
 | ---------------------------------------- | ---------- |
 | Almeyda Alania, Fredy Antonio            | U20201B033 |
 | Aquino Cruz, Leonardo José               | U20201B949 |
+| Jaramillo Almora, Jesica Rut             | U20201C163 |
 
 <div align="right"><Abril 2024></div>
 <p align="right">
