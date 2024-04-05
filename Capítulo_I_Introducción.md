@@ -12,3 +12,6 @@ En un mundo donde las mascotas son consideradas parte integral de la familia, el
 #### Leonardo José Aquino Cruz
 [![leonardo.jpg](https://i.postimg.cc/PqYZ9FZb/leonardo.jpg)](https://postimg.cc/KKcRgf04)
 + Soy un estudiante de la universidad peruana de ciencias aplicadas, curso la carrera de Ingeniería de Software, estoy actualmente en el octavo ciclo. Soy una persona perseverante, responsable y creativo. Siempre apoyaré en todo lo que esté a mi alcance a mi equipo.
+#### Emerson Gerardo Quispe Villegas
+![emerson](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/362ad089-35e4-430b-a21d-880857bdf76d)
++ Soy estudiante de la carrera de ingeniería de software. Me gusta mucho la música y casi siempre realizo mis actividades escuchando canciones. Me gusta trabajar en equipo, ya que todos los integrantes podemos proponer ideas y corregir errores del otro para lograr nuestro objetivo. Una de mis cualidades es ser responsable, paciente, puntual y tener compromiso con los trabajos que me designen.
