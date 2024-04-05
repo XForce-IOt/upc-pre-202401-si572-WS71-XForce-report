@@ -34,14 +34,14 @@ El To-Be Scenario Mapping es una herramienta clave para proyectar mejoras en el 
 
 En esta sección se presentarán las User Stories y Epics de nuestro proyecto. Los User Stories y Epics están descritos siguiendo el patrón "As a - I want - So that". Por otro lado, los User Stories poseen criterios de aceptación, los cuales están organizados por escenarios y descritos siguiendo el patrón "Given - When - Then".
 
-## **Epics**
+### **Epics**
 
-#### Epic 1: Registro y Gestión de Información
+##### Epic 1: Registro y Gestión de Información
 
 - E001 - Registro de Usuario y Mascota (US001)
 - E002 - Edición de Información de Mascota (US007)
 
-#### Epic 2: Monitoreo y Salud
+##### Epic 2: Monitoreo y Salud
 
 - E003 - Monitoreo de Salud en Tiempo Real (US002)
 - E004 - Alertas de Anomalías de Salud (US003)
@@ -51,33 +51,33 @@ En esta sección se presentarán las User Stories y Epics de nuestro proyecto. L
 - E008 - Establecimiento de Objetivos de Salud (US012)
 - E009 - Seguimiento del Comportamiento y el Ánimo (US015)
 
-#### Epic 3: Servicios Veterinarios
+##### Epic 3: Servicios Veterinarios
 
 - E010 - Programación de Citas Veterinarias (US005)
 - E011 - Compartir Historial con Veterinarios (US008)
 - E012 - Acceso a Servicios de Emergencia (US018)
 
-#### Epic 4: Comunicación y Comunidad
+##### Epic 4: Comunicación y Comunidad
 
 - E013 - Recepción de Consejos de Cuidado (US009)
 - E014 - Comunidad de Dueños de Mascotas (US017)
 - E015 - Reporte de Pérdida de Mascota (US016)
 
-#### Epic 5: Configuración y Personalización
+##### Epic 5: Configuración y Personalización
 
 - E016 - Configuración de Alertas y Notificaciones (US010)
 - E017 - Configuración de Recordatorios de Medicación (US013)
 
-#### Epic 6: Información y Educación
+##### Epic 6: Información y Educación
 
 - E018 - Información Sobre Nutrición (US014)
 - E019 - Reseñas de Veterinarias (US019)
 
-#### Epic 7: Integración Tecnológica
+##### Epic 7: Integración Tecnológica
 
 - E020 - Integración con Dispositivos de Casa Inteligente (US020)
 
-#### Epic 8: Soporte para Veterinarios y Clínicas
+##### Epic 8: Soporte para Veterinarios y Clínicas
 
 - Este Epic incluirá todas las User Stories desde US021 hasta US040, ya que todas están enfocadas en proporcionar soporte, herramientas y servicios a veterinarios y clínicas veterinarias.
 
@@ -156,52 +156,54 @@ En esta sección se presentarán las User Stories y Epics de nuestro proyecto. L
 
 ## 3.4. Product Backlog.
 
+El Product Backlog, inspirado en el análisis To-Be Scenario Mapping, se enfoca en mejorar el cuidado de mascotas mediante tecnología avanzada, destacando la importancia de un collar inteligente y una app. Prioriza funcionalidades para prevenir problemas de salud, optimizar el seguimiento del bienestar animal y mejorar la comunicación entre dueños y veterinarios. Este enfoque busca superar limitaciones actuales, mejorando la calidad del servicio y la experiencia de los usuarios, al tiempo que sienta las bases para futuras innovaciones en bienestar animal.
+
 ### SEGMENTO OBJETIVO – Dueños de Mascotas
 
 | #Orden | Código | Título                                           | Descripción                                                                                                                                                                                  | Story Point (1/2/3/5/8) |
 | ------ | ------ | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| 1      | US001  | Registro de Usuario y Mascota                    | Como dueño de una mascota, quiero registrar mis datos personales y los de mi mascota en la aplicación para usar el collar inteligente.                                                       | 3                       |
+| 1      | US014  | Información Sobre Nutrición                      | Como dueño de una mascota, quiero recibir información y recomendaciones sobre la nutrición adecuada para mi mascota basada en su actividad, peso y datos de salud.                           | 8                       |
 | 2      | US002  | Monitoreo de Salud en Tiempo Real                | Como dueño, deseo ver en tiempo real los indicadores de salud de mi mascota capturados por el collar, como actividad física, frecuencia cardíaca y temperatura.                              | 5                       |
-| 3      | US003  | Alertas de Anomalías de Salud                    | Como dueño, quiero recibir alertas inmediatas si se detectan anomalías en la salud de mi mascota para actuar rápidamente.                                                                    | 5                       |
-| 4      | US004  | Acceso a Diagnósticos Preliminares               | Como dueño, busco obtener diagnósticos preliminares basados en los datos recogidos para entender posibles condiciones de mi mascota.                                                         | 8                       |
-| 5      | US005  | Programación de Citas Veterinarias               | Como dueño, quiero programar citas con veterinarios afiliados directamente desde la app, facilitando el proceso de atención médica.                                                          | 3                       |
-| 6      | US006  | Visualización del Historial de Salud             | Como dueño, deseo acceder al historial de salud de mi mascota para monitorear su evolución a lo largo del tiempo.                                                                            | 2                       |
-| 7      | US007  | Edición de Información de Mascota                | Como dueño, quiero editar y actualizar la información de mi mascota en la aplicación para mantener su perfil al día.                                                                         | 2                       |
-| 8      | US008  | Compartir Historial con Veterinarios             | Como dueño, deseo compartir el historial de salud de mi mascota con el veterinario a través de la app para una mejor atención.                                                               | 3                       |
-| 9      | US009  | Recepción de Consejos de Cuidado                 | Como dueño, quiero recibir consejos personalizados sobre el cuidado de mi mascota basados en su salud y actividad.                                                                           | 5                       |
-| 10     | US010  | Configuración de Alertas y Notificaciones        | Como dueño, quiero configurar mis preferencias de alertas y notificaciones para estar informado sobre la salud y necesidades de mi mascota.                                                  | 3                       |
-| 11     | US011  | Seguimiento de Niveles de Actividad              | Como dueño de una mascota, quiero seguir los niveles de actividad diaria de mi mascota para asegurarme de que recibe el ejercicio suficiente para su salud.                                  | 5                       |
-| 12     | US012  | Establecimiento de Objetivos de Salud            | Como dueño de una mascota, quiero establecer objetivos de salud para mi mascota, basados en la actividad, el peso y la frecuencia cardíaca, para mejorar y mantener su bienestar.            | 3                       |
-| 13     | US013  | Configuración de Recordatorios de Medicación     | Como dueño de una mascota, necesito configurar recordatorios para la medicación de mi mascota para asegurarme de que nunca olvido administrarla.                                             | 2                       |
-| 14     | US014  | Información Sobre Nutrición                      | Como dueño de una mascota, quiero recibir información y recomendaciones sobre la nutrición adecuada para mi mascota basada en su actividad, peso y datos de salud.                           | 3                       |
-| 15     | US015  | Seguimiento del Comportamiento y el Ánimo        | Como dueño, deseo monitorear cambios en el comportamiento y el ánimo de mi mascota para detectar posibles problemas de salud.                                                                | 8                       |
-| 16     | US016  | Reporte de Pérdida de Mascota                    | Como dueño de una mascota, quiero reportar rápidamente a través de la aplicación si mi mascota se pierde, compartiendo su última ubicación conocida.                                         | 3                       |
-| 17     | US017  | Comunidad de Dueños de Mascotas                  | Como dueño de una mascota, deseo unirme a una comunidad dentro de la aplicación para compartir experiencias y consejos con otros dueños.                                                     | 5                       |
-| 18     | US018  | Acceso a Servicios de Emergencia                 | Como dueño, quiero tener acceso rápido a servicios de emergencia veterinaria a través de la aplicación, incluyendo la posibilidad de llamar a un veterinario de emergencia con un solo clic. | 3                       |
-| 19     | US019  | Reseñas de Veterinarias                          | Como dueño de una mascota, quiero leer y escribir reseñas sobre clínicas veterinarias para tomar decisiones informadas sobre dónde llevar a mi mascota.                                      | 2                       |
-| 20     | US020  | Integración con Dispositivos de Casa Inteligente | Como dueño de una mascota, quiero integrar el collar inteligente con dispositivos de casa inteligente para monitorizar y mejorar el ambiente de mi mascota en casa.                          | 8                       |
+| 3      | US011  | Seguimiento de Niveles de Actividad              | Como dueño de una mascota, quiero seguir los niveles de actividad diaria de mi mascota para asegurarme de que recibe el ejercicio suficiente para su salud.                                  | 5                       |
+| 4      | US003  | Alertas de Anomalías de Salud                    | Como dueño, quiero recibir alertas inmediatas si se detectan anomalías en la salud de mi mascota para actuar rápidamente.                                                                    | 8                       |
+| 5      | US009  | Recepción de Consejos de Cuidad                  | Como dueño, quiero recibir consejos personalizados sobre el cuidado de mi mascota basados en su salud y actividad.                                                                           | 5                       |
+| 6      | US017  | Comunidad de Dueños de Mascotas                  | Como dueño de una mascota, deseo unirme a una comunidad dentro de la aplicación para compartir experiencias y consejos con otros dueños.                                                     | 5                       |
+| 7      | US015  | Seguimiento del Comportamiento y el Ánimo        | Como dueño, deseo monitorear cambios en el comportamiento y el ánimo de mi mascota para detectar posibles problemas de salud.                                                                | 8                       |
+| 8      | US004  | Acceso a Diagnósticos Preliminares               | Como dueño, busco obtener diagnósticos preliminares basados en los datos recogidos para entender posibles condiciones de mi mascota.                                                         | 8                       |
+| 9      | US020  | Integración con Dispositivos de Casa Inteligente | Como dueño de una mascota, quiero integrar el collar inteligente con dispositivos de casa inteligente para monitorizar y mejorar el ambiente de mi mascota en casa.                          | 8                       |
+| 10     | US001  | Registro de Usuario y Mascota                    | Como dueño de una mascota, quiero registrar mis datos personales y los de mi mascota en la aplicación para usar el collar inteligente.                                                       | 3                       |
+| 11     | US005  | Programación de Citas Veterinarias               | Como dueño, quiero programar citas con veterinarios afiliados directamente desde la app, facilitando el proceso de atención médica.                                                          | 3                       |
+| 12     | US010  | Configuración de Alertas y Notificaciones        | Como dueño, quiero configurar mis preferencias de alertas y notificaciones para estar informado sobre la salud y necesidades de mi mascota.                                                  | 3                       |
+| 13     | US012  | Establecimiento de Objetivos de Salud            | Como dueño de una mascota, quiero establecer objetivos de salud para mi mascota, basados en la actividad, el peso y la frecuencia cardíaca, para mejorar y mantener su bienestar.            | 3                       |
+| 14     | US008  | Compartir Historial con Veterinarios             | Como dueño, deseo compartir el historial de salud de mi mascota con el veterinario a través de la app para una mejor atención.                                                               | 3                       |
+| 15     | US016  | Reporte de Pérdida de Mascota                    | Como dueño de una mascota, quiero reportar rápidamente a través de la aplicación si mi mascota se pierde, compartiendo su última ubicación conocida.                                         | 3                       |
+| 16     | US018  | Acceso a Servicios de Emergencia                 | Como dueño, quiero tener acceso rápido a servicios de emergencia veterinaria a través de la aplicación, incluyendo la posibilidad de llamar a un veterinario de emergencia con un solo clic. | 3                       |
+| 17     | US019  | Reseñas de Veterinarias                          | Como dueño de una mascota, quiero leer y escribir reseñas sobre clínicas veterinarias para tomar decisiones informadas sobre dónde llevar a mi mascota.                                      | 2                       |
+| 18     | US007  | Edición de Información de Mascota                | Como dueño, quiero editar y actualizar la información de mi mascota en la aplicación para mantener su perfil al día.                                                                         | 2                       |
+| 19     | US013  | Configuración de Recordatorios de Medicación     | Como dueño de una mascota, necesito configurar recordatorios para la medicación de mi mascota para asegurarme de que nunca olvido administrarla.                                             | 2                       |
+| 20     | US006  | Visualización del Historial de Salud             | Como dueño, deseo acceder al historial de salud de mi mascota para monitorear su evolución a lo largo del tiempo.                                                                            | 2                       |
 
 ### SEGMENTO OBJETIVO – Veterinarias
 
 | #Orden | Código | Título                                                   | Descripción                                                                                                                                                                                  | Story Point (1/2/3/5/8) |
 | ------ | ------ | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| 1      | US021  | Registro de Veterinaria en la Aplicación                 | Como veterinario, quiero registrar mi clínica en la aplicación para recibir citas y acceder a historiales de salud de mascotas.                                                              | 3                       |
-| 2      | US022  | Acceso al Historial de Salud de Mascotas                 | Como veterinario, necesito acceder al historial de salud de las mascotas para preparar y ofrecer la atención adecuada.                                                                       | 3                       |
-| 3      | US023  | Gestión de Citas                                         | Como clínica veterinaria, queremos gestionar eficientemente las citas programadas a través de la aplicación.                                                                                 | 3                       |
-| 4      | US024  | Envío de Recordatorios de Citas                          | Como veterinario, deseo enviar recordatorios automáticos de citas a los dueños de mascotas para reducir el número de citas no asistidas.                                                     | 2                       |
-| 5      | US025  | Recepción de Alertas de Salud Urgentes                   | Como veterinario, quiero recibir alertas urgentes de salud de mascotas para prepararme para emergencias o dar consejos rápidos.                                                              | 5                       |
+| 1      | US030  | Integración con Sistemas de Gestión Veterinaria          | Como clínica veterinaria, deseamos integrar la aplicación con nuestros sistemas de gestión interna para optimizar procesos administrativos y de atención al cliente.                         | 8                       |
+| 2      | US033  | Análisis de Tendencias de Salud                          | Como veterinario, deseo analizar tendencias de salud basadas en los datos recopilados de múltiples mascotas para mejorar las recomendaciones de cuidado preventivo.                          | 8                       |
+| 3      | US039  | Integración con Laboratorios para Análisis               | Como veterinario, quiero integrar la aplicación con laboratorios para enviar y recibir resultados de análisis rápidamente.                                                                   | 5                       |
+| 4      | US025  | Recepción de Alertas de Salud Urgentes                   | Como veterinario, quiero recibir alertas urgentes de salud de mascotas para prepararme para emergencias o dar consejos rápidos.                                                              | 5                       |
+| 5      | US037  | Webinars y Eventos Educativos                            | Como clínica, queremos ofrecer webinars y eventos educativos sobre el cuidado de mascotas y promocionarlos a través de la aplicación.                                                        | 5                       |
 | 6      | US026  | Publicación de Información de Salud                      | Como veterinario, deseo publicar artículos y consejos de salud en la aplicación para educar a los dueños sobre el cuidado de sus mascotas.                                                   | 5                       |
-| 7      | US027  | Personalización de Servicios Ofrecidos                   | Como clínica, queremos personalizar los servicios ofrecidos en nuestro perfil para atraer a dueños de mascotas con necesidades específicas.                                                  | 3                       |
-| 8      | US028  | Visualización de Estadísticas de Salud                   | Como veterinario, busco visualizar estadísticas agregadas de salud de las mascotas para identificar tendencias o epidemias.                                                                  | 5                       |
-| 9      | US029  | Feedback sobre el Servicio                               | Como clínica, queremos recibir feedback de los dueños de mascotas para mejorar la calidad de nuestro servicio.                                                                               | 2                       |
-| 10     | US030  | Integración con Sistemas de Gestión Veterinaria          | Como clínica veterinaria, deseamos integrar la aplicación con nuestros sistemas de gestión interna para optimizar procesos administrativos y de atención al cliente.                         | 8                       |
-| 11     | US031  | Actualizaciones en Tiempo Real de la Salud de la Mascota | Como veterinario, quiero recibir actualizaciones en tiempo real sobre la salud de las mascotas que estoy monitoreando para reaccionar rápidamente ante cualquier emergencia.                 | 5                       |
-| 12     | US032  | Programa de Fidelidad para Dueños de Mascotas            | Como clínica veterinaria, queremos ofrecer un programa de fidelidad a través de la aplicación para recompensar a los dueños de mascotas por su lealtad y uso continuo de nuestros servicios. | 3                       |
-| 13     | US033  | Análisis de Tendencias de Salud                          | Como veterinario, deseo analizar tendencias de salud basadas en los datos recopilados de múltiples mascotas para mejorar las recomendaciones de cuidado preventivo.                          | 8                       |
-| 14     | US034  | Soporte para Múltiples Especialidades Veterinarias       | Como clínica, queremos destacar nuestras múltiples especialidades en la aplicación para atraer a dueños de mascotas con necesidades específicas.                                             | 3                       |
-| 15     | US035  | Administración de Historiales de Salud Digitales         | Como veterinario, necesito administrar los historiales de salud digitales de las mascotas de manera eficiente para un rápido acceso y actualización durante las citas.                       | 5                       |
-| 16     | US036  | Publicación de Casos de Estudio                          | Como veterinario, quiero publicar casos de estudio en la aplicación para educar a los dueños sobre enfermedades comunes y tratamientos efectivos.                                            | 5                       |
-| 17     | US037  | Webinars y Eventos Educativos                            | Como clínica, queremos ofrecer webinars y eventos educativos sobre el cuidado de mascotas y promocionarlos a través de la aplicación.                                                        | 5                       |
-| 18     | US038  | Gestión de Citas y Recordatorios Automatizados           | Como clínica veterinaria, deseamos automatizar la gestión de citas y el envío de recordatorios para mejorar la eficiencia operativa.                                                         | 3                       |
-| 19     | US039  | Integración con Laboratorios para Análisis               | Como veterinario, quiero integrar la aplicación con laboratorios para enviar y recibir resultados de análisis rápidamente.                                                                   | 5                       |
-| 20     | US040  | Soporte y Asesoramiento en Línea                         | Como clínica, queremos ofrecer soporte y asesoramiento en línea a través de la aplicación para dueños de mascotas que buscan ayuda rápida.                                                   | 3                       |
+| 7      | US036  | Publicación de Casos de Estudio                          | Como veterinario, quiero publicar casos de estudio en la aplicación para educar a los dueños sobre enfermedades comunes y tratamientos efectivos.                                            | 5                       |
+| 8      | US031  | Actualizaciones en Tiempo Real de la Salud de la Mascota | Como veterinario, quiero recibir actualizaciones en tiempo real sobre la salud de las mascotas que estoy monitoreando para reaccionar rápidamente ante cualquier emergencia.                 | 5                       |
+| 9      | US028  | Visualización de Estadísticas de Salud                   | Como veterinario, busco visualizar estadísticas agregadas de salud de las mascotas para identificar tendencias o epidemias.                                                                  | 5                       |
+| 10     | US035  | Administración de Historiales de Salud Digitales         | Como veterinario, necesito administrar los historiales de salud digitales de las mascotas de manera eficiente para un rápido acceso y actualización durante las citas.                       | 5                       |
+| 11     | US022  | Acceso al Historial de Salud de Mascotas                 | Como veterinario, necesito acceder al historial de salud de las mascotas para preparar y ofrecer la atención adecuada.                                                                       | 3                       |
+| 12     | US021  | Registro de Veterinaria en la Aplicación                 | Como veterinario, quiero registrar mi clínica en la aplicación para recibir citas y acceder a historiales de salud de mascotas.                                                              | 3                       |
+| 13     | US027  | Personalización de Servicios Ofrecidos                   | Como clínica, queremos personalizar los servicios ofrecidos en nuestro perfil para atraer a dueños de mascotas con necesidades específicas.                                                  | 3                       |
+| 14     | US023  | Gestión de Citas                                         | Como clínica veterinaria, queremos gestionar eficientemente las citas programadas a través de la aplicación.                                                                                 | 3                       |
+| 15     | US034  | Soporte para Múltiples Especialidades Veterinarias       | Como clínica, queremos destacar nuestras múltiples especialidades en la aplicación para atraer a dueños de mascotas con necesidades específicas.                                             | 3                       |
+| 16     | US038  | Gestión de Citas y Recordatorios Automatizados           | Como clínica veterinaria, deseamos automatizar la gestión de citas y el envío de recordatorios para mejorar la eficiencia operativa.                                                         | 3                       |
+| 17     | US040  | Soporte y Asesoramiento en Línea                         | Como clínica, queremos ofrecer soporte y asesoramiento en línea a través de la aplicación para dueños de mascotas que buscan ayuda rápida.                                                   | 3                       |
+| 18     | US032  | Programa de Fidelidad para Dueños de Mascotas            | Como clínica veterinaria, queremos ofrecer un programa de fidelidad a través de la aplicación para recompensar a los dueños de mascotas por su lealtad y uso continuo de nuestros servicios. | 3                       |
+| 19     | US024  | Envío de Recordatorios de Citas                          | Como veterinario, deseo enviar recordatorios automáticos de citas a los dueños de mascotas para reducir el número de citas no asistidas.                                                     | 2                       |
+| 20     | US029  | Feedback sobre el Servicio                               | Como clínica, queremos recibir feedback de los dueños de mascotas para mejorar la calidad de nuestro servicio.                                                                               | 2                       |
