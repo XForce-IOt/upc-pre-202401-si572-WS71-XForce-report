@@ -277,14 +277,14 @@ Las amenazas de nuestra competencia se comprenden en:
 - ¿Si tuviera una emergencia y no pudiera acudir a su veterinario de confianza, cuál cree que sería su principal problema?
 - Que le motivó a conseguir una mascota?
 - ¿Qué problemas tiene respecto al cuidado de su mascota?
-- ¿Qué marcas de dispositivos usa en su trabajo? (marcas de croquetas, collares, medicinas, etc.)
+- ¿Qué marcas de dispositivos usa regularmente en su mascota? (marcas de croquetas, collares, medicinas, etc.)
 - ¿Cuántos años de experiencia tiene como dueño de mascota?
 - ¿Cómo se comunica con sus veterinarios?
 
 #### Médicos Veterinarios
 - ¿Qué lo motivó a ser medico veterinario?
 - ¿Qué problemas tiene siendo un medico veterinario?
-- ¿Qué marcas de dispositivos usa en su trabajo? (Marcas de Vacunas, de medicamentos, etc.)
+- ¿Qué marcas de dispositivos usa regularmente en su trabajo? (Marcas de Vacunas, de medicamentos, etc.)
 - ¿Cuántos años de experiencia tiene como veterinario?
 - ¿Cómo se comunica con sus clientes?
 - ¿Cuál es la especie de mascotas que más atiende?
