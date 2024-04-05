@@ -259,6 +259,10 @@ Las amenazas de nuestra competencia se comprenden en:
 - ¿Cuál es su grado académico?
 - ¿Cuál es el dispositivo móvil que más usa? 
 - ¿Cuál es el sistema operativo de su celular? (Android/iOS)
+- ¿Qué le frustra de su trabajo actual?
+- ¿Cómo se ve en 5 años?
+- ¿Qué navegador web usa?
+- ¿Qué redes sociales usa?
 
 #### Dueños / Cuidadores de mascotas
 - ¿Cuántas mascotas tiene?
@@ -271,8 +275,18 @@ Las amenazas de nuestra competencia se comprenden en:
 - ¿Cada cuánto tiempo agenda estas citas para su mascota? ¿Cuál es el motivo?
 - ¿Cómo lleva el registro médico de su mascota? ¿Usa o conoce a alguien que use alguna aplicación que sea de ayuda?
 - ¿Si tuviera una emergencia y no pudiera acudir a su veterinario de confianza, cuál cree que sería su principal problema?
+- Que le motivó a conseguir una mascota?
+- ¿Qué problemas tiene respecto al cuidado de su mascota?
+- ¿Qué marcas de dispositivos usa en su trabajo? (marcas de croquetas, collares, medicinas, etc.)
+- ¿Cuántos años de experiencia tiene como dueño de mascota?
+- ¿Cómo se comunica con sus veterinarios?
 
 #### Médicos Veterinarios
+- ¿Qué lo motivó a ser medico veterinario?
+- ¿Qué problemas tiene siendo un medico veterinario?
+- ¿Qué marcas de dispositivos usa en su trabajo? (Marcas de Vacunas, de medicamentos, etc.)
+- ¿Cuántos años de experiencia tiene como veterinario?
+- ¿Cómo se comunica con sus clientes?
 - ¿Cuál es la especie de mascotas que más atiende?
 - ¿Cuántos clientes regulares tiene aproximadamente?
 - ¿Cuál es el principal motivo de las visitas al veterinario?
@@ -331,5 +345,5 @@ Grado Académico: Médico Veterinario
 * **Subscription plans:** Se refiere a las diferentes opciones de membresía o planes de suscripción ofrecidos a los Pet Owners para acceder a las funcionalidades premium de la aplicación PetHealth.
 * **Pet Registration:** Se refiere al proceso mediante el cual un Pet Owner registra a su mascota en la aplicación PetHealth, incluyendo detalles como nombre, raza, edad, y otros datos relevantes.
 * **Collar integration:** Se refiere a los pasos requeridos para sincronizar el nuevo PetHealth collar a la aplicación del Pet Owner.
-* **Client support:** Se refiere al servicio antivo que atiende y busca resolver las inquietudes y problemas de los usuarios.
+* **Client support:** Se refiere al servicio activo que atiende y busca resolver las inquietudes y problemas de los usuarios.
 * **Software updates:** Se refiere a las mejoras y correcciones de errores realizadas en la aplicación PetHealth para garantizar su rendimiento óptimo y mantenerla actualizada con las últimas tecnologías y estándares de seguridad.
