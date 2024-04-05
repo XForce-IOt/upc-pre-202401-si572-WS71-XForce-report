@@ -259,7 +259,6 @@ Las amenazas de nuestra competencia se comprenden en:
 - ¿Cuál es su grado académico?
 - ¿Cuál es el dispositivo móvil que más usa? 
 - ¿Cuál es el sistema operativo de su celular? (Android/iOS)
-- ¿Qué le frustra de su trabajo actual?
 - ¿Cómo se ve en 5 años?
 - ¿Qué navegador web usa?
 - ¿Qué redes sociales usa?
@@ -268,6 +267,7 @@ Las amenazas de nuestra competencia se comprenden en:
 - ¿Cuántas mascotas tiene?
 - ¿De qué especie son?
 - ¿Cuáles son los pasos de su rutina para asegurar la salud de su mascota?
+- - ¿Qué le frustra de ser dueño de una mascota?
 - ¿Su mascota recibe algún tratamiento?
 - ¿Hay algún síntoma al que deba estar atento/atenta?
 - ¿Cómo lidia con este escenario cuando usted está fuera de casa?
