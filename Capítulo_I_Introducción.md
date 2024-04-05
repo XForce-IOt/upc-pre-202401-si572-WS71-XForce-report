@@ -15,6 +15,11 @@ En un mundo donde las mascotas son consideradas parte integral de la familia, el
 #### Emerson Gerardo Quispe Villegas
 ![emerson](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/362ad089-35e4-430b-a21d-880857bdf76d)
 + Soy estudiante de la carrera de ingeniería de software. Me gusta mucho la música y casi siempre realizo mis actividades escuchando canciones. Me gusta trabajar en equipo, ya que todos los integrantes podemos proponer ideas y corregir errores del otro para lograr nuestro objetivo. Una de mis cualidades es ser responsable, paciente, puntual y tener compromiso con los trabajos que me designen.
+#### Saúl Enrique Mendoza Barco
+
+[![yo.png](https://i.postimg.cc/T2JL80kW/yo.png)](https://postimg.cc/6TT5nrx9)
+
+Soy estudiante de Ingeniería de Software en la Universidad UPC, valoro enormemente la colaboración en equipo como un pilar fundamental en el éxito de cualquier proyecto. Mi enfoque en el trabajo en equipo se basa en la comunicación abierta y la capacidad de escuchar activamente las ideas y perspectivas de mis compañeros. Reconozco que la diversidad de opiniones y habilidades en un equipo es clave para encontrar soluciones creativas y efectivas a los desafíos que enfrentamos en el desarrollo de software.
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
