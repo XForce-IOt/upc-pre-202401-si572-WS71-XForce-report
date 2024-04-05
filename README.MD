@@ -19,9 +19,9 @@ Ciclo: 2024-1
 
 # TB1
 
-## TechSolutions
+## XForce
 
-### ChapaTuBus
+### PetHealth
 
 #### Team Members
 
