@@ -249,3 +249,87 @@ Las amenazas de nuestra competencia se comprenden en:
 8. Desafíos de Distribución y Cadena de Suministro:
   - Competidores: Interrupciones en la cadena de suministro pueden afectar la disponibilidad del producto.
   - Estrategia:  Desarrollaremos una cadena de suministro robusta y flexible con múltiples proveedores y opciones logísticas. Consideraremos la producción local o regional para reducir los tiempos de entrega y los costos.
+
+## 2.2. Entrevistas.
+### 2.2.1. Diseño de entrevistas.
+#### Preguntas generales:
+- ¿Cuál es su nombre completo?
+- ¿Cuál es su edad?
+- ¿Dónde vive actualmente?
+- ¿Cuál es su grado académico?
+- ¿Cuál es el dispositivo móvil que más usa? 
+- ¿Cuál es el sistema operativo de su celular? (Android/iOS)
+
+#### Dueños / Cuidadores de mascotas
+- ¿Cuántas mascotas tiene?
+- ¿De qué especie son?
+- ¿Cuáles son los pasos de su rutina para asegurar la salud de su mascota?
+- ¿Su mascota recibe algún tratamiento?
+- ¿Hay algún síntoma al que deba estar atento/atenta?
+- ¿Cómo lidia con este escenario cuando usted está fuera de casa?
+- ¿Tiene un veterinario de confianza? *Si la respuesta es positiva o negativa:* ¿Cómo agenda las citas de su mascota con su veterinario?
+- ¿Cada cuánto tiempo agenda estas citas para su mascota? ¿Cuál es el motivo?
+- ¿Cómo lleva el registro médico de su mascota? ¿Usa o conoce a alguien que use alguna aplicación que sea de ayuda?
+- ¿Si tuviera una emergencia y no pudiera acudir a su veterinario de confianza, cuál cree que sería su principal problema?
+
+#### Médicos Veterinarios
+- ¿Cuál es la especie de mascotas que más atiende?
+- ¿Cuántos clientes regulares tiene aproximadamente?
+- ¿Cuál es el principal motivo de las visitas al veterinario?
+- ¿Cáda cuánto tiempo es recomendable que una mascota visite al veterinario?
+- ¿Cómo llevan el registro médico de las mascotas?
+- ¿Cuáles son las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo? (Ejemplo: Un caso de envenenamiento)
+
+### 2.2.2. Registro de entrevistas.
+
+**Segmento: Dueños de mascota**
+
+- Entrevista 1:  
+Entrevistador: Saúl Mendoza  
+Entrevistado: Nataly Torres  
+Edad: 23  
+Link de la entrevista: https://www.youtube.com/watch?v=L07RnsSHmFw 
+
+[![entrevista.png](https://i.postimg.cc/T3WLfyt4/entrevista.png)](https://postimg.cc/QFhxqMGQ)
+
+- **Resumen**: Nataly es una dueña de mascota de 23 años, que vive en Callao, usa principalmente Android. Nos comenta que tiene un veterinario de confianza al cual acude al menos 1 o 2 veces al mes, ya sea para un chequeo a su mascota o para un baño, corte de pelo de su mascota, también nos cuenta que cuando no está en casa, suele dejar a su mascota con algún familiar o amigo de confianza. Le gustaría una aplicación que le ayude a administrar los chequeos de su mascota para tener datos y estado medico de su mascota para de esa manera agilizar el proceso y tener un diagnóstico en caso algo llegue a suceder. 
+
+**Segmento: Veterinarios**
+- Entrevista 1:  
+Nombre: Cindia Martinez Olivia  
+Edad: 37 años  
+Distrito de residencia: Breña  
+Grado Académico: Médico Veterinario  
+[![Entrevista Veterinario 1](https://img.youtube.com/vi/4RhwqBvAMNs/0.jpg)](https://youtu.be/4RhwqBvAMNs)
+  - **Resumen**:
+    Cindia es una veterinaria de 37 años, que vive en Breña, usa principalmente Iphone iOS. En su trabajo, el animal que más atiende son los perros y lo traen al veterinario mayormente por enfermedades, tanto por su salud o edad. La cantidad de clientes que llegan cuando está en su turno es entre 10 a 12 clientes aproximadamente.  
+    Cuenta que se debe llevar al veterinario a sus mascotas por lo menos 1 vez al mes. Manejan un software llamado MedPet, donde ingresan todos los datos de sus anteriores clientes, la salud de sus mascotas, el historial médico, como también la fecha del proximo baño de pulgas de la mascota. Las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo, según la doctora, para un cliente regular, es más fácil saber que es lo que tiene el animal, se obvia mucho procedimiento ya que tiene registrado sus anteriores enfermedades y puede calcular que es lo que tiene el animal, miéntras que un cliente nuevo, se tiene que realizar todos los examenes para saber exactamente que enfermedad tiene el animal.
+
+### 2.2.3. Análisis de entrevistas.
+
+## 2.3. Needfinding.
+### 2.3.1. User Personas.
+### 2.3.2. User Task Matrix.
+### 2.3.3. User Journey Mapping.
+### 2.3.4. Empathy Mapping.
+### 2.3.5. As-is Scenario Mapping.
+
+## 2.4. Ubiquitous Language.
+* **PetHealth:** Se refiere a la aplicación que yace en los dispositivos de los usuarios.
+* **Control panel:** Se refiere a la interfaz de usuario dentro de la aplicación PetHealth donde los Pet Owners pueden visualizar y gestionar la información relacionada con la salud y bienestar de sus mascotas.
+* **Pet Owner:** Se refiere al dueño de una mascota. 
+* **PetHealt Collar:** Se refiere al collar, ofrecido por PetHealth, que servirá para monitorear la salud de la mascota y facilitar un reporte de estado al Pet Owner.
+* **Pet:** Se refiere a la mascota que usa el PetHealth Collar.
+* **Vet:** Se refiere al veterinario afiliado a la aplicación PetHealth.
+* **Your Vets:** Se refiere al listado de Vets a los que los Pet owners se encuentran afiliados, con los que comparten información de su mascota.
+* **In person Appointment:** Se refiere a la cita médica agendada haciendo uso de la aplicación PetHealth entre el Pet Owner y el Vet. 
+* **Online Review:** Se refiere a la consulta médica en línea realizada al Vet a travéz de la aplicación.
+* **Pet Report:** Se refiere al reporte que solicita la información médica recopilada de Pet. Puede ser solicitada por el Pet Owner y el Vet al que el Pet Owner se ha afiiado.
+* **Pet Medical History:** Se refiere al registro completo de la salud y tratamientos médicos de la mascota, almacenado y gestionado dentro de la aplicación PetHealth. 
+* **Notifications:** Se refiere a las alertas y notificaciones enviadas directamente a la aplicación del Pet Owner para informar sobre eventos importantes, como recordatorios de citas o reportes de estado.
+* **Pet warning:** Se refiere a la notificación enviada a la aplicación del Pet Owner que informa un estado anormal en los signos vitales o ubicación de Pet.
+* **Subscription plans:** Se refiere a las diferentes opciones de membresía o planes de suscripción ofrecidos a los Pet Owners para acceder a las funcionalidades premium de la aplicación PetHealth.
+* **Pet Registration:** Se refiere al proceso mediante el cual un Pet Owner registra a su mascota en la aplicación PetHealth, incluyendo detalles como nombre, raza, edad, y otros datos relevantes.
+* **Collar integration:** Se refiere a los pasos requeridos para sincronizar el nuevo PetHealth collar a la aplicación del Pet Owner.
+* **Client support:** Se refiere al servicio antivo que atiende y busca resolver las inquietudes y problemas de los usuarios.
+* **Software updates:** Se refiere a las mejoras y correcciones de errores realizadas en la aplicación PetHealth para garantizar su rendimiento óptimo y mantenerla actualizada con las últimas tecnologías y estándares de seguridad.
