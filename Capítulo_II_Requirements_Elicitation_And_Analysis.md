@@ -324,7 +324,6 @@ Grado Académico: Médico Veterinario
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
-esult (click "Generate" to refresh) Copy to clipboard  Preview
 |                       Task Matrix                     |  Pet Owner |  Pet Owner  |     Vet    |     Vet     |
 |:-----------------------------------------------------:|:----------:|:-----------:|:----------:|:-----------:|
 |                                               | Frecuencia | Importancia | Frecuencia | Importancia |
@@ -339,6 +338,17 @@ esult (click "Generate" to refresh) Copy to clipboard  Preview
 |             Recordatorio   de citas médicas           |   Media    |    Media    |    Media   |     Baja    |
 |                Reseñas   a Veterinarias               |    Baja    |     Alta    |      -     |      -      |
 |           Edición   de Información de Mascota         |    Baja    |     Alta    |    Alta    |     Alta    |
+
+#### Leyenda:
+Frecuencia:
+- Alta: Se realiza de forma frecuente.
+- Media: Se realiza de forma medianamente frecuente.
+- Baja: Se realiza esporádicamente / no se realiza.
+#### Importancia:
+- Alta: La tarea es esencial para el usuario y debe ser realizada sin dificultades.
+- Media: La tarea es importante, pero puede haber cierto grado de flexibilidad en la ejecución.
+- Baja: La tarea no es crítica y puede haber margen para la simplificación o automatización.
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
