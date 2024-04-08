@@ -325,7 +325,7 @@ Grado Académico: Médico Veterinario
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
 esult (click "Generate" to refresh) Copy to clipboard  Preview
-|                       Task Matrix                     |            |  Pet Owner  |     Vet    |             |
+|                       Task Matrix                     |  Pet Owner |  Pet Owner  |     Vet    |     Vet     |
 |:-----------------------------------------------------:|:----------:|:-----------:|:----------:|:-----------:|
 |                                               | Frecuencia | Importancia | Frecuencia | Importancia |
 |     Monitorización en tiempo real y análisis de salud |    Alta    |     Alta    |    Media   |     Alta    |
