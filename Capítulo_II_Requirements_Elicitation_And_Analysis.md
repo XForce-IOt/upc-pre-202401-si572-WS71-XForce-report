@@ -324,6 +324,21 @@ Grado Académico: Médico Veterinario
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
+esult (click "Generate" to refresh) Copy to clipboard  Preview
+|                       Task Matrix                     |            |  Pet Owner  |     Vet    |             |
+|:-----------------------------------------------------:|:----------:|:-----------:|:----------:|:-----------:|
+|                                               | Frecuencia | Importancia | Frecuencia | Importancia |
+|     Monitorización en tiempo real y análisis de salud |    Alta    |     Alta    |    Media   |     Alta    |
+|                  Alerta de estado anormal             |    Baja    |     Alta    |    Baja    |     Alta    |
+|         Reservación de cita en clínica veterinaria    |    Media   |     Alta    |    Media   |     Alta    |
+|             Intercambio de consejos de cuidado        |    Media   |    Media    |    Media   |    Media    |
+|         Gestión   de historia clínica de salud        |    Media   |     Alta    |    Alta    |     Alta    |
+|                  Gestión   de clientes                |      -     |      -      |    Alta    |    Media    |
+|             Gestión   de historial de citas           |    Media   |     Baja    |    Alta    |    Media    |
+|               Asignación   de medicación              |      -     |      -      |    Media   |     Alta    |
+|             Recordatorio   de citas médicas           |   Media    |    Media    |    Media   |     Baja    |
+|                Reseñas   a Veterinarias               |    Baja    |     Alta    |      -     |      -      |
+|           Edición   de Información de Mascota         |    Baja    |     Alta    |    Alta    |     Alta    |
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
