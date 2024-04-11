@@ -111,19 +111,19 @@ La arquitectura de software se refiere a la estructura fundamental de un sistema
 
 Es un diagrama que muestra la estructura general del sistema, incluyendo sus componentes clave, relaciones entre ellos y cómo se integran en el entorno tecnológico más amplio.
 
-[![Landscape.png](https://i.postimg.cc/wj2jL2BD/Landscape.png)](https://postimg.cc/G4BR1kGp)
+[![landscape.png](https://i.postimg.cc/C1RLzJ5X/landscape.png)](https://postimg.cc/2bfftQ47)
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams.
 
 Es un diagrama que proporciona una vista de alto nivel de los actores externos y sus interacciones con el sistema.
 
-[![Software-Architecture-Context-Level-Diagram.png](https://i.postimg.cc/0jP4YYjJ/Software-Architecture-Context-Level-Diagram.png)](https://postimg.cc/DJp5Fbq2)
+[![Context-Diagram.png](https://i.postimg.cc/KYgHjMFQ/Context-Diagram.png)](https://postimg.cc/JyMqdtsB)
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams.
 
 Es un diagrama que se enfoca en los contenedores de software y sus relaciones. Representa cómo la aplicación móvil, la API propia, el servidor de aplicación y la base de datos están organizados y cómo interactúan entre sí para proporcionar funcionalidades completas a los usuarios.
 
-[![Software-Architecture-Container-Level-Diagram.png](https://i.postimg.cc/jd81fJbL/Software-Architecture-Container-Level-Diagram.png)](https://postimg.cc/rKrgXszk)
+[![Container-Diagram.png](https://i.postimg.cc/QdF6YTBs/Container-Diagram.png)](https://postimg.cc/nXtYCMYw)
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams.
 
