@@ -313,6 +313,7 @@ Nombre: Beatriz Almora Chuquihuaccha
 Distrito de residencia: Independencia
 Edad: 56 años
 Grado académico: Técnico
+
 [![Entrevista Dueño de mascota 2](https://i.postimg.cc/RVdr8pzw/Cap-POwner.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69)
 
 - **Resumen**: Beatriz es una dueña de mascota de 56 años. Vine en Independencia y el dispositivo que más usa es el celular con sistema operativo Android. El navegador que más utiliza en Chrome. Las redes sociales que más usa son Whatsapp, Facebook y TikTok. Tiene 3 mascotas, 2 perros y un gato. Se preocupa en llevar la cuenta de los baños de sus mascotas y en la compra de sus alimentos. No le molesta cuidar a sus mascotas porque sabe que ellos son dependientes de ella. Tiene problemas respecto a la salud de sus mascotas. Ella no puede monitorear a sus mascotas por largos periodos de tiempo debido al trabajo, en estos casos, ella encarga su cuidado a su hojo.
@@ -327,17 +328,21 @@ Nombre: Cindia Martinez Olivia
 Edad: 37 años
 Distrito de residencia: Breña
 Grado Académico: Médico Veterinario
+
 [![Entrevista Veterinario 1](https://img.youtube.com/vi/4RhwqBvAMNs/0.jpg)](https://youtu.be/4RhwqBvAMNs)
   - **Resumen**:
     Cindia es una veterinaria de 37 años, que vive en Breña, usa principalmente Iphone iOS. En su trabajo, el animal que más atiende son los perros y lo traen al veterinario mayormente por enfermedades, tanto por su salud o edad. La cantidad de clientes que llegan cuando está en su turno es entre 10 a 12 clientes aproximadamente.  
     Cuenta que se debe llevar al veterinario a sus mascotas por lo menos 1 vez al mes. Manejan un software llamado MedPet, donde ingresan todos los datos de sus anteriores clientes, la salud de sus mascotas, el historial médico, como también la fecha del proximo baño de pulgas de la mascota. Las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo, según la doctora, para un cliente regular, es más fácil saber que es lo que tiene el animal, se obvia mucho procedimiento ya que tiene registrado sus anteriores enfermedades y puede calcular que es lo que tiene el animal, miéntras que un cliente nuevo, se tiene que realizar todos los examenes para saber exactamente que enfermedad tiene el animal.
 
 - Entrevista 2:
+- 
 Nombre: Grecia Elena Álvarez Medrano
 Edad: 33 años
 Distrito de residencia: Carabayllo
 Grado académico: Médico Veterinario
+
 [![Entrevista Veterinario 2](https://i.postimg.cc/4dJ1HPmQ/CapVet.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY)
+
 - **Resumen**:
 Grecia es una veterinaria de 33 años que vive en Carabayllo. El dispositivo que más usa es el celular con sistema operativo Android. Tiene una especialización en perros y gatos, que son los animales que más atiende. Atiende de 8 a 10 animales por día. Los pricipales motivos de las consultas son: inapentencia, fiebre o tienen garrapatas. Ella recomienda que las mascotas recivan citas veterinas según su edad: los más jóvenes cada año y a partir de los 5 años, 2 veces por año.
 Utiliza historias clínicas físicas para llevar los registros médicos de las mascotas que atiende. Pero espera en un futuro virtualizar este proceso. El procedimiento para la atención de una mascota es: Ingresar a recepción, crear una historia clínica física o buscar su historia existente, y ser atendidos. Todas las mascotas deben aperturar una historia clínica. 
