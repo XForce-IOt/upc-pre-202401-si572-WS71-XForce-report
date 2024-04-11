@@ -323,10 +323,10 @@ Tiene 4 años siendo dueña de mascotas.
 
 **Segmento: Veterinarios**
 - Entrevista 1:  
-Nombre: Cindia Martinez Olivia  
-Edad: 37 años  
-Distrito de residencia: Breña  
-Grado Académico: Médico Veterinario  
+Nombre: Cindia Martinez Olivia
+Edad: 37 años
+Distrito de residencia: Breña
+Grado Académico: Médico Veterinario
 [![Entrevista Veterinario 1](https://img.youtube.com/vi/4RhwqBvAMNs/0.jpg)](https://youtu.be/4RhwqBvAMNs)
   - **Resumen**:
     Cindia es una veterinaria de 37 años, que vive en Breña, usa principalmente Iphone iOS. En su trabajo, el animal que más atiende son los perros y lo traen al veterinario mayormente por enfermedades, tanto por su salud o edad. La cantidad de clientes que llegan cuando está en su turno es entre 10 a 12 clientes aproximadamente.  
