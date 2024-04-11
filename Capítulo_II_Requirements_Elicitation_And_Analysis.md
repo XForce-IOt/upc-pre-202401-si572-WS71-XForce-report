@@ -351,6 +351,12 @@ Utiliza historias clínicas físicas para llevar los registros médicos de las m
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+- Dueños de mascotas:
+![Pet Owner User Persona](./Resources/images/PetOwner.png)
+[UxPressia](https://uxpressia.com/w/4rB9D/p/MUnXl)
+- Médicos veterinarios:
+![Vet User Persona](./Resources/images/Vet.png)
+[UxPressia](https://uxpressia.com/w/4rB9D/p/rJ76I)
 ### 2.3.2. User Task Matrix.
 |                       Task Matrix                     |  Pet Owner |  Pet Owner  |     Vet    |     Vet     |
 |:-----------------------------------------------------:|:----------:|:-----------:|:----------:|:-----------:|
