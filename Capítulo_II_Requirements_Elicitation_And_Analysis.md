@@ -308,6 +308,17 @@ Link de la entrevista: https://www.youtube.com/watch?v=L07RnsSHmFw
 
 - **Resumen**: Nataly es una dueña de mascota de 23 años, que vive en Callao, usa principalmente Android. Nos comenta que tiene un veterinario de confianza al cual acude al menos 1 o 2 veces al mes, ya sea para un chequeo a su mascota o para un baño, corte de pelo de su mascota, también nos cuenta que cuando no está en casa, suele dejar a su mascota con algún familiar o amigo de confianza. Le gustaría una aplicación que le ayude a administrar los chequeos de su mascota para tener datos y estado medico de su mascota para de esa manera agilizar el proceso y tener un diagnóstico en caso algo llegue a suceder. 
 
+- Entrevista 2:
+Nombre: Beatriz Almora Chuquihuaccha
+Edad: 56 años
+[![Entrevista Dueño de mascota 2](https://i.postimg.cc/RVdr8pzw/Cap-POwner.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69)
+
+- **Resumen**: Beatriz es una dueña de mascota de 56 años. Vine en Independencia y el dispositivo que más usa es el celular con sistema operativo Android. El navegador que más utiliza en Chrome. Las redes sociales que más usa son Whatsapp, Facebook y TikTok. Tiene 3 mascotas, 2 perros y un gato. Se preocupa en llevar la cuenta de los baños de sus mascotas y en la compra de sus alimentos. No le molesta cuidar a sus mascotas porque sabe que ellos son dependientes de ella. Tiene problemas respecto a la salud de sus mascotas. Ella no puede monitorear a sus mascotas por largos periodos de tiempo debido al trabajo, en estos casos, ella encarga su cuidado a su hojo.
+Tiene un veterinario de confianza, donde realiza los baños, cortes de pelo, despulgue y revisiones médicos. Ella agenda sus citas cada 25 días y por llamada o whatsapp, donde coordinan la hora que necesite. Ella lleva la cuenta de las veces que lleva a sus mascotas al veterinario viendo la longitud del pelo de su perro. 
+Si su veterinario de confianza no estubiera disponible, buscaría otro veterinario disponible, lo cual le resultaría tedioso. 
+LAs marcas que usa son croquetas Ricocán, croquetas recomendadas por el veterinario (no recuerda el nombre) y shampoo Fresh Can. 
+Tiene 4 años siendo dueña de mascotas.
+
 **Segmento: Veterinarios**
 - Entrevista 1:  
 Nombre: Cindia Martinez Olivia  
@@ -318,6 +329,16 @@ Grado Académico: Médico Veterinario
   - **Resumen**:
     Cindia es una veterinaria de 37 años, que vive en Breña, usa principalmente Iphone iOS. En su trabajo, el animal que más atiende son los perros y lo traen al veterinario mayormente por enfermedades, tanto por su salud o edad. La cantidad de clientes que llegan cuando está en su turno es entre 10 a 12 clientes aproximadamente.  
     Cuenta que se debe llevar al veterinario a sus mascotas por lo menos 1 vez al mes. Manejan un software llamado MedPet, donde ingresan todos los datos de sus anteriores clientes, la salud de sus mascotas, el historial médico, como también la fecha del proximo baño de pulgas de la mascota. Las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo, según la doctora, para un cliente regular, es más fácil saber que es lo que tiene el animal, se obvia mucho procedimiento ya que tiene registrado sus anteriores enfermedades y puede calcular que es lo que tiene el animal, miéntras que un cliente nuevo, se tiene que realizar todos los examenes para saber exactamente que enfermedad tiene el animal.
+
+- Entrevista 2:
+Nombre: Grecia Elena Álvarez Medrano
+Edad: 33 años
+Distrito de residencia: Carabayllo
+Grado académico: Médico Veterinario
+[![Entrevista Veterinario 2](https://i.postimg.cc/4dJ1HPmQ/CapVet.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY)
+- **Resumen**:
+Grecia es una veterinaria de 33 años que vive en Carabayllo. El dispositivo que más usa es el celular con sistema operativo Android. Tiene una especialización en perros y gatos, que son los animales que más atiende. Atiende de 8 a 10 animales por día. Los pricipales motivos de las consultas son: inapentencia, fiebre o tienen garrapatas. Ella recomienda que las mascotas recivan citas veterinas según su edad: los más jóvenes cada año y a partir de los 5 años, 2 veces por año.
+Utiliza historias clínicas físicas para llevar los registros médicos de las mascotas que atiende. Pero espera en un futuro virtualizar este proceso. El procedimiento para la atención de una mascota es: Ingresar a recepción, crear una historia clínica física o buscar su historia existente, y ser atendidos. Todas las mascotas deben aperturar una historia clínica. 
 
 ### 2.2.3. Análisis de entrevistas.
 
