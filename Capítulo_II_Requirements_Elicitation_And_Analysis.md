@@ -335,7 +335,6 @@ Grado Académico: Médico Veterinario
     Cuenta que se debe llevar al veterinario a sus mascotas por lo menos 1 vez al mes. Manejan un software llamado MedPet, donde ingresan todos los datos de sus anteriores clientes, la salud de sus mascotas, el historial médico, como también la fecha del proximo baño de pulgas de la mascota. Las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo, según la doctora, para un cliente regular, es más fácil saber que es lo que tiene el animal, se obvia mucho procedimiento ya que tiene registrado sus anteriores enfermedades y puede calcular que es lo que tiene el animal, miéntras que un cliente nuevo, se tiene que realizar todos los examenes para saber exactamente que enfermedad tiene el animal.
 
 - Entrevista 2:
-- 
 Nombre: Grecia Elena Álvarez Medrano
 Edad: 33 años
 Distrito de residencia: Carabayllo
@@ -345,7 +344,16 @@ Grado académico: Médico Veterinario
 
 - **Resumen**:
 Grecia es una veterinaria de 33 años que vive en Carabayllo. El dispositivo que más usa es el celular con sistema operativo Android. Tiene una especialización en perros y gatos, que son los animales que más atiende. Atiende de 8 a 10 animales por día. Los pricipales motivos de las consultas son: inapentencia, fiebre o tienen garrapatas. Ella recomienda que las mascotas recivan citas veterinas según su edad: los más jóvenes cada año y a partir de los 5 años, 2 veces por año.
-Utiliza historias clínicas físicas para llevar los registros médicos de las mascotas que atiende. Pero espera en un futuro virtualizar este proceso. El procedimiento para la atención de una mascota es: Ingresar a recepción, crear una historia clínica física o buscar su historia existente, y ser atendidos. Todas las mascotas deben aperturar una historia clínica. 
+Utiliza historias clínicas físicas para llevar los registros médicos de las mascotas que atiende. Pero espera en un futuro virtualizar este proceso. El procedimiento para la atención de una mascota es: Ingresar a recepción, crear una historia clínica física o buscar su historia existente, y ser atendidos. Todas las mascotas deben aperturar una historia clínica.
+
+- Entrevista 3:
+Nombre: Henry Nicolas Velarde Bernales
+Edad: 24 años
+Distrito de residencia: Lima
+Grado académico: Estudiante Veterinario
+
+- **Resumen**:
+La entrevista realizada a Henry Nicolas Velarde Bernales un joven veterinario de 24 años, nos comenta que actualmente vive en Lima, actualmente se encuentra estudiando y trabajando, el dispositivo que más usa es el celular, con el sistema operativo de Android, en 5 años se ve teniendo su propia veterinaria y ayudando a varios animalitos en la calle. El navegador web que mas usa es el chrome, y la red social que más utiliza son WhatsApp y Facebook. El nos comenta que le gustan muchos los animales y le gusta ayudar.Henry nos comenta que las mascotas que mas atiende son perros y gatos, mas perros que gatos. A diario el recibe 7 u 8 clientes diarios, de los cuales la mayoria de visitas que recibe son por que sus mascotas se encuentran mal. El recomienda que las mascotas deben acudir al veterinario minimo 2 veces al año, para un chequeo, en caso no se presente ninguna enfermedad y pueda prevenir una enfermdad a largo plazo.Henry comenta que en la veterinaria donde trabaja mantienen los registrso de las mascotas en word y tambien en documentos fisicos. Nos comentó también como proceden ante un caso comun que ve a diario y uno de emergencia. En el caso común, es que llevan a la mascota por alergia, el veterinario lo chequea y le da su respectiva receta. Para el caso de emergencia, primero deben calmar al dueño, para que puedan hablar con el y les pueda dar mas detalles sobre lo que le sucede a la mascota,una vez identificado las causas, el veterinario procede con los respectivos protocolos para la pronta mejora de la mascota. Por ultimo acota que es muy importante una comunicacion clara con los dueños de las mascotas, ya que si no llegan a entenderse bien, el veterinario le puede estar aplicando una medicina que no es lo ideal para el caso que esta presentando la mascota.
 
 ### 2.2.3. Análisis de entrevistas.
 
