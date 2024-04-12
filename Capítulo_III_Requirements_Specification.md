@@ -154,6 +154,10 @@ En esta sección se presentarán las User Stories y Epics de nuestro proyecto. L
 
 ## 3.3. Impact Mapping.
 
+El Impact Mapping es una técnica de planificación estratégica que ayuda a visualizar cómo las acciones propuestas pueden contribuir a los objetivos de alto nivel. En el caso de la aplicación de bienestar animal, el Impact Mapping se centra en mejorar la salud y el bienestar de las mascotas, así como en fortalecer la relación entre dueños y veterinarios. A través de la tecnología y la innovación, la aplicación busca impactar positivamente en la calidad de vida de las mascotas y en la experiencia de sus dueños, al tiempo que facilita la comunicación y la colaboración con los profesionales de la salud animal.
+
+![Impact Map](Resources/images/Impact-map.png)
+
 ## 3.4. Product Backlog.
 
 El Product Backlog, inspirado en el análisis To-Be Scenario Mapping, se enfoca en mejorar el cuidado de mascotas mediante tecnología avanzada, destacando la importancia de un collar inteligente y una app. Prioriza funcionalidades para prevenir problemas de salud, optimizar el seguimiento del bienestar animal y mejorar la comunicación entre dueños y veterinarios. Este enfoque busca superar limitaciones actuales, mejorando la calidad del servicio y la experiencia de los usuarios, al tiempo que sienta las bases para futuras innovaciones en bienestar animal.
