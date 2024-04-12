@@ -391,7 +391,20 @@ Frecuencia:
 ![Vet Journey Mapping](./Resources/images/VetJM.png)
 [UxPressia](https://uxpressia.com/w/4rB9D/m/KXGlg)
 ### 2.3.4. Empathy Mapping.
+- Dueños de mascotas:
+![Pet Owner Empathy Mapping](./Resources/images/EmpathymapPetOwner.png)
+[UxPressia](https://uxpressia.com/w/4rB9D/p/i8qXM)
+- Médicos veterinarios:
+![Vet Empathy Mapping](./Resources/images/EmpathymapVet.png)
+[UxPressia](https://uxpressia.com/w/4rB9D/p/qYdfL)
 ### 2.3.5. As-is Scenario Mapping.
+- Dueños de mascotas:
+![Pet Owner As-is Scenario Mapping](./Resources/images/AsIsPetOwner.jpg)
+[Miro](https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088)
+- Médicos veterinarios:
+![Vet As-is Scenario Mapping](./Resources/images/AsIsVet.jpg)
+[Miro](https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088)
+
 
 ## 2.4. Ubiquitous Language.
 * **PetHealth:** Se refiere a la aplicación que yace en los dispositivos de los usuarios.
