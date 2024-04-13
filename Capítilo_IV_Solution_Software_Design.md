@@ -105,27 +105,35 @@ Para un mayor detalle revisar el tablero de Miro:
 
 #### Instalación del collar
 
-[![instalar-collar.jpg](https://i.postimg.cc/zBfzByc9/instalar-collar.jpg)](https://postimg.cc/kVk3Yg9c)
+[![instalacion-del-collar.jpg](https://i.postimg.cc/PJxzmPhG/instalacion-del-collar.jpg)](https://postimg.cc/G8WyR3Hz)
 
 #### Inicio de monitorización
 
-[![inicio-de-monitorizacion.jpg](https://i.postimg.cc/gJf2TYgQ/inicio-de-monitorizacion.jpg)](https://postimg.cc/sQ4zBRd4)
+[![inicio-de-monitorizacion-2.jpg](https://i.postimg.cc/4y7Hfts3/inicio-de-monitorizacion-2.jpg)](https://postimg.cc/JH8zKsyw)
 
-#### Función de monitorización
+#### Administración de cuenta de usuario
 
-[![funcion-de-monitorizacion.jpg](https://i.postimg.cc/tJQ9zBTH/funcion-de-monitorizacion.jpg)](https://postimg.cc/TL08dqgk)
+[![administraci-n-de-cuenta-de-usuario.jpg](https://i.postimg.cc/mkHhfsyz/administraci-n-de-cuenta-de-usuario.jpg)](https://postimg.cc/hQKKTNwc)
+
+#### Monitorización de la salud de las mascotas
+
+[![monitorizacion-de-la-salud-de-las-mascotas.jpg](https://i.postimg.cc/wM80LDF1/monitorizacion-de-la-salud-de-las-mascotas.jpg)](https://postimg.cc/r0j1L0BT)
 
 #### Respuesta de alertas
 
-[![respuesta-de-alertas.jpg](https://i.postimg.cc/sDzVQHqY/respuesta-de-alertas.jpg)](https://postimg.cc/NLNhZDgF)
+[![Respuesta-de-alertas-2.jpg](https://i.postimg.cc/t4Tt1ryr/Respuesta-de-alertas-2.jpg)](https://postimg.cc/9r6qKYDT)
 
 #### Programación de cita
 
-[![programacion-de-cita.jpg](https://i.postimg.cc/wjTgFy63/programacion-de-cita.jpg)](https://postimg.cc/PPcg5qvk)
+[![Programacion-de-cita-2.jpg](https://i.postimg.cc/D0x4nTW7/Programacion-de-cita-2.jpg)](https://postimg.cc/V0bkW2Bh)
+
+#### Gestión de citas
+
+[![Gestion-de-citas.jpg](https://i.postimg.cc/FRZ7V4V0/Gestion-de-citas.jpg)](https://postimg.cc/gXxzG150)
 
 #### Context Mapping
 
-[![context-mapping.jpg](https://i.postimg.cc/43jGJWph/context-mapping.jpg)](https://postimg.cc/KK7wfrqZ)
+[![context-mapping-1.jpg](https://i.postimg.cc/bJzJ6wg3/context-mapping-1.jpg)](https://postimg.cc/rdPMscvr)
 
 Para un mayor detalle revisar el tablero de Miro: 
 [Context Mapping PetHealth](https://miro.com/app/board/uXjVKVvjW8w=/?share_link_id=983505004568 "Context Mapping PetHealth")
