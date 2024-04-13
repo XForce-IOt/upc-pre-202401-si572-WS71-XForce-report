@@ -356,8 +356,31 @@ Grado académico: Estudiante Veterinario
 La entrevista realizada a Henry Nicolas Velarde Bernales un joven veterinario de 24 años, nos comenta que actualmente vive en Lima, actualmente se encuentra estudiando y trabajando, el dispositivo que más usa es el celular, con el sistema operativo de Android, en 5 años se ve teniendo su propia veterinaria y ayudando a varios animalitos en la calle. El navegador web que mas usa es el chrome, y la red social que más utiliza son WhatsApp y Facebook. El nos comenta que le gustan muchos los animales y le gusta ayudar.Henry nos comenta que las mascotas que mas atiende son perros y gatos, mas perros que gatos. A diario el recibe 7 u 8 clientes diarios, de los cuales la mayoria de visitas que recibe son por que sus mascotas se encuentran mal. El recomienda que las mascotas deben acudir al veterinario minimo 2 veces al año, para un chequeo, en caso no se presente ninguna enfermedad y pueda prevenir una enfermdad a largo plazo.Henry comenta que en la veterinaria donde trabaja mantienen los registrso de las mascotas en word y tambien en documentos fisicos. Nos comentó también como proceden ante un caso comun que ve a diario y uno de emergencia. En el caso común, es que llevan a la mascota por alergia, el veterinario lo chequea y le da su respectiva receta. Para el caso de emergencia, primero deben calmar al dueño, para que puedan hablar con el y les pueda dar mas detalles sobre lo que le sucede a la mascota,una vez identificado las causas, el veterinario procede con los respectivos protocolos para la pronta mejora de la mascota. Por ultimo acota que es muy importante una comunicacion clara con los dueños de las mascotas, ya que si no llegan a entenderse bien, el veterinario le puede estar aplicando una medicina que no es lo ideal para el caso que esta presentando la mascota.
 
 ### 2.2.3. Análisis de entrevistas.
+#### Pet Owners
+- La edad promedio de los Pet Owners es 34 años.
+  [![edad-Promedio-PO.png](https://i.postimg.cc/Dz6zYjNJ/edad-Promedio-PO.png)](https://postimg.cc/GBBr4Qdd)
+- El 100% de los Pet Owners viven en Lima.
+  [![viven-En-Lima-PO.png](https://i.postimg.cc/y6yzhgwx/viven-En-Lima-PO.png)](https://postimg.cc/SjR5ksQb)
+- El dispositivo peferido de los pert Owners es el Smartphone
+  [![dispositivo-Preferido-PO.png](https://i.postimg.cc/Twht4P9z/dispositivo-Preferido-PO.png)](https://postimg.cc/Fd5bfNwp)
+- El Sistema operativo más usado es Android.
+  [![SOPreferido-PO.png](https://i.postimg.cc/8cmfdRvN/SOPreferido-PO.png)](https://postimg.cc/RJq04nGD)
+- El navegador web más usado es Chrome.
+  [![navegador-Web-Preferido-PO.png](https://i.postimg.cc/0jV22cmM/navegador-Web-Preferido-PO.png)](https://postimg.cc/2LBf0d0r)
+- Redes sociales:
+  [![redes-Sociales-PO.png](https://i.postimg.cc/Qt6RFP43/redes-Sociales-PO.png)](https://postimg.cc/LY1y7yFC)
+- El promedio de la cantidad de mascotas que tienen es 3
+  [![num-Mascotas-Promedio-PO.png](https://i.postimg.cc/J0NYb2K0/num-Mascotas-Promedio-PO.png)](https://postimg.cc/p5dBvkwM)
+- Las especies de mascotas que tienen:
+  [![por-Mascotas-PO.png](https://i.postimg.cc/mg5jF4RV/por-Mascotas-PO.png)](https://postimg.cc/JsjZ99sB)
+- El 100% tiene un veterinario de confianza
+  [![tienen-Vet-Confianza-PO.png](https://i.postimg.cc/D0N0PxZV/tienen-Vet-Confianza-PO.png)](https://postimg.cc/64dB9Lnz)
+- Los Pet owners llevan a sus mascotas al veterinario cada 26 días en promedio
+  [![intervalo-Entre-Citas-PO.png](https://i.postimg.cc/prmXrKBs/intervalo-Entre-Citas-PO.png)](https://postimg.cc/vxddSgkn)
+- Canales de comunicación con sus veterinarios:
+  [![canal-Comunicacion-Vets-PO.png](https://i.postimg.cc/NMSL1NF3/canal-Comunicacion-Vets-PO.png)](https://postimg.cc/vg7QytWh)
 
-[Enlade a excel](https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EfvlPHpUGshHs-7rN9eOosMBJX_-CRykCce26yLYVVHufg?e=TYyfqn)
+[Enlace a excel](https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EfvlPHpUGshHs-7rN9eOosMBJX_-CRykCce26yLYVVHufg?e=TYyfqn)
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 - Dueños de mascotas:
