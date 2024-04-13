@@ -1,5 +1,3 @@
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/83188290/77954ff2-30da-4c11-8570-5cb93dfdd246)# Capítulo IV: Solution Software Design
-
 ## 4.1. Strategic-Level Domain-Driven Design.
 ### 4.1.1. EventStorming.
 Nuestro proceso de event storming se realizó en la herramienta MIRO, donde se realizó todo el proceso.
