@@ -380,7 +380,31 @@ La entrevista realizada a Henry Nicolas Velarde Bernales un joven veterinario de
 - Canales de comunicación con sus veterinarios:
   [![canal-Comunicacion-Vets-PO.png](https://i.postimg.cc/NMSL1NF3/canal-Comunicacion-Vets-PO.png)](https://postimg.cc/vg7QytWh)
 
+#### Vets
+- La edad promedio de los Vets es 31 años.
+  [![edad-Promedio-V.png](https://i.postimg.cc/vHS25ftW/edad-Promedio-V.png)](https://postimg.cc/bskRhGMJ)
+
+- El 100% de los Vets entrevistados viven en Lima.
+  [![viven-En-Lima-V.png](https://i.postimg.cc/prrYdc73/viven-En-Lima-V.png)](https://postimg.cc/K3Xgqfm5)
+- El dispositivo más usado por los Vets es el Smartphone.
+  [![dispositivo-Preferido-V.png](https://i.postimg.cc/fWV8DJNy/dispositivo-Preferido-V.png)](https://postimg.cc/PNkWMfNn)
+- El 66.6% usa Android frente al 33.3% restante.
+  [![SOPreferido-V.png](https://i.postimg.cc/brqY0K8F/SOPreferido-V.png)](https://postimg.cc/vgSdb24W)
+- Redes sociales:
+  [![redes-Sociales-V.png](https://i.postimg.cc/vHkFbpkF/redes-Sociales-V.png)](https://postimg.cc/hfL303Kp)
+- Especies atendidas:
+  [![especies-Atendidas-V.png](https://i.postimg.cc/JhKp4X0D/especies-Atendidas-V.png)](https://postimg.cc/672rMydt)
+- Los Vets atienden a 10 clientes diarios en promedio.
+  [![promedio-Clientes-Diarios-V.png](https://i.postimg.cc/wjqfKFT8/promedio-Clientes-Diarios-V.png)](https://postimg.cc/4m0bV69B)
+- El principal motivo de las consultas es por enfermedades.
+  [![principal-Motivo-Consultas-V.png](https://i.postimg.cc/5ypz85cL/principal-Motivo-Consultas-V.png)](https://postimg.cc/304WTvxx)
+- La fecuencia recomendada de las visitas es 2 por año.
+  [![cant-Visitas-Recomendadas-V.png](https://i.postimg.cc/02bjt1DL/cant-Visitas-Recomendadas-V.png)](https://postimg.cc/ykC7d5fP)
+- Sistemas usados por las clínicas veterinarias:
+  [![sistema-Registro-Hist-Medico-V.png](https://i.postimg.cc/NGVBj92z/sistema-Registro-Hist-Medico-V.png)](https://postimg.cc/LhzrysTt)
+
 [Enlace a excel](https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EfvlPHpUGshHs-7rN9eOosMBJX_-CRykCce26yLYVVHufg?e=TYyfqn)
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 - Dueños de mascotas:
