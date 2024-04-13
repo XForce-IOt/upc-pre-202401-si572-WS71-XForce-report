@@ -138,22 +138,22 @@ La arquitectura de software se refiere a la estructura fundamental de un sistema
 
 Es un diagrama que muestra la estructura general del sistema, incluyendo sus componentes clave, relaciones entre ellos y cómo se integran en el entorno tecnológico más amplio.
 
-[![landscape.png](https://i.postimg.cc/C1RLzJ5X/landscape.png)](https://postimg.cc/2bfftQ47)
+[![landscape-1-1.png](https://i.postimg.cc/zfPT5zTp/landscape-1-1.png)](https://postimg.cc/KKB1Dyqg)
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams.
 
 Es un diagrama que proporciona una vista de alto nivel de los actores externos y sus interacciones con el sistema.
 
-[![Context-Diagram.png](https://i.postimg.cc/KYgHjMFQ/Context-Diagram.png)](https://postimg.cc/JyMqdtsB)
+[![Context-Diagram-1.png](https://i.postimg.cc/prKjDK41/Context-Diagram-1.png)](https://postimg.cc/RJVqmJMc)
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams.
 
 Es un diagrama que se enfoca en los contenedores de software y sus relaciones. Representa cómo la aplicación móvil, la API propia, el servidor de aplicación y la base de datos están organizados y cómo interactúan entre sí para proporcionar funcionalidades completas a los usuarios.
 
-[![Container-Diagram.png](https://i.postimg.cc/QdF6YTBs/Container-Diagram.png)](https://postimg.cc/nXtYCMYw)
+[![Container-Diagram-1.png](https://i.postimg.cc/Gh1GbSs0/Container-Diagram-1.png)](https://postimg.cc/vD3czhzX)
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams.
 
 Este diagrama muestra cómo los diferentes elementos del sistema, como aplicaciones, servidores, bases de datos y dispositivos de usuario, se despliegan en nodos físicos o virtuales, y cómo se conectan entre sí para que el sistema funcione correctamente en el entorno de producción.
 
-[![Deployment-Diagram.png](https://i.postimg.cc/0jwVQ3bx/Deployment-Diagram.png)](https://postimg.cc/n9n4S34w)
+[![Deployment-Diagram-2-1.png](https://i.postimg.cc/qv13XJD0/Deployment-Diagram-2-1.png)](https://postimg.cc/rDtsqkLY)
