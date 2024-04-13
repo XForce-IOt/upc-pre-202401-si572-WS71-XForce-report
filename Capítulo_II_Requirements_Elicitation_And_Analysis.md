@@ -357,6 +357,7 @@ La entrevista realizada a Henry Nicolas Velarde Bernales un joven veterinario de
 
 ### 2.2.3. Análisis de entrevistas.
 
+[Enlade a excel](https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EfvlPHpUGshHs-7rN9eOosMBJX_-CRykCce26yLYVVHufg?e=TYyfqn)
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 - Dueños de mascotas:
