@@ -103,6 +103,33 @@ Para un mayor detalle revisar el tablero de Miro:
 #### 4.1.1.3 Bounded Context Canvases.
 ### 4.1.2. Context Mapping.
 
+#### Instalación del collar
+
+[![instalar-collar.jpg](https://i.postimg.cc/zBfzByc9/instalar-collar.jpg)](https://postimg.cc/kVk3Yg9c)
+
+#### Inicio de monitorización
+
+[![inicio-de-monitorizacion.jpg](https://i.postimg.cc/gJf2TYgQ/inicio-de-monitorizacion.jpg)](https://postimg.cc/sQ4zBRd4)
+
+#### Función de monitorización
+
+[![funcion-de-monitorizacion.jpg](https://i.postimg.cc/tJQ9zBTH/funcion-de-monitorizacion.jpg)](https://postimg.cc/TL08dqgk)
+
+#### Respuesta de alertas
+
+[![respuesta-de-alertas.jpg](https://i.postimg.cc/sDzVQHqY/respuesta-de-alertas.jpg)](https://postimg.cc/NLNhZDgF)
+
+#### Programación de cita
+
+[![programacion-de-cita.jpg](https://i.postimg.cc/wjTgFy63/programacion-de-cita.jpg)](https://postimg.cc/PPcg5qvk)
+
+#### Context Mapping
+
+[![context-mapping.jpg](https://i.postimg.cc/43jGJWph/context-mapping.jpg)](https://postimg.cc/KK7wfrqZ)
+
+Para un mayor detalle revisar el tablero de Miro: 
+[Context Mapping PetHealth](https://miro.com/app/board/uXjVKVvjW8w=/?share_link_id=983505004568 "Context Mapping PetHealth")
+
 ### 4.1.3. Software Architecture.
 
 La arquitectura de software se refiere a la estructura fundamental de un sistema de software, incluyendo sus componentes, relaciones, y principios de diseño. Esta disciplina implica diseñar y organizar los diferentes elementos del software para lograr un sistema funcional, eficiente, escalable y fácil de mantener. Se consideran aspectos como la distribución de tareas, la comunicación entre componentes, la gestión de datos y la seguridad del sistema. A continuación, veremos los diagramas de arquitectura de software relacionados a PetHealth. 
