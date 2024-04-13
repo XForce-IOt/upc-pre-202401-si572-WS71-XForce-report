@@ -21,6 +21,10 @@ En un mundo donde las mascotas son consideradas parte integral de la familia, el
 
 Soy estudiante de Ingeniería de Software en la Universidad UPC, valoro enormemente la colaboración en equipo como un pilar fundamental en el éxito de cualquier proyecto. Mi enfoque en el trabajo en equipo se basa en la comunicación abierta y la capacidad de escuchar activamente las ideas y perspectivas de mis compañeros. Reconozco que la diversidad de opiniones y habilidades en un equipo es clave para encontrar soluciones creativas y efectivas a los desafíos que enfrentamos en el desarrollo de software.
 
+#### Jesica Rut Jaramillo Almora
+Carrera de Ingeniería de Software
+Espero poder profundizar mis conocimientos y habilidades para desarrollar proyectos de software que propongan nuevas soluciones a problemas actuales o inactuales. Actualmente disfruto más desarrollando la interfaz de usuario, sea en una aplicación de escritorio, web o móvil. Sin embargo, espero adquirir el mismo gusto por el desarrollo del Backend a través del nuevo enfoque del curso.
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 **Antecedente**
