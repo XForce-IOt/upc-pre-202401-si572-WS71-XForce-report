@@ -122,3 +122,69 @@ Es un diagrama que se enfoca en los contenedores de software y sus relaciones. R
 Este diagrama muestra cómo los diferentes elementos del sistema, como aplicaciones, servidores, bases de datos y dispositivos de usuario, se despliegan en nodos físicos o virtuales, y cómo se conectan entre sí para que el sistema funcione correctamente en el entorno de producción.
 
 [![Deployment-Diagram-2-1.png](https://i.postimg.cc/qv13XJD0/Deployment-Diagram-2-1.png)](https://postimg.cc/rDtsqkLY)
+
+## 4.2. Tactical-Level Domain-Driven Design
+### 4.2.1. Bounded Context: Motitorizacion de salud de mascota
+#### 4.2.1.1. Domain Layer.
+- Pet: Entidad que representa a una mascota y contiene métodos para acceder a su historial de salud y programar citas veterinarias.
+- PetOwner: Entidad que representa al dueño de la mascota, incluye métodos para acceder a la información de sus mascotas
+
+#### 4.2.1.2. Interface Layer.
+- HealthMonitoringController: Este controlador maneja las solicitudes relacionadas con la monitorización de la salud de las mascotas. Tendrá métodos para iniciar el proceso de detección de enfermedades, registrar comportamientos anómalos y obtener el historial de salud de la mascota.
+- PetOwnerController: Este controlador se encargará de las acciones relacionadas con los dueños de las mascotas. Tendrá metodos para acceder a la información de las mascotas de una persona y recibir alertas de salud.
+- HealthAlertConsumer: Escuchará eventos relacionados con la detección de enfermedades y conductas anómalas. Cuando se detecte cualquiera de los dos casos envía una notificación al dueño de la mascota mediante la aplicación.
+- HealthStatus: Contendrá la información sobre el estado de salud actual de la mascota, incluyendo frecuencia cardiaca, temperatura y cualquier anomalía detectada. Esta información se podrá ver en la interfaz de usuario de la aplicación móvil para que el dueño de la mascota lo vea.
+
+#### 4.2.1.3. Application Layer.
+- HealthMonitoringService: Este servicio sería responsable de coordinar la monitorización de la salud de las mascotas. Podría contener métodos para iniciar el proceso de detección de enfermedades, registrar comportamientos anómalos y almacenar el historial de salud de la mascota.
+- PetManagementService: Este servicio manejaría las operaciones relacionadas con la gestión de mascotas y sus propietarios. Podría tener métodos para acceder a la información de las mascotas de un propietario y enviar alertas de salud utilizando los servicios proporcionados por el Interface Layer.
+- PetHealthHistoryService: Este servicio sería responsable de manejar el historial de salud de las mascotas. Podría contener métodos para acceder al historial de salud de una mascota específica, agregar nuevos registros de salud y realizar consultas sobre el estado de salud pasado de la mascota.
+
+#### 4.2.1.4. Infrastructure Layer.
+- PetRepository: Esta clase sería responsable de interactuar con la base de datos para almacenar y recuperar información sobre las mascotas. Podría proporcionar métodos para agregar nuevas mascotas, actualizar su información y recuperar detalles específicos sobre una mascota.
+- PetOwnerRepository: Esta clase manejaría la persistencia de información relacionada con los dueños de mascotas, como su información de contacto y la lista de mascotas asociadas. Podría proporcionar métodos para agregar nuevos propietarios, vincular mascotas a propietarios existentes y recuperar información sobre propietarios específicos.
+
+#### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams.
+#### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams.
+##### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams.
+##### 4.2.1.7.2. Bounded Context Database Design Diagram.
+### 4.2.2. Bounded Context: Respuesta de alertas
+#### 4.2.2.1. Domain Layer.
+- HealthAlert: Esta entidad representaría una alerta de salud generada por el sistema cuando se detecta una enfermedad o un comportamiento anómalo en una mascota. Podría contener detalles como la mascota afectada, el tipo de alerta (enfermedad, comportamiento anómalo, ubicación fuera del perímetro), la fecha y hora de la detección y cualquier información adicional relevante.
+
+#### 4.2.2.2. Interface Layer.
+- HealthAlertNotificationManager: Este administrador de notificaciones será responsable de enviar alertas de salud a los dueños de mascotas cuando se detecten enfermedades, comportamientos anómalos o la ubicación de la mascota salga del perímetro establecido.
+- LocationController: Este controlador maneja las acciones relacionadas con la ubicación de la mascota. Tendrá métodos para visualizar la ubicación de la mascota.
+
+#### 4.2.2.3. Application Layer.
+- HealthAlertService: Este servicio sería responsable de manejar los eventos relacionados con la detección de enfermedades y comportamientos anómalos. Cuando se detecte una enfermedad, un comportamiento inusual o salga del perimetro, este servicio podría activar el HealthAlertNotificationManager para enviar notificaciones a los propietarios de mascotas.
+- LocationService: Éste se encargará de guardar las coordenadas en donde se encuentre la mascota, controlando que no salga del perímetro establecido.
+
+#### 4.2.2.4. Infrastructure Layer.
+- GoogleMapsApi: Permitirá interactuar con la API de Google Maps para obtener información sobre la ubicación de las mascotas
+
+#### 4.2.2.6. Bounded Context Software Architecture Component Level Diagrams.
+#### 4.2.2.7. Bounded Context Software Architecture Code Level Diagrams.
+##### 4.2.2.7.1. Bounded Context Domain Layer Class Diagrams.
+##### 4.2.2.7.2. Bounded Context Database Design Diagram.
+### 4.2.3. Bounded Context: Programación de citas
+#### 4.2.3.1. Domain Layer.
+- Vet: Esta entidad representaría a un veterinario. Podría incluir detalles como el nombre del veterinario, la dirección de la clínica.
+- Appointment: Esta entidad representaría una cita veterinaria programada para una mascota en particular. Podría contener detalles como la fecha y hora de la cita, el motivo de la visita y la mascota asociada.
+
+#### 4.2.3.2. Interface Layer.
+- AppointmentController: Este controlador podría manejar las solicitudes relacionadas con la programación y gestión de citas veterinarias. Podría tener métodos para programar nuevas citas,reprogramar o cancelar citas existentes, buscar citas por mascota o fecha, y enviar recordatorios de citas a los propietarios de mascotas.
+- AppointmentView: Esta clase podría ser responsable de mostrar información sobre las citas veterinarias en la interfaz de usuario del sistema. Podría presentar las citas en un formato fácil de entender, mostrando detalles como la fecha y hora de la cita, el motivo de la visita y la información de contacto del veterinario.
+
+#### 4.2.3.3. Application Layer.
+- AppointmentManagementService: Este servicio sería responsable de coordinar la gestión de citas veterinarias. Podría contener métodos para programar nuevas citas, cancelar citas existentes, buscar citas por mascota o fecha, y enviar recordatorios de citas a los propietarios de mascotas.
+- AppointmentValidationService: Este servicio manejaría la validación de nuevas citas antes de ser programadas. Podría verificar la disponibilidad de horarios, asegurarse de que la mascota esté disponible para la cita y validar cualquier requisito adicional necesario para la programación de la cita.
+- AppointmentCancellationService: Este servicio sería responsable de manejar la cancelación de citas veterinarias. Podría contener métodos para cancelar citas existentes y manejar cualquier lógica relacionada con la política de cancelación, como la aplicación de tarifas por cancelaciones tardías.
+
+#### 4.2.3.4. Infrastructure Layer.
+- Database: Esta capa sería responsable de interactuar con la base de datos para almacenar y recuperar información sobre las citas veterinarias programadas. Podría contener clases para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en la tabla de citas, así como en tablas relacionadas, como la información de las mascotas y los propietarios.
+
+#### 4.2.3.6. Bounded Context Software Architecture Component Level Diagrams.
+#### 4.2.3.7. Bounded Context Software Architecture Code Level Diagrams.
+##### 4.2.3.7.1. Bounded Context Domain Layer Class Diagrams.
+##### 4.2.3.7.2. Bounded Context Database Design Diagram.
