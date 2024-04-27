@@ -1,4 +1,4 @@
-# Índice
+# Tabla de contenidos
 
 <ol>
   <li>
