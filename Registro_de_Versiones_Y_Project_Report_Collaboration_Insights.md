@@ -13,3 +13,9 @@ Se obserban cas contribuciones hechas a la rama main hasta el día 13-04-2024
 
 #### Evidencias del TP
 Se obserban cas contribuciones hechas a la rama main hasta el día 01-05-2024
+
+### Student Outcome
+| Criterio Específico                                                                                                                                 | Acciones Realizadas         | Conclusiones |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia,eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Nombre TB1 TP Nombre TB1 TP |              |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                            | Nombre TB1 TP Nombre TB1 TP |              |
