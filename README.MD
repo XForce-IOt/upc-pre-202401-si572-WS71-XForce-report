@@ -5,6 +5,8 @@
 
 **Ingeniería de Software**
 
+Ciclo: 2024-1
+
 </div>
 
 Curso: Desarrollo de Soluciones IoT
@@ -13,11 +15,9 @@ Sección: WS71
 
 Profesor: Velasquez Nuñez, Angel Augusto
 
-Ciclo: 2024-1
-
 ---
 
-# TB1
+# Informe del Trabajo Final
 
 ## XForce
 
