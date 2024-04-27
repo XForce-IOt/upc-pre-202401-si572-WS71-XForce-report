@@ -35,5 +35,5 @@ Profesor: Velasquez Nuñez, Angel Augusto
 
 <div align="right"><Abril 2024></div>
 <p align="right">
-(<a href="https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/blob/develop/%C3%8Dndice.md"> Índice</a>)
+(<a href="https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/blob/develop/Contenido.md"> Tabla de Contenido</a>)
 </p>
