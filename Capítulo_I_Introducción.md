@@ -27,8 +27,7 @@ Espero poder profundizar mis conocimientos y habilidades para desarrollar proyec
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-**Antecedente**
-
+**Antecedente**  
 En la última década se le ha dado más importancia al cuidado de las mascotas, en algunas familias llegan a considerarlos un miembro más de ellos. Debido a esto, su atención y cuidado ha sido más meticuloso. En este contexto las personas siempre quieren estar al tanto de la salud de sus mascotas y procurar que no sufran ningún daño. Por ello, si ven a su mascota un poco rara o con actitudes anormales buscan ayuda profesional y lo llevan al veterinario para saber qué le sucede. Sin embargo, al llegar al veterinario puede ser difícil explicar la situación en la que se encuentra su mascota, esto puede llevar a que el veterinario no entienda bien los síntomas y no de un diagnóstico certero para su cuidado.
 
 **Problematica**  
@@ -50,11 +49,11 @@ El precio estimado no es calculable, debido a que usaremos herramientas gratuita
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-**Dueño de mascotas**
+**Dueño de mascotas**  
 Las personas que tienen mascotas siempre están atentos a su bienestar y procuran darle una buena calidad de vida, sin embargo, no todos pueden reconocer al instante algún síntoma que con el pasar del tiempo puede ser perjudicial para la salud de su mascota, esto debido a que muchas personas pasan la mayor parte del día fuera de casa ya sea por trabajo, estudios, u otros quehaceres, dejando solas a sus mascotas en casa. En algunos casos esto puede ser peligroso para las mascotas que sufren de alguna enfermedad severa y necesitan una mayor atención.
 ¿Cómo podemos saber el estado actual de la salud de nuestras mascotas desde cualquier lugar en el que nos encontremos?
 
-**Veterinarios**
+**Veterinarios**  
 Hoy en día las veterinarias son tan importantes como un centro de salud, debido a que la salud de las mascotas es tan importante como de las personas, sin embargo al momento de conversar con el veterinario sobre la salud de las mascotas, muchas dueños no saben como explicar o detallar algunos síntomas que han presentado las mascotas, ya sea porque no están todo el dia con ellos u otros motivos, esto dificulta la labor del veterinario porque no puede dar un diagnóstico certero para recuperar la buena salud de la mascota.
 ¿Como los veterinarios podrían conocer mejor los síntomas que han presentado las mascotas para poder otorgar un diagnóstico certero que ayude en su recuperación?
 
