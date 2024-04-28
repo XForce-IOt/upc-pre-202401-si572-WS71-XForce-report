@@ -34,24 +34,31 @@ En la última década se le ha dado más importancia al cuidado de las mascotas,
 **Problematica**
 
 *What?*
+
 Desarrollar un collar inteligente que ayude a monitorear la salud de la mascota y proporcione los síntomas de manera rápida a los veterinarios
 
 *Why?*
+
 Porque los dueños quieren garantizar el bienestar y la salud de sus mascotas
 
 *Who?*
+
 El equipo Xforce se encargará del desarrollo de la aplicación móvil y del collar para monitorear la salud de la mascota, mientras que el veterinario se encargará de dar los diagnósticos
 
 *When?*
+
 En los próximos 2 meses
 
 *Where?*
+
 El proyecto se puede avanzar de manera online y algunas reuniones se realizarán en la universidad
 
 *How?*
+
 Tendremos reuniones y designaremos tareas para el desarrollo del proyecto
 
 *How Much?*
+
 El precio estimado no es calculable, debido a que usaremos herramientas gratuitas para el desarrollo de este proyecto
 
 
