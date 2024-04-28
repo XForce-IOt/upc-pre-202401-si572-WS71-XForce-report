@@ -31,31 +31,21 @@ Espero poder profundizar mis conocimientos y habilidades para desarrollar proyec
 
 En la última década se le ha dado más importancia al cuidado de las mascotas, en algunas familias llegan a considerarlos un miembro más de ellos. Debido a esto, su atención y cuidado ha sido más meticuloso. En este contexto las personas siempre quieren estar al tanto de la salud de sus mascotas y procurar que no sufran ningún daño. Por ello, si ven a su mascota un poco rara o con actitudes anormales buscan ayuda profesional y lo llevan al veterinario para saber qué le sucede. Sin embargo, al llegar al veterinario puede ser difícil explicar la situación en la que se encuentra su mascota, esto puede llevar a que el veterinario no entienda bien los síntomas y no de un diagnóstico certero para su cuidado.
 
-**Problematica**
-
-*What?*
-
-Desarrollar un collar inteligente que ayude a monitorear la salud de la mascota y proporcione los síntomas de manera rápida a los veterinarios
-
-*Why?*
-
-Porque los dueños quieren garantizar el bienestar y la salud de sus mascotas
-
-*Who?*
-
-El equipo Xforce se encargará del desarrollo de la aplicación móvil y del collar para monitorear la salud de la mascota, mientras que el veterinario se encargará de dar los diagnósticos
-
-*When?*
-En los próximos 2 meses
-
-*Where?*
-El proyecto se puede avanzar de manera online y algunas reuniones se realizarán en la universidad
-
-*How?*
-Tendremos reuniones y designaremos tareas para el desarrollo del proyecto
-
-*How Much?*
-El precio estimado no es calculable, debido a que usaremos herramientas gratuitas para el desarrollo de este proyecto
+**Problematica**  
+*What?*  
+Desarrollar un collar inteligente que ayude a monitorear la salud de la mascota y proporcione los síntomas de manera rápida a los veterinarios  
+*Why?*  
+Porque los dueños quieren garantizar el bienestar y la salud de sus mascotas  
+*Who?*  
+El equipo Xforce se encargará del desarrollo de la aplicación móvil y del collar para monitorear la salud de la mascota, mientras que el veterinario se encargará de dar los diagnósticos  
+*When?*  
+En los próximos 2 meses  
+*Where?*  
+El proyecto se puede avanzar de manera online y algunas reuniones se realizarán en la universidad  
+*How?*  
+Tendremos reuniones y designaremos tareas para el desarrollo del proyecto  
+*How Much?*  
+El precio estimado no es calculable, debido a que usaremos herramientas gratuitas para el desarrollo de este proyecto  
 
 
 ### 1.2.2 Lean UX Process.
