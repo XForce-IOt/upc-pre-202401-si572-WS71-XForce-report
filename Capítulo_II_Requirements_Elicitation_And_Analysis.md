@@ -469,7 +469,7 @@ Se describe el viaje del usuario Vet. Desde haber identicado un problema durante
 Uxpressia: ![Vet Journey Mapping](./Resources/images/VetJME.png)
 [https://uxpressia.com/w/4rB9D/m/KXGlg](https://uxpressia.com/w/4rB9D/m/KXGlg)
 ### 2.3.4. Empathy Mapping.
-En esta sección se utilizaron los User Personas previamente creados para que el equipo de desarrolo obtenga una vición más profunda de cada segmento. Esto se realizó a través de las preguntas:  ¿Con quién estamos empatizando? ¿Qué necesita hacer? ¿Qué está
+En esta sección se utilizaron los User Personas previamente creados para que el equipo de desarrolo obtenga una visión más profunda de cada segmento. Esto se realizó a través de las preguntas:  ¿Con quién estamos empatizando? ¿Qué necesita hacer? ¿Qué está
 diciendo? ¿Qué está viendo? ¿Qué está haciendo? ¿Qué está escuchando? ¿Cómo se
 siente y qué piensa? Identificar Pains y Gains en base a las preguntas ¿Qué le
 preocupa? Y ¿Qué puede ayudar a resolver sus problemas? ¿Qué puede convencerlo
