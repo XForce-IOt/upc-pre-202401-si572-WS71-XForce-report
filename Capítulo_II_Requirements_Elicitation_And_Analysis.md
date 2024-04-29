@@ -305,21 +305,21 @@ En esta sección se adjuntan las evidencias y detalle de las entrevistas realiza
 - **Entrevista 1:**
 Entrevistador: Saúl Mendoza  
 Entrevistado: Nataly Torres  
-Edad: 23 
-Distrito: Callao
-Min Inicio: 0:09
-Min Final: 3:30
-[![entrevista.png](https://i.postimg.cc/T3WLfyt4/entrevista.png)](https://postimg.cc/QFhxqMGQ)
+Edad: 23  
+Distrito: Callao  
+Min Inicio: 0:09  
+Min Final: 3:30  
+[![entrevista.png](https://i.postimg.cc/T3WLfyt4/entrevista.png)](https://postimg.cc/QFhxqMGQ)  
 
 - **Resumen**: Nataly es una dueña de mascota de 23 años, que vive en Callao, usa principalmente Android. Las redes sociales que usa son Whatsapp, Facebook y TikTok. Nos comenta que tiene un veterinario de confianza al cual acude al menos 1 o 2 veces al mes, ya sea para un chequeo médico, para un baño o corte de pelo de su mascota. Por lo tanto, los productos que su mascota más usa son productos provehídos por la clínica donde trabaja su veterinario de confianza. También nos cuenta que cuando no está en casa, suele dejar a su mascota con algún familiar o amigo de confianza. Le gustaría una aplicación que le ayude a administrar los chequeos de su mascota para tener datos y estado medico de su mascota para de esa manera agilizar el proceso y tener un diagnóstico en caso algo llegue a suceder.
 
 - **Entrevista 2:**
-Entrevistador: Jesica Rut Jaramillo Almora
-Entrevistado: Beatriz Almora Chuquihuaccha
-Edad: 56 años
-Distrito: Independencia
-Min Inicio: 3:31
-Min Final: 8:17
+Entrevistador: Jesica Rut Jaramillo Almora  
+Entrevistado: Beatriz Almora Chuquihuaccha  
+Edad: 56 años  
+Distrito: Independencia  
+Min Inicio: 3:31  
+Min Final: 8:17  
 [![https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69](https://i.postimg.cc/RVdr8pzw/Cap-POwner.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69)
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69)
 
@@ -330,49 +330,50 @@ Las marcas que usa son croquetas Ricocán, croquetas recomendadas por el veterin
 Tiene 4 años siendo dueña de mascotas.
 
 - **Entrevista 3:**
-Entrevistador: Fredy Antonio Almeyda Alania
-Entrevistado: Rosi Jennifer Claudia Laurencia
-Edad: 23
-Distrito: -
-- **Resumen:** Rosi es una estudiante universitaria que vive en lima. Su dispositivo móvil preferidi es el Smartphone con sistema operativo iOs. Su navegador preferido es Safari. Sus redes sociales preferidas son Facebook, Instagram y Whatsapp. Tiene 5 mascotas, entre perros y gatos, que son atendidas por un veterinario de confianza. Lleva a cada una al veterinario cada 15 o 30 días y el principal motivo de sus citas es por baños y cortes de pelo. La forma en la que contacta a su veterinario es a travéz de llamadas y Whatsapp. Además, los productos que consumen sus mascotas son croquetas recomendadas por su veterinario.
-Min inicio: 8:18
-Min Final: 13:04
-[![Foto-Entrevista.png](https://i.postimg.cc/W1HgmYw4/Foto-Entrevista.png)](https://postimg.cc/PC1CT4cG)
+Entrevistador: Fredy Antonio Almeyda Alania  
+Entrevistado: Rosi Jennifer Claudia Laurencia  
+Edad: 23  
+Distrito: -  
+Min inicio: 8:18  
+Min Final: 13:04  
+- **Resumen:** Rosi es una estudiante universitaria que vive en lima. Su dispositivo móvil preferidi es el Smartphone con sistema operativo iOs. Su navegador preferido es Safari. Sus redes sociales preferidas son Facebook, Instagram y Whatsapp. Tiene 5 mascotas, entre perros y gatos, que son atendidas por un veterinario de confianza. Lleva a cada una al veterinario cada 15 o 30 días y el principal motivo de sus citas es por baños y cortes de pelo. La forma en la que contacta a su veterinario es a travéz de llamadas y Whatsapp. Además, los productos que consumen sus mascotas son croquetas recomendadas por su veterinario.  
+[![Foto-Entrevista.png](https://i.postimg.cc/W1HgmYw4/Foto-Entrevista.png)](https://postimg.cc/PC1CT4cG)  
 
 **Segmento: Veterinarios**
 - **Entrevista 1:**  
-Entrevistador: Leonardo José Aquino Cruz
-Entrevistado: Cindia Martinez Olivia
-Edad: 37 años
-Distrito: Breña
-Grado Académico: Médico Veterinario
-Min inicio: 13:08
-Min final: 15:33
-[![Entrevista Veterinario 1](https://img.youtube.com/vi/4RhwqBvAMNs/0.jpg)](https://youtu.be/4RhwqBvAMNs)
+Entrevistador: Leonardo José Aquino Cruz  
+Entrevistado: Cindia Martinez Olivia  
+Edad: 37 años  
+Distrito: Breña  
+Grado Académico: Médico Veterinario  
+Min inicio: 13:08  
+Min final: 15:33  
+[![Entrevista Veterinario 1](https://img.youtube.com/vi/4RhwqBvAMNs/0.jpg)](https://youtu.be/4RhwqBvAMNs)  
 - **Resumen**:
   Cindia es una veterinaria de 37 años, que vive en Breña, usa principalmente Iphone iOS. En su trabajo, el animal que más atiende son los perros y lo traen al veterinario mayormente por enfermedades, tanto por su salud o edad. La cantidad de clientes que llegan cuando está en su turno es entre 10 a 12 clientes aproximadamente.  
-  Cuenta que se debe llevar al veterinario a sus mascotas por lo menos 1 vez al mes. Manejan un software llamado MedPet, donde ingresan todos los datos de sus anteriores clientes, la salud de sus mascotas, el historial médico, como también la fecha del proximo baño de pulgas de la mascota. Las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo, según la doctora, para un cliente regular, es más fácil saber que es lo que tiene el animal, se obvia mucho procedimiento ya que tiene registrado sus anteriores enfermedades y puede calcular que es lo que tiene el animal, miéntras que un cliente nuevo, se tiene que realizar todos los examenes para saber exactamente que enfermedad tiene el animal.
+  Cuenta que se debe llevar al veterinario a sus mascotas por lo menos 1 vez al mes. Manejan un software llamado MedPet, donde ingresan todos los datos de sus anteriores clientes, la salud de sus mascotas, el historial médico, como también la fecha del proximo baño de pulgas de la mascota. Las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo, según la doctora, para un cliente regular, es más fácil saber que es lo que tiene el animal, se obvia mucho procedimiento ya que tiene registrado sus anteriores enfermedades y puede calcular que es lo que tiene el animal, miéntras que un cliente nuevo, se tiene que realizar todos los examenes para saber exactamente que enfermedad tiene el animal.  
 
 - **Entrevista 2:**
-Entrevistador: Jesica Rut Jaramillo Almora
-Entrevistado: Grecia Elena Álvarez Medrano
-Edad: 33 años
-Distrito: Carabayllo
-Grado académico: Médico Veterinario
-Min inicio: 15:33
-Min final: 
-[![https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY](https://i.postimg.cc/4dJ1HPmQ/CapVet.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY)
+Entrevistador: Jesica Rut Jaramillo Almora  
+Entrevistado: Grecia Elena Álvarez Medrano  
+Edad: 33 años  
+Distrito: Carabayllo  
+Grado académico: Médico Veterinario  
+Min inicio: 15:33  
+Min final: 17:59  
+[![https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY](https://i.postimg.cc/4dJ1HPmQ/CapVet.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY)  
+
 - **Resumen**:
 Grecia es una veterinaria de 33 años que vive en Carabayllo. El dispositivo que más usa es el celular con sistema operativo Android. Tiene una especialización en perros y gatos, que son los animales que más atiende. Atiende de 8 a 10 animales por día. Los pricipales motivos de las consultas son: inapentencia, fiebre o tienen garrapatas. Ella recomienda que las mascotas recivan citas veterinas según su edad: los más jóvenes cada año y a partir de los 5 años, 2 veces por año.
-Utiliza historias clínicas físicas para llevar los registros médicos de las mascotas que atiende. Pero espera en un futuro virtualizar este proceso. El procedimiento para la atención de una mascota es: Ingresar a recepción, crear una historia clínica física o buscar su historia existente, y ser atendidos. Todas las mascotas deben aperturar una historia clínica.
+Utiliza historias clínicas físicas para llevar los registros médicos de las mascotas que atiende. Pero espera en un futuro virtualizar este proceso. El procedimiento para la atención de una mascota es: Ingresar a recepción, crear una historia clínica física o buscar su historia existente, y ser atendidos. Todas las mascotas deben aperturar una historia clínica.  
 
 - **Entrevista 3:**
-Entrevistador: Emerson Gerardo Quispe Villegas
-Entevistado: Henry Nicolas Velarde Bernales
-Edad: 24 años
-Distrito de residencia: Lima
-Grado académico: Estudiante Veterinario
-[![Foto-Entrevista.png](https://i.postimg.cc/5y6fmj2D/Foto-Entrevista.png)](https://postimg.cc/LgFd99fV)
+Entrevistador: Emerson Gerardo Quispe Villegas  
+Entevistado: Henry Nicolas Velarde Bernales  
+Edad: 24 años  
+Distrito de residencia: Lima  
+Grado académico: Estudiante Veterinario  
+[![Foto-Entrevista.png](https://i.postimg.cc/5y6fmj2D/Foto-Entrevista.png)](https://postimg.cc/LgFd99fV)  
 
 - **Resumen**:
 La entrevista realizada a Henry Nicolas Velarde Bernales un joven veterinario de 24 años, nos comenta que actualmente vive en Lima, actualmente se encuentra estudiando y trabajando, el dispositivo que más usa es el celular, con el sistema operativo de Android, en 5 años se ve teniendo su propia veterinaria y ayudando a varios animalitos en la calle. El navegador web que mas usa es el chrome, y la red social que más utiliza son WhatsApp y Facebook. El nos comenta que le gustan muchos los animales y le gusta ayudar.Henry nos comenta que las mascotas que mas atiende son perros y gatos, mas perros que gatos. A diario el recibe 7 u 8 clientes diarios, de los cuales la mayoria de visitas que recibe son por que sus mascotas se encuentran mal. El recomienda que las mascotas deben acudir al veterinario minimo 2 veces al año, para un chequeo, en caso no se presente ninguna enfermedad y pueda prevenir una enfermdad a largo plazo.Henry comenta que en la veterinaria donde trabaja mantienen los registrso de las mascotas en word y tambien en documentos fisicos. Nos comentó también como proceden ante un caso comun que ve a diario y uno de emergencia. En el caso común, es que llevan a la mascota por alergia, el veterinario lo chequea y le da su respectiva receta. Para el caso de emergencia, primero deben calmar al dueño, para que puedan hablar con el y les pueda dar mas detalles sobre lo que le sucede a la mascota,una vez identificado las causas, el veterinario procede con los respectivos protocolos para la pronta mejora de la mascota. Por ultimo acota que es muy importante una comunicacion clara con los dueños de las mascotas, ya que si no llegan a entenderse bien, el veterinario le puede estar aplicando una medicina que no es lo ideal para el caso que esta presentando la mascota.
@@ -414,26 +415,33 @@ Enlace a Excel: [https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_up
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+Se realizan las fichas de user persona para cada segmento objetivo (PetOwner y Vet), donde se consolidan los datos obtenidos a travéz de las entrevistas con los usuarios y el análisis de competidores.
+Estos artefactos se utilizan para la posterior ceación del As-Is Scenario map, To-Be Scenario map, Task Matrix y Journey Mapping.  
+
 - Dueños de mascotas:
 ![Pet Owner User Persona](./Resources/images/PetOwner.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/p/MUnXl)
+[https://uxpressia.com/w/4rB9D/p/MUnXl](https://uxpressia.com/w/4rB9D/p/MUnXl)
 - Médicos veterinarios:
 ![Vet User Persona](./Resources/images/Vet.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/p/rJ76I)
+[https://uxpressia.com/w/4rB9D/p/rJ76I](https://uxpressia.com/w/4rB9D/p/rJ76I)
 ### 2.3.2. User Task Matrix.
-|                       Task Matrix                     |  Pet Owner |  Pet Owner  |     Vet    |     Vet     |
-|:-----------------------------------------------------:|:----------:|:-----------:|:----------:|:-----------:|
-|                                               | Frecuencia | Importancia | Frecuencia | Importancia |
-|     Monitorización en tiempo real y análisis de salud |    Alta    |     Alta    |    Media   |     Alta    |
-|                  Alerta de estado anormal             |    Baja    |     Alta    |    Baja    |     Alta    |
-|         Reservación de cita en clínica veterinaria    |    Media   |     Alta    |    Media   |     Alta    |
-|                 Asignación de diagnóstico             |    Media   |    Media    |    Media   |    Media    |
-|           Edición   de Información de Mascota         |    Baja    |     Alta    |    Alta    |     Alta    |
-|         Gestión   de historia clínica de salud        |    Media   |     Alta    |    Alta    |     Alta    |
-|                  Gestión   de clientes                |      -     |      -      |    Alta    |    Media    |
-|             Gestión   de historial de citas           |    Media   |     Baja    |    Alta    |    Media    |
-|             Recordatorio   de citas médicas           |   Media    |    Media    |    Media   |     Baja    |
-|             Calificación a Veterinarias               |    Baja    |     Alta    |      -     |      -      |
+| Task Matriz                                                                                                         | Pet Owner  | Pet Owner   | Vet        | Vet         |
+|---------------------------------------------------------------------------------------------------------------------|------------|-------------|------------|-------------|
+|                                                                                                                     | Frecuencia | Importancia | Frecuencia | Importancia |
+| Alimentar a la mascota.                                                                                             | Alta       | Alta        |            |             |
+|                                  Sacar a pasear a la mascota según sus necesidades.                                 | Media      | Media       |            |             |
+| Programar y asistir a las citas con el veterinario para vacunas, chequeos regulares, y cualquier problema de salud. | Baja       | Alta        |            |             |
+| Administrar medicamentos según las indicaciones del veterinario.                                                    | Baja       | Media       |            |             |
+| Mantener al día las vacunas y tratamientos preventivos contra parásitos.                                            | Baja       | Alta        |            |             |
+| Jugar y participar en actividades que fomenten el vínculo entre el dueño y la mascota.                              | Media      | Media       |            |             |
+| Realizar exámenes físicos completos de los pacientes.                                                               |            |             | Media      | Alta        |
+| Diagnosticar enfermedades y lesiones basadas en los hallazgos clínicos y de laboratorio.                            |            |             | Media      | Alta        |
+| Prescribir y administrar medicamentos para tratar enfermedades y aliviar el dolor.                                  |            |             | Media      | Media       |
+| Monitorear la respuesta del paciente al tratamiento y ajustar según sea necesario.                                  | Alta       | Alta        | Baja       | Media       |
+| Realizar cirugías programadas y de emergencia según sea necesario.                                                  |            |             | Baja       | Alta        |
+| Realizar exámenes de salud preventivos y recomendar vacunas y tratamientos preventivos.                             |            |             | Media      | Media       |
+| Llevar registros detallados de la historia clínica de cada paciente y actualizarlos regularmente.                   |            |             | Alta       | Alta        |
+| Comunicarse con los propietarios sobre el estado de salud de sus mascotas y los planes de tratamiento.              | Media      | Media       | Media      | Media       |
 
 
 #### Leyenda:
