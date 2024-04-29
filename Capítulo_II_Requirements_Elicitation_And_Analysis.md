@@ -364,7 +364,8 @@ Min final: 17:59
 [![https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY](https://i.postimg.cc/4dJ1HPmQ/CapVet.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY)  
 
 - **Resumen**:
-Grecia es una veterinaria de 33 años que vive en Carabayllo. El dispositivo que más usa es el celular con sistema operativo Android. Tiene una especialización en perros y gatos, que son los animales que más atiende. Atiende de 8 a 10 animales por día. Los pricipales motivos de las consultas son: inapentencia, fiebre o tienen garrapatas. Ella recomienda que las mascotas recivan citas veterinas según su edad: los más jóvenes cada año y a partir de los 5 años, 2 veces por año.
+Grecia es una veterinaria de 33 años que vive en Carabayllo. El dispositivo que más usa es el celular con sistema operativo Android. El navegador que más utiliza es Chrome. Tiene una especialización en perros y gatos, que son los animales que más atiende. Atiende de 8 a 10 animales por día. Los pricipales motivos de las consultas son: inapentencia, fiebre o tienen garrapatas. Ella recomienda que las mascotas recivan citas veterinas según su edad: los más jóvenes cada año y a partir de los 5 años, 2 veces por año. 
+Las citas médicas en la Clínica Veterinaria donde trabaja se realizan a través de Whatsapp, llamadas telefónicas o de manera presencial.
 Utiliza historias clínicas físicas para llevar los registros médicos de las mascotas que atiende. Pero espera en un futuro virtualizar este proceso. El procedimiento para la atención de una mascota es: Ingresar a recepción, crear una historia clínica física o buscar su historia existente, y ser atendidos. Todas las mascotas deben aperturar una historia clínica.  
 
 - **Entrevista 3:**
@@ -395,7 +396,7 @@ La entrevista realizada a Henry Nicolas Velarde Bernales un joven veterinario de
 | ¿Cada cuánto tiempo agenda estas citas para su mascota? ¿Cuál es el motivo? | Los usuarios PetOwners reservan sus citas al veterinario cada 25 días en promedio y el principal motivo es la limpieza y corte de pelo de sus mascotas.                                                |
 #### Vets
 
-| Pregunta                                                                   | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Pregunta                                                                   | Análisis                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ¿Cuál es su edad?                                                          | La edad promedio de los usuarios Vets es de 31 años.                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ¿Dónde vive actualmente?                                                   | El 100% de los usuarios Vets entrevistados vive en Lima.                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -425,6 +426,8 @@ Estos artefactos se utilizan para la posterior ceación del As-Is Scenario map, 
 ![Vet User Persona](./Resources/images/Vet.png)
 [https://uxpressia.com/w/4rB9D/p/rJ76I](https://uxpressia.com/w/4rB9D/p/rJ76I)
 ### 2.3.2. User Task Matrix.
+El siguiente cuadro muestra las tareas que completan los segmentos Pet Owner y Vets durante el cuidado y diagnóstico de las mascotas.  
+
 | Task Matriz                                                                                                         | Pet Owner  | Pet Owner   | Vet        | Vet         |
 |---------------------------------------------------------------------------------------------------------------------|------------|-------------|------------|-------------|
 |                                                                                                                     | Frecuencia | Importancia | Frecuencia | Importancia |
@@ -455,44 +458,61 @@ Frecuencia:
 - Baja: La tarea no es crítica y puede haber margen para la simplificación o automatización.
 
 ### 2.3.3. User Journey Mapping.
+En esta sección se muestra la representación gráfica de la experiencia de usuario que atraviensan los segmentos objetivos desde que identifican hasta que completan su necesidad.  
+Este artefacto está elaborado sobre las versiones As-Is, es decir, el escenario antes de la existencia de la solución propuesta: "PetHealth".  
 - Dueños de mascotas:
+Se describe el viaje del usuario Pet Owner. Desde haber identicado su problema durante su rutina de cuidados a su mascota (mascota presenta síntomas extraños), agendar una cita médica, lo que hace durante una cita médica, y el cuidado posterior de su mascota. 
 ![Pet Owner Journey Mapping](./Resources/images/PetOwnerJM.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/m/RQ7Y9)
+Uxpressia: [https://uxpressia.com/w/4rB9D/m/RQ7Y9](https://uxpressia.com/w/4rB9D/m/RQ7Y9)
 - Médicos veterinarios:
-![Vet Journey Mapping](./Resources/images/VetJM.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/m/KXGlg)
+Se describe el viaje del usuario Vet. Desde haber identicado un problema durante su servicio (contacto de parte de un cliente), agendar una cita médica, editar o crear el historial médico de una mascota, el cuidado posterior de una mascota, agendar más citas de monitoreo y actualizar su estado de disponibilidad.   
+Uxpressia: ![Vet Journey Mapping](./Resources/images/VetJME.png)
+[https://uxpressia.com/w/4rB9D/m/KXGlg](https://uxpressia.com/w/4rB9D/m/KXGlg)
 ### 2.3.4. Empathy Mapping.
+En esta sección se utilizaron los User Personas previamente creados para que el equipo de desarrolo obtenga una vición más profunda de cada segmento. Esto se realizó a través de las preguntas:  ¿Con quién estamos empatizando? ¿Qué necesita hacer? ¿Qué está
+diciendo? ¿Qué está viendo? ¿Qué está haciendo? ¿Qué está escuchando? ¿Cómo se
+siente y qué piensa? Identificar Pains y Gains en base a las preguntas ¿Qué le
+preocupa? Y ¿Qué puede ayudar a resolver sus problemas? ¿Qué puede convencerlo
+de que somos la alternativa correcta? ¿Qué dice?
 - Dueños de mascotas:
 ![Pet Owner Empathy Mapping](./Resources/images/EmpathymapPetOwner.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/p/i8qXM)
+Uxpressia: [https://uxpressia.com/w/4rB9D/p/i8qXM](https://uxpressia.com/w/4rB9D/p/i8qXM)
 - Médicos veterinarios:
 ![Vet Empathy Mapping](./Resources/images/EmpathymapVet.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/p/qYdfL)
+[https://uxpressia.com/w/4rB9D/p/qYdfL](https://uxpressia.com/w/4rB9D/p/qYdfL)
 ### 2.3.5. As-is Scenario Mapping.
+En esta sección se adjuntan los As-Is Scenarios trabajados por el equipo en la herramienta Miro. 
+Donde se detallaron las filas Steps, Doing, Thinking y Feeling para cada segmento objetivo antes de la existencia de la solución propuesta: "PetHealth".  
 - Dueños de mascotas:
 ![Pet Owner As-is Scenario Mapping](./Resources/images/AsIsPetOwner.jpg)
-[Miro](https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088)
+Miro: [https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088](https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088)
 - Médicos veterinarios:
 ![Vet As-is Scenario Mapping](./Resources/images/AsIsVet.jpg)
-[Miro](https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088)
+Miro: [https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088](https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088)
 
 
 ## 2.4. Ubiquitous Language.
-* **PetHealth:** Se refiere a la aplicación que yace en los dispositivos de los usuarios.
-* **Control panel:** Se refiere a la interfaz de usuario dentro de la aplicación PetHealth donde los Pet Owners pueden visualizar y gestionar la información relacionada con la salud y bienestar de sus mascotas.
-* **Pet Owner:** Se refiere al dueño de una mascota. 
-* **PetHealt Collar:** Se refiere al collar, ofrecido por PetHealth, que servirá para monitorear la salud de la mascota y facilitar un reporte de estado al Pet Owner.
-* **Pet:** Se refiere a la mascota que usa el PetHealth Collar.
-* **Vet:** Se refiere al veterinario afiliado a la aplicación PetHealth.
-* **Your Vets:** Se refiere al listado de Vets a los que los Pet owners se encuentran afiliados, con los que comparten información de su mascota.
-* **In person Appointment:** Se refiere a la cita médica agendada haciendo uso de la aplicación PetHealth entre el Pet Owner y el Vet. 
-* **Online Review:** Se refiere a la consulta médica en línea realizada al Vet a travéz de la aplicación.
-* **Pet Report:** Se refiere al reporte que solicita la información médica recopilada de Pet. Puede ser solicitada por el Pet Owner y el Vet al que el Pet Owner se ha afiiado.
-* **Pet Medical History:** Se refiere al registro completo de la salud y tratamientos médicos de la mascota, almacenado y gestionado dentro de la aplicación PetHealth. 
-* **Notifications:** Se refiere a las alertas y notificaciones enviadas directamente a la aplicación del Pet Owner para informar sobre eventos importantes, como recordatorios de citas o reportes de estado.
-* **Pet warning:** Se refiere a la notificación enviada a la aplicación del Pet Owner que informa un estado anormal en los signos vitales o ubicación de Pet.
-* **Subscription plans:** Se refiere a las diferentes opciones de membresía o planes de suscripción ofrecidos a los Pet Owners para acceder a las funcionalidades premium de la aplicación PetHealth.
-* **Pet Registration:** Se refiere al proceso mediante el cual un Pet Owner registra a su mascota en la aplicación PetHealth, incluyendo detalles como nombre, raza, edad, y otros datos relevantes.
-* **Collar integration:** Se refiere a los pasos requeridos para sincronizar el nuevo PetHealth collar a la aplicación del Pet Owner.
-* **Client support:** Se refiere al servicio activo que atiende y busca resolver las inquietudes y problemas de los usuarios.
-* **Software updates:** Se refiere a las mejoras y correcciones de errores realizadas en la aplicación PetHealth para garantizar su rendimiento óptimo y mantenerla actualizada con las últimas tecnologías y estándares de seguridad.
+- **Pet Owner** (Dueño de Mascota):
+Definición: Persona responsable de cuidar y proporcionar atención a una mascota.
+- **Veterinarian** (Veterinario):
+Definición: Profesional médico especializado en el cuidado y tratamiento de animales.
+- **Examination** (Examen):
+Definición: Evaluación médica realizada por un veterinario para diagnosticar enfermedades, lesiones o problemas de salud en una mascota.
+- **Vaccination** (Vacunación):
+Definición: Administración de vacunas para prevenir enfermedades específicas en las mascotas.
+- **Spaying** (Esterilización):
+Definición: Procedimiento quirúrgico para la esterilización de hembras, especialmente en gatos y perros, mediante la extirpación de los ovarios y, a menudo, del útero.
+- **Neutering** (Castración):
+Definición: Procedimiento quirúrgico para la castración de machos, especialmente en gatos y perros, mediante la extirpación de los testículos.
+- **Check-up** (Chequeo):
+Definición: Evaluación de rutina realizada por un veterinario para asegurarse de que una mascota esté en buen estado de salud.
+- **Dental Cleaning** (Limpieza Dental):
+Definición: Procedimiento realizado por un veterinario para eliminar el sarro y la placa de los dientes de una mascota y promover la salud dental.
+- **Parasite Control** (Control de Parásitos):
+Definición: Medidas tomadas para prevenir y tratar infestaciones de parásitos como pulgas, garrapatas, gusanos intestinales, etc.
+**Microchip Implantation** (Implantación de Microchip):
+Definición: Colocación de un microchip de identificación bajo la piel de una mascota para facilitar su identificación en caso de pérdida o robo.
+- **Behavioral Training** (Entrenamiento de Comportamiento):
+Definición: Proceso de enseñanza y corrección de comportamientos no deseados en una mascota.
+- **Emergency Care** (Atención de Emergencia):
+Definición: Tratamiento médico inmediato y urgente proporcionado a una mascota en caso de lesiones graves, enfermedades repentinas u otras emergencias médicas.
