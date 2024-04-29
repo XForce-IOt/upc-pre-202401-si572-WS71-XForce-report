@@ -320,7 +320,7 @@ Edad: 56 años
 Distrito: Independencia  
 Min Inicio: 3:31  
 Min Final: 8:17  
-[![https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69](https://i.postimg.cc/RVdr8pzw/Cap-POwner.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69)
+[![https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69](https://i.postimg.cc/RVdr8pzw/Cap-POwner.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69)  
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69)
 
 - **Resumen**: Beatriz es una dueña de mascota de 56 años. Vine en Independencia y el dispositivo que más usa es el celular con sistema operativo Android. El navegador que más utiliza en Chrome. Las redes sociales que más usa son Whatsapp, Facebook y TikTok. Tiene 3 mascotas, 2 perros y un gato. Se preocupa en llevar la cuenta de los baños de sus mascotas y en la compra de sus alimentos. No le molesta cuidar a sus mascotas porque sabe que ellos son dependientes de ella. Tiene problemas respecto a la salud de sus mascotas. Ella no puede monitorear a sus mascotas por largos periodos de tiempo debido al trabajo, en estos casos, ella encarga su cuidado a su hojo.
