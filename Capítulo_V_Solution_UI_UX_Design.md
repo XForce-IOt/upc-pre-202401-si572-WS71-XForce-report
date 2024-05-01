@@ -336,7 +336,48 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 - Boceto de 'Ajustes':  
 [![Veterinaria-Ajustes.png](https://i.postimg.cc/BnQs9D9z/Veterinaria-Ajustes.png)](https://postimg.cc/RN82wW01)
 
-### 5.4.2. Applications Wireflow Diagrams.  
+### 5.4.2. Applications Wireflow Diagrams. 
+
+#### User goal: 
+
+Registrarse en la aplicación.
+
+Como usuario quiero registrarme en la aplicación.
+
+[![UG1.png](https://i.postimg.cc/QtwRPKP5/UG1.png)](https://postimg.cc/Hc0Z8nTs)
+
+#### User goal:
+
+Agregar una mascota.
+
+Como usuario quiero agregar una mascota.
+
+[![UG2.png](https://i.postimg.cc/7LbtkYSN/UG2.png)](https://postimg.cc/TyMJjx7y)
+
+#### User goal:
+
+Agendar una cita.
+
+Como usuario quiero agendar una cita con el veterinario.
+
+[![UG3.png](https://i.postimg.cc/W3k9dWWF/UG3.png)](https://postimg.cc/gXGy5DPm)
+
+#### User goal:
+
+Editar perfil.
+
+Como usuario quiero editar los datos de mi perfil.
+
+[![UG4.png](https://i.postimg.cc/8kLKDYfx/UG4.png)](https://postimg.cc/Yjqfzb3x)
+
+#### User goal:
+
+Cambiar contraseña.
+
+Como usuario quiero tener la opción de cambiar mi contraseña. 
+
+[![UG5.png](https://i.postimg.cc/cJKhzkN9/UG5.png)](https://postimg.cc/p9HKhZrz)
+
 ### 5.4.2. Applications Mock-ups.
 #### Web Application:
 ##### Pet Owner y Vet:
