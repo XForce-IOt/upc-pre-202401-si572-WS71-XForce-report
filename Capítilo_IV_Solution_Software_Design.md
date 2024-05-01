@@ -125,9 +125,10 @@ Es un diagrama que muestra la estructura general del sistema, incluyendo sus com
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams.
 
-Es un diagrama que proporciona una vista de alto nivel de los actores externos y sus interacciones con el sistema.
+El diagrama de contexto muestra las relaciones y flujos de información entre los actores (usuarios y sistemas) y el sistema principal, el PetHealth System. El objetivo del sistema es monitorear la salud y la ubicación de las mascotas a través de un collar inteligente equipado con sensores avanzados.  
+Este diagrama de contexto ilustra eficazmente cómo las diferentes entidades interactúan y dependen unas de otras para proporcionar un cuidado integral y monitoreo de la salud para mascotas, haciendo uso de tecnología avanzada y servicios integrados.
 
-[![Context-Diagram-1.png](https://i.postimg.cc/prKjDK41/Context-Diagram-1.png)](https://postimg.cc/RJVqmJMc)
+[![Context-Diagrams.png](https://i.postimg.cc/CKzCcnw2/image.png)](https://postimg.cc/TyvWwwLj)
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams.
 
