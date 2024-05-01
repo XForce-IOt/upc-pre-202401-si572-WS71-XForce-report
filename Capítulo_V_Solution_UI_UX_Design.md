@@ -209,14 +209,15 @@ Con esta propuesta de diseño para el Landing Page, buscamos no solo transmitir 
 
 #### Mobile Web Browser:
 - Sección Home  
- <br>
+[![Home-1.png](https://i.postimg.cc/VLR9kS5M/Home-1.png)](https://postimg.cc/JGsHTzN4)<br>
 - Sección: Product  
- <br>
+[![Product-1.png](https://i.postimg.cc/GpBvKqKJ/Product-1.png)](https://postimg.cc/CZgZLCWz) <br>
 - Sección About  
- <br>
+[![About-1.png](https://i.postimg.cc/zX0W19PF/About-1.png)](https://postimg.cc/GHT9FSR4) <br>
 - Sección Price  
- <br>
+[![Price-1.png](https://i.postimg.cc/D0hs2FTB/Price-1.png)](https://postimg.cc/FdP1ZM1L) <br>
 - Sección Review  
+[![Review-1.png](https://i.postimg.cc/G2wTQrHd/Review-1.png)](https://postimg.cc/v1hmYJrN) <br>
 
 ### 5.3.2. Landing Page Mock-up.
 #### Desktop Web Browser
@@ -232,15 +233,15 @@ Con esta propuesta de diseño para el Landing Page, buscamos no solo transmitir 
 [![Review.png](https://i.postimg.cc/R0S8t0Yk/Review.png)](https://postimg.cc/21t2RCrG)
 #### Mobile Web Browser:
 - Sección Home  
-<br>
+[![Home.png](https://i.postimg.cc/K8t2T2Sn/Home.png)](https://postimg.cc/CRMXy9K1) <br>
 - Sección: Product  
- <br>
+[![Product.png](https://i.postimg.cc/s2NCdDpC/Product.png)](https://postimg.cc/rdxP5Tnf) <br>
 - Sección About  
- <br>
+[![About.png](https://i.postimg.cc/CLgTV2f5/About.png)](https://postimg.cc/XXQDfQL6) <br>
 - Sección Price  
- <br>
+[![Price.png](https://i.postimg.cc/c4Zjz8V8/Price.png)](https://postimg.cc/kD1f6DMn) <br>
 - Sección Review  
-
+[![Review.png](https://i.postimg.cc/0yy4k15k/Review.png)](https://postimg.cc/yk2jj5St)
 ## 5.4. Applications UX/UI Design.
 En esta sección, presentamos y explicamos la propuesta visual y de interacción para las aplicaciones que forman parte integral de la experiencia de usuario con nuestros productos digitales. Nuestro enfoque en el diseño de UX/UI para las aplicaciones se centra en crear interfaces intuitivas y atractivas que mejoren la usabilidad y la satisfacción de ambos segmentos objetivos. Cada aspecto del diseño se ha considerado cuidadosamente para garantizar una experiencia coherente y eficaz para nuestros usuarios. A continuación, detallamos nuestra propuesta para las aplicaciones, destacando tanto los aspectos visuales como de interacción.
 ### 5.4.1. Applications Wireframes.
@@ -279,6 +280,62 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 - Boceto de 'Ajustes':
 [![Settings-Pet-Owners-Perfil.png](https://i.postimg.cc/sXtMBJ7n/Settings-Pet-Owners-Perfil.png)](https://postimg.cc/dkjsprWd)<br>
 
+#### Movile Application:
+##### Pet Owner:
+- Boceto de Log-in y Sign-in:  
+ [![Iniciar-sesion.png](https://i.postimg.cc/5tLn0Qb5/Iniciar-sesion.png)](https://postimg.cc/jWqz35WC)  
+ [![Seleccion-usuario.png](https://i.postimg.cc/j25HzD0F/Seleccion-usuario.png)](https://postimg.cc/DJ94hyzr)  
+ [![Cresar-cuenta-Due-o-de-Mascota.png](https://i.postimg.cc/1XrtMQwV/Cresar-cuenta-Due-o-de-Mascota.png)](https://postimg.cc/sG1sDbn3)  
+ [![Cresar-cuenta-Due-o-de-Mascota-1.png](https://i.postimg.cc/mgDD3KDh/Cresar-cuenta-Due-o-de-Mascota-1.png)](https://postimg.cc/fJGDD2Yh)  
+
+##### Vet:
+- Boceto de Log-in y Sign-in:  
+[![Crear-cuenta-Veterinaria.png](https://i.postimg.cc/1tRY40Mx/Crear-cuenta-Veterinaria.png)](https://postimg.cc/CZt4QqWJ)  
+[![Crear-cuenta-Veterinaria-1.png](https://i.postimg.cc/gjnSHYfN/Crear-cuenta-Veterinaria-1.png)](https://postimg.cc/64xf9N6v)  
+[![Crear-cuenta-deto-del-Veterinario.png](https://i.postimg.cc/Z5k76zjx/Crear-cuenta-deto-del-Veterinario.png)](https://postimg.cc/QHbJrP2F)  
+
+##### Pet Owner:
+- Boceto de sincronizar collar:
+[![Crear-cuenta-Dato-de-Mascota.png](https://i.postimg.cc/BvnVncMr/Crear-cuenta-Dato-de-Mascota.png)](https://postimg.cc/VJ2R7Myg)  
+[![Crear-cuenta-Dato-de-Mascota-1.png](https://i.postimg.cc/SswTV0k4/Crear-cuenta-Dato-de-Mascota-1.png)](https://postimg.cc/r0NNFPDZ)  
+[![Crear-cuenta-Dato-de-Mascota-3.png](https://i.postimg.cc/HWyPnL9k/Crear-cuenta-Dato-de-Mascota-3.png)](https://postimg.cc/YjtxyMP5) <br>
+- Boceto de Agregar Pet:
+[![Crear-cuenta-Dato-de-Mascota-2.png](https://i.postimg.cc/NMT7sKvh/Crear-cuenta-Dato-de-Mascota-2.png)](https://postimg.cc/ZBbyjKqj)  
+- Boceto de Home 'Pets':  
+[![Home-Due-o-de-Mascota.png](https://i.postimg.cc/Dyqvrnn2/Home-Due-o-de-Mascota.png)](https://postimg.cc/MvpJxkn4)  
+[![Home-Due-o-de-Mascota-1.png](https://i.postimg.cc/4dDGcF07/Home-Due-o-de-Mascota-1.png)](https://postimg.cc/XGktSx44)  
+[![Menu-Due-o-de-Mascota.png](https://i.postimg.cc/3xtH1w6H/Menu-Due-o-de-Mascota.png)](https://postimg.cc/TK5SYTfk)  
+- Boceto de 'Citas':  
+[![Home-Due-o-de-Mascota-2.png](https://i.postimg.cc/9fcrRz95/Home-Due-o-de-Mascota-2.png)](https://postimg.cc/YvypTr8b)  
+- Boceto de 'Agendar Cita' (Flujo de Tareas):
+[![Home-Due-o-de-Mascota-3.png](https://i.postimg.cc/MKyBvCLB/Home-Due-o-de-Mascota-3.png)](https://postimg.cc/ZC5nQM4Y)  
+[![Home-Due-o-de-Mascota-1.png](https://i.postimg.cc/V6C62MQt/Home-Due-o-de-Mascota-1.png)](https://postimg.cc/vgGbV4m8)  
+- Boceto Historial de la Mascota:  
+[![Home-Due-o-de-Mascota-4.png](https://i.postimg.cc/Sxkgs7gy/Home-Due-o-de-Mascota-4.png)](https://postimg.cc/BX7T7DWy)
+- Boceto Sidebar:
+[![Menu-Due-o-de-Mascota-1.png](https://i.postimg.cc/QMnmfLht/Menu-Due-o-de-Mascota-1.png)](https://postimg.cc/p9zKd69b)
+##### Vet:
+- Boceto de Home: 
+[![Home-Due-o-de-Mascota-5.png](https://i.postimg.cc/Y2fHy8L7/Home-Due-o-de-Mascota-5.png)](https://postimg.cc/8s597RbX)
+- Boceto de 'Macotas':  
+[![Veterinaria-Mascotas.png](https://i.postimg.cc/YqrHcgQW/Veterinaria-Mascotas.png)](https://postimg.cc/PNRcYC3X)
+- Boceto de 'Historial de Mascotas':  
+[![Veterinaria-Historial-de-mascotas.png](https://i.postimg.cc/1341XQCR/Veterinaria-Historial-de-mascotas.png)](https://postimg.cc/DSVMpt3R)  
+- Boceto de otros Vets en la misma Veterinaria:
+[![Veterinaria-Perfiles.png](https://i.postimg.cc/QdXN8w50/Veterinaria-Perfiles.png)](https://postimg.cc/1fj1MWvq)  
+[![Veterinaria-Perfiles-1.png](https://i.postimg.cc/Rh59jD41/Veterinaria-Perfiles-1.png)](https://postimg.cc/R6RjtG3q)  
+
+##### Pet Owner:
+- Boceto de 'Profile':
+[![Menu-Due-o-de-Mascota-4.png](https://i.postimg.cc/Gh5p3qLD/Menu-Due-o-de-Mascota-4.png)](https://postimg.cc/6yCKYVG6)  
+- Boceto de Cambiar Contraseña:
+[![Menu-Due-o-de-Mascota-3.png](https://i.postimg.cc/rFFdwD5B/Menu-Due-o-de-Mascota-3.png)](https://postimg.cc/G9V3Mh7K)  
+- Boceto de Cerrar sesión:
+[![Menu-Due-o-de-Mascota-2.png](https://i.postimg.cc/0jH9Qysv/Menu-Due-o-de-Mascota-2.png)](https://postimg.cc/QK52YsCY) <br>
+##### Vet:
+- Boceto de 'Ajustes':
+[![Veterinaria-Ajustes.png](https://i.postimg.cc/BnQs9D9z/Veterinaria-Ajustes.png)](https://postimg.cc/RN82wW01)
+
 ### 5.4.2. Applications Wireflow Diagrams.
 ### 5.4.2. Applications Mock-ups.
 #### Web Application:
@@ -312,6 +369,50 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 [![Profile-Pet-Owners-Perfil.png](https://i.postimg.cc/Bbd1fdxp/Profile-Pet-Owners-Perfil.png)](https://postimg.cc/MfmGy33f)<br>
 - Mock-up de 'Ajustes':
 [![Settings-Pet-Owners-Perfil.png](https://i.postimg.cc/tg2Z413Y/Settings-Pet-Owners-Perfil.png)](https://postimg.cc/7CJYBZQk)
+
+#### Movile Application:
+##### Pet Owner y Vets:
+- Mock-up de Log-in y Sign-in:  
+[![Bienvenida.png](https://i.postimg.cc/VNJRJYbR/Bienvenida.png)](https://postimg.cc/2qfvJNGb)  
+[![Iniciar-sesion.png](https://i.postimg.cc/ZqXL318h/Iniciar-sesion.png)](https://postimg.cc/67LRxbbH)  
+[![Seleccion-usuario.png](https://i.postimg.cc/vmnnRDVp/Seleccion-usuario.png)](https://postimg.cc/DW20Lv5g)  
+[![Cresar-cuenta-Due-o-de-Mascota.png](https://i.postimg.cc/Prq8XSDb/Cresar-cuenta-Due-o-de-Mascota.png)](https://postimg.cc/Jt9hKcPt)  
+[![Cresar-cuenta-Due-o-de-Mascota-1.png](https://i.postimg.cc/m261t73v/Cresar-cuenta-Due-o-de-Mascota-1.png)](https://postimg.cc/56L2rYRg)  
+[![Crear-cuenta-Veterinaria.png](https://i.postimg.cc/59s6R8rX/Crear-cuenta-Veterinaria.png)](https://postimg.cc/kDtJVRqC)  
+[![Crear-cuenta-Veterinaria-1.png](https://i.postimg.cc/Fs1757tD/Crear-cuenta-Veterinaria-1.png)](https://postimg.cc/crysf1Ln)  
+[![Crear-cuenta-deto-del-Veterinario.png](https://i.postimg.cc/jd9CsttK/Crear-cuenta-deto-del-Veterinario.png)](https://postimg.cc/tY39k0sm)  
+- Mock-up de Sincronizar collar y Agregar mascota 
+[![Crear-cuenta-Dato-de-Mascota-1.png](https://i.postimg.cc/8zH4G8D1/Crear-cuenta-Dato-de-Mascota-1.png)](https://postimg.cc/cvvw7brj)  
+[![Crear-cuenta-Dato-de-Mascota.png](https://i.postimg.cc/259xq4VM/Crear-cuenta-Dato-de-Mascota.png)](https://postimg.cc/5HvzTQ5S)  
+[![Crear-cuenta-deto-del-Veterinario.png](https://i.postimg.cc/jd9CsttK/Crear-cuenta-deto-del-Veterinario.png)](https://postimg.cc/tY39k0sm)  
+
+##### Pet Owner:
+- Mock-up Home 'Mascotas':
+[![Home-Due-o-de-Mascota.png](https://i.postimg.cc/kgPz4yW4/Home-Due-o-de-Mascota.png)](https://postimg.cc/CzJmrkPT)  
+[![Home-Due-o-de-Mascota-1.png](https://i.postimg.cc/wj8Hfv9t/Home-Due-o-de-Mascota-1.png)](https://postimg.cc/563ZjfY1)  
+- Mock-up 'Historial':
+[![Home-Due-o-de-Mascota-2.png](https://i.postimg.cc/nzjpSQ9D/Home-Due-o-de-Mascota-2.png)](https://postimg.cc/G8CWHtQL)  
+- Mock-up 'Mascotas' y Agregar mascotas:  
+[![Menu-Due-o-de-Mascota.png](https://i.postimg.cc/B6DR151M/Menu-Due-o-de-Mascota.png)](https://postimg.cc/tZqBKxkx)  
+[![Menu-Due-o-de-Mascota-1.png](https://i.postimg.cc/SxJTMLBC/Menu-Due-o-de-Mascota-1.png)](https://postimg.cc/Hr19GMsk)  
+- Mock-up Agendar Cita:
+[![Home-Due-o-de-Mascota-3.png](https://i.postimg.cc/HLm6hGJ4/Home-Due-o-de-Mascota-3.png)](https://postimg.cc/SnZLnvfJ)  
+[![Home-Due-o-de-Mascota-4.png](https://i.postimg.cc/635YBdf8/Home-Due-o-de-Mascota-4.png)](https://postimg.cc/xkhKRN7Q)  
+[![Home-Due-o-de-Mascota-5.png](https://i.postimg.cc/Qt4SCHf0/Home-Due-o-de-Mascota-5.png)](https://postimg.cc/ygR0rY4Z)  
+[![Home-Due-o-de-Mascota-6.png](https://i.postimg.cc/cCvhn0jZ/Home-Due-o-de-Mascota-6.png)](https://postimg.cc/JHWjwVMd)  
+
+#### Vet:
+- Mock-up Home:  
+[![Home-Veterinaria.png](https://i.postimg.cc/J4g3SfFH/Home-Veterinaria.png)](https://postimg.cc/6yrGvmtB)  
+- Mock-up Mascotas:  
+[![Menu-Due-o-de-Mascota.png](https://i.postimg.cc/B6DR151M/Menu-Due-o-de-Mascota.png)](https://postimg.cc/tZqBKxkx)  
+- Mock-up Historial:
+[![Veterinaria-Historial-de-mascotas.png](https://i.postimg.cc/HxR5F5ZD/Veterinaria-Historial-de-mascotas.png)](https://postimg.cc/1n0fqg1J)  
+- Mock-up de otros Vets en la misma Veterinaria:  
+[![Veterinaria-Perfiles.png](https://i.postimg.cc/g21WX2Tc/Veterinaria-Perfiles.png)](https://postimg.cc/jD69BtTB)  
+[![Veterinaria-Perfiles-1.png](https://i.postimg.cc/85mQ0BPs/Veterinaria-Perfiles-1.png)](https://postimg.cc/34NcyGGH)  
+[![Veterinaria-Perfiles-2.png](https://i.postimg.cc/8P5QZv8P/Veterinaria-Perfiles-2.png)](https://postimg.cc/jCGF5LdG)  
+
 
 ### 5.4.3. Applications User Flow Diagrams.
 ## 5.5. Applications Prototyping.
