@@ -78,40 +78,23 @@ De acuerdo con los boundend contexts definidos en puntos anteriores, se crearon 
 
 ### 4.1.2. Context Mapping.
 
-#### Instalación del collar
+#### Function of the collar
 
-[![instalacion-del-collar.jpg](https://i.postimg.cc/PJxzmPhG/instalacion-del-collar.jpg)](https://postimg.cc/G8WyR3Hz)
+[![Function-of-the-collar.jpg](https://i.postimg.cc/k46qzpbk/Function-of-the-collar.jpg)](https://postimg.cc/MMSCjttD)
 
-#### Inicio de monitorización
+#### User account management
 
-[![inicio-de-monitorizacion-2.jpg](https://i.postimg.cc/4y7Hfts3/inicio-de-monitorizacion-2.jpg)](https://postimg.cc/JH8zKsyw)
+[![User-account-management.jpg](https://i.postimg.cc/qq20M6Qw/User-account-management.jpg)](https://postimg.cc/n9VN3zy9)
 
-#### Administración de cuenta de usuario
+#### Appointment function
 
-[![administraci-n-de-cuenta-de-usuario.jpg](https://i.postimg.cc/mkHhfsyz/administraci-n-de-cuenta-de-usuario.jpg)](https://postimg.cc/hQKKTNwc)
+[![Appointment-function.jpg](https://i.postimg.cc/7YywtXYW/Appointment-function.jpg)](https://postimg.cc/3W9sdXGX)
 
-#### Monitorización de la salud de las mascotas
+#### Context Mapping 
 
-[![monitorizacion-de-la-salud-de-las-mascotas.jpg](https://i.postimg.cc/wM80LDF1/monitorizacion-de-la-salud-de-las-mascotas.jpg)](https://postimg.cc/r0j1L0BT)
+[![Context-Mapping-Pet-Health.jpg](https://i.postimg.cc/GhJrWY4h/Context-Mapping-Pet-Health.jpg)](https://postimg.cc/zVB9Wyw9)
 
-#### Respuesta de alertas
-
-[![Respuesta-de-alertas-2.jpg](https://i.postimg.cc/t4Tt1ryr/Respuesta-de-alertas-2.jpg)](https://postimg.cc/9r6qKYDT)
-
-#### Programación de cita
-
-[![Programacion-de-cita-2.jpg](https://i.postimg.cc/D0x4nTW7/Programacion-de-cita-2.jpg)](https://postimg.cc/V0bkW2Bh)
-
-#### Gestión de citas
-
-[![Gestion-de-citas.jpg](https://i.postimg.cc/FRZ7V4V0/Gestion-de-citas.jpg)](https://postimg.cc/gXxzG150)
-
-#### Context Mapping
-
-[![context-mapping-1.jpg](https://i.postimg.cc/bJzJ6wg3/context-mapping-1.jpg)](https://postimg.cc/rdPMscvr)
-
-Para un mayor detalle revisar el tablero de Miro: 
-[Context Mapping PetHealth](https://miro.com/app/board/uXjVKVvjW8w=/?share_link_id=983505004568 "Context Mapping PetHealth")
+Para una mejor vista: https://miro.com/app/board/uXjVKNZ76t4=/?share_link_id=935515296039 
 
 ### 4.1.3. Software Architecture.
 
