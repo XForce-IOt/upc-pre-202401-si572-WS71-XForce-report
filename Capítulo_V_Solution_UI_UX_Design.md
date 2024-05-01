@@ -315,32 +315,32 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 - Boceto Sidebar:
 [![Menu-Due-o-de-Mascota-1.png](https://i.postimg.cc/QMnmfLht/Menu-Due-o-de-Mascota-1.png)](https://postimg.cc/p9zKd69b)
 ##### Vet:
-- Boceto de Home: 
+- Boceto de Home:  
 [![Home-Due-o-de-Mascota-5.png](https://i.postimg.cc/Y2fHy8L7/Home-Due-o-de-Mascota-5.png)](https://postimg.cc/8s597RbX)
 - Boceto de 'Macotas':  
 [![Veterinaria-Mascotas.png](https://i.postimg.cc/YqrHcgQW/Veterinaria-Mascotas.png)](https://postimg.cc/PNRcYC3X)
 - Boceto de 'Historial de Mascotas':  
 [![Veterinaria-Historial-de-mascotas.png](https://i.postimg.cc/1341XQCR/Veterinaria-Historial-de-mascotas.png)](https://postimg.cc/DSVMpt3R)  
-- Boceto de otros Vets en la misma Veterinaria:
+- Boceto de otros Vets en la misma Veterinaria:  
 [![Veterinaria-Perfiles.png](https://i.postimg.cc/QdXN8w50/Veterinaria-Perfiles.png)](https://postimg.cc/1fj1MWvq)  
 [![Veterinaria-Perfiles-1.png](https://i.postimg.cc/Rh59jD41/Veterinaria-Perfiles-1.png)](https://postimg.cc/R6RjtG3q)  
 
 ##### Pet Owner:
-- Boceto de 'Profile':
+- Boceto de 'Profile':  
 [![Menu-Due-o-de-Mascota-4.png](https://i.postimg.cc/Gh5p3qLD/Menu-Due-o-de-Mascota-4.png)](https://postimg.cc/6yCKYVG6)  
-- Boceto de Cambiar Contraseña:
+- Boceto de Cambiar Contraseña:  
 [![Menu-Due-o-de-Mascota-3.png](https://i.postimg.cc/rFFdwD5B/Menu-Due-o-de-Mascota-3.png)](https://postimg.cc/G9V3Mh7K)  
-- Boceto de Cerrar sesión:
+- Boceto de Cerrar sesión:  
 [![Menu-Due-o-de-Mascota-2.png](https://i.postimg.cc/0jH9Qysv/Menu-Due-o-de-Mascota-2.png)](https://postimg.cc/QK52YsCY) <br>
 ##### Vet:
-- Boceto de 'Ajustes':
+- Boceto de 'Ajustes':  
 [![Veterinaria-Ajustes.png](https://i.postimg.cc/BnQs9D9z/Veterinaria-Ajustes.png)](https://postimg.cc/RN82wW01)
 
 ### 5.4.2. Applications Wireflow Diagrams.
 ### 5.4.2. Applications Mock-ups.
 #### Web Application:
 ##### Pet Owner y Vet:
-- Mock-ups de Log-in y Sign-in: 
+- Mock-ups de Log-in y Sign-in:  
 [![Log-in.png](https://i.postimg.cc/ncvJBf6K/Log-in.png)](https://postimg.cc/kBXzPzMD)  
 [![usuarios.png](https://i.postimg.cc/Xvqm2RDz/usuarios.png)](https://postimg.cc/Ty8t14xV)
 
@@ -349,7 +349,7 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 [![Home-Pet-Owners.png](https://i.postimg.cc/KzrPtzDS/Home-Pet-Owners.png)](https://postimg.cc/47yHgX0B)  
 [![Home-Pet-Owners-1.png](https://i.postimg.cc/85K58g1f/Home-Pet-Owners-1.png)](https://postimg.cc/N9XYTV2Q)<br>
 
-- Boceto de 'Citas':
+- Boceto de 'Citas':  
 [![Home-Pet-Owners-citas.png](https://i.postimg.cc/rsDYjxnR/Home-Pet-Owners-citas.png)](https://postimg.cc/wRdVTyd9)<br>
 
 - Boceto de 'Agendar Cita' (Flujo de Tareas):  
