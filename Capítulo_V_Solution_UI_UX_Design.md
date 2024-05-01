@@ -322,7 +322,7 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 - Boceto de 'Historial de Mascotas':  
 [![Veterinaria-Historial-de-mascotas.png](https://i.postimg.cc/1341XQCR/Veterinaria-Historial-de-mascotas.png)](https://postimg.cc/DSVMpt3R)  
 - Boceto de otros Vets en la misma Veterinaria:  
-[![Veterinaria-Perfiles.png](https://i.postimg.cc/QdXN8w50/Veterinaria-Perfiles.png)](https://postimg.cc/1fj1MWvq)  
+[![Veterinaria-Perfiles.png](https://i.postimg.cc/QdXN8w50/Veterinaria-Perfiles.png)](https://postimg.cc/1fj1MWvq)
 [![Veterinaria-Perfiles-1.png](https://i.postimg.cc/Rh59jD41/Veterinaria-Perfiles-1.png)](https://postimg.cc/R6RjtG3q)  
 
 ##### Pet Owner:
