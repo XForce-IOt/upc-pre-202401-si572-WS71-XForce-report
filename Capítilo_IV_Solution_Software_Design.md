@@ -4,12 +4,12 @@ Nuestro proceso de event storming se realizó en la herramienta MIRO, donde se r
 
 Primero comenzamos con el primer paso, Unstructured Exploration, para ello, analizamos y dimos nuestras opiniones acerca de los eventos del dominio siguiendo las recomendaciones adecuadas. Por otro lado, tomamos en cuenta varios criterios para elegir los eventos del dominio. Dichos criterios fueron la relevancia, frecuencia del evento y temporalidad.
 
-[![image.png](https://i.postimg.cc/8cyrcx0M/image.png)](https://postimg.cc/sGh20Hyg)  
+[![image.png](https://i.postimg.cc/xTFDGnk1/image.png)](https://postimg.cc/w7JGgKcC)  
 *Evidencia del desarrollo del primer paso del DDD.*
 
 Después de ello, comenzamos con el segundo paso llamado Timelines, donde discutimos el flujo de los eventos del dominio.
 
-[![image.png](https://i.postimg.cc/50LhxVjK/image.png)](https://postimg.cc/HcWZ2Fwb)  
+[![image.png](https://i.postimg.cc/VvGTFWkV/image.png)](https://postimg.cc/4HcBftt6)  
 *Evidencia del desarrollo del segundo paso de DDD.*
 
 Para un mayor detalle revisar el tablero de Miro:  
@@ -17,46 +17,64 @@ Para un mayor detalle revisar el tablero de Miro:
 
 #### 4.1.1.1 Candidate Context Discovery.
 Para hallar a nuestros Candidate Context, continuamos con el paso 3 Pain Points, donde discutimos eventos del flujo que podrían ser cuellos de botella o pasos manuales que requieren automatización.  
-[![image.png](https://i.postimg.cc/gcRgBs6s/image.png)](https://postimg.cc/Jtr3sbxH)  
+[![image.png](https://i.postimg.cc/cJRbzSJY/image.png)](https://postimg.cc/4K3PKjVN)  
 *Evidencia del desarrollo del tercer paso del DDD.*
 
 Después, comenzamos con el cuarto paso del DDD llamado Pivotal Points, donde identificamos puntos o eventos comerciales importantes que indicaban un cambio en el contexto o la fase.
  
-[![image.png](https://i.postimg.cc/brBYnPH0/image.png)](https://postimg.cc/jnyrVG1C)  
+[![image.png](https://i.postimg.cc/44LFqwX8/image.png)](https://postimg.cc/V5tRbqrM)  
 *Evidencia del desarrollo del cuarto paso del DDD.*
 
 Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenante de ciertos eventos del dominio, así como el actor encargado.  
-[![image.png](https://i.postimg.cc/k5mSGN5J/image.png)](https://postimg.cc/bZmrFtbW)  
+[![image.png](https://i.postimg.cc/rsKgqXqf/image.png)](https://postimg.cc/8fgLbYJv)  
 *Evidencia del desarrollo del quinto paso del DDD.*
 
 Después proseguimos con el paso 6, Policies donde identificamos eventos que debían de ejecutarse en automático o necesitaban alguna politica.  
-[![image.png](https://i.postimg.cc/SN4jWQhd/image.png)](https://postimg.cc/t7rXbj7n)  
+[![image.png](https://i.postimg.cc/1zBK65tW/image.png)](https://postimg.cc/f33XQsYX)  
 *Evidencia del desarrollo del sexto paso del DDD.*
 
 Con ello procedemos a discutir los modelos de lectura de datos, y logramos identificar algunos como el dueño de mascota, que tiene que cuidar a su mascota. Los criterios para ello fueron complejidad, relevancia y frecuencia de actualización.  
-[![image.png](https://i.postimg.cc/sXfwQC2g/image.png)](https://postimg.cc/wtPhZPJC)  
+[![image.png](https://i.postimg.cc/PqSRHMmr/image.png)](https://postimg.cc/xkbRyMxW)  
 *Evidencia del desarrollo del septimo paso del DDD.*
 
 También empezamos a discutir el uso de sistemas externos, y los que encontramos entre ellos estaban relacionados a los pagos y a la ubicación.  
-[![image.png](https://i.postimg.cc/YCpG2F8T/image.png)](https://postimg.cc/GH5hqHWj)  
+[![image.png](https://i.postimg.cc/KzKJ2hGJ/image.png)](https://postimg.cc/ygHFm5SZ)  
 *Evidencia del desarrollo del octavo paso del DDD.*
 
 Después, se comenzó con la identificación de los agregattes, para ello, tomamos criterios como granularidad, consistencia, y estabilidad. Con esos criterios, se procedió a elegir los Agreggattes, los cuales fueron los siguientes:  
-[![image.png](https://i.postimg.cc/WzWKDggS/image.png)](https://postimg.cc/2LWTMqHB)  
+[![image.png](https://i.postimg.cc/MTjbL05L/image.png)](https://postimg.cc/2brZbZPd)  
+[![image.png](https://i.postimg.cc/vm4W17Jm/image.png)](https://postimg.cc/mcGcJ92x)  
 *Evidencia del desarrollo del noveno paso del DDD.*
 
 Ya por ultimo y después de un análisis y discusión grupal, los siguientes bounded contexts fueron elegidos:  
-[![image.png](https://i.postimg.cc/YSRxqk1z/image.png)](https://postimg.cc/JyyXPfYs)  
+[![image.png](https://i.postimg.cc/prrxxT93/image.png)](https://postimg.cc/xJwB393P)  
 *Evidencia del desarrollo del DDD*
 
 Para un mayor detalle revisar el tablero de Miro:  
 [Eventstorming PetHealth](https://miro.com/app/board/uXjVKVNpMhY=/)
 
 #### 4.1.1.2 Domain Message Flows Modeling.
-[![image.png](https://i.postimg.cc/cJPfJHvY/image.png)](https://postimg.cc/5HqX7fqN)
+En relación con los flujos de mensajería, se eligieron los más relevantes para nuestro negocio, dejando de lado flujos generales como registro de usuario o pago de servicios.
+
+Se estuvieron planteando los siguientes Flujos de mensajeria:
+
+En primer lugar, tenemos el flujo del usuario que desea adquirir e instalar el collar inteligente, la cual es clave para nuestro proyecto.  
+[![image.png](https://i.postimg.cc/wjfr8V5x/image.png)](https://postimg.cc/sMWm550b)
+
+El segundo flujo, es sobre la creación de una cita a un veterinario.  
+[![image.png](https://i.postimg.cc/cChm7xX1/image.png)](https://postimg.cc/T5ygfXzB)
+
+En el tercer flujo, tenemos el escenario de que hacer si se pierde una mascota.  
+[![image.png](https://i.postimg.cc/fTbjnh8X/image.png)](https://postimg.cc/mh0FCKf2)
+
+Por ultimo, se tiene el flujo de añadir la información de una mascota.  
+[![image.png](https://i.postimg.cc/D0NW3Rzd/image.png)](https://postimg.cc/7JgPgs0f)
 
 #### 4.1.1.3 Bounded Context Canvases.
-[![image.png](https://i.postimg.cc/05Y789PM/image.png)](https://postimg.cc/NL0KDqyB)
+De acuerdo con los boundend contexts definidos en puntos anteriores, se crearon sus respectivos Canvases:  
+[![image.png](https://i.postimg.cc/YStCZt3B/image.png)](https://postimg.cc/LJ0SZKwx)  
+[![image.png](https://i.postimg.cc/q7BCnsWK/image.png)](https://postimg.cc/Sn5sbMSQ)  
+[![image.png](https://i.postimg.cc/DwnWkQvN/image.png)](https://postimg.cc/zV2DTgRw)
 
 ### 4.1.2. Context Mapping.
 
