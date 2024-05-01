@@ -17,18 +17,17 @@ Honestidad, lealtad, seguridad y calidad.
 Teniendo en cuenta que nuestros usuarios utilizarán la aplicación para monitorear datos críticos de salud de sus mascotas o pacientes a traves de un Gadget tecnológico, PetHealth adoptará un tono formal, respetuoso y sereno.  
 Del mismo modo, se probará la eficacia o el gusto de los usuarios por la aplicación a través de los comentarios de reseña de los clientes satisfechos.  
 [![Branding.png](https://i.postimg.cc/vHMpzzSV/Branding.png)](https://postimg.cc/qgbbB8rJ)  
-El color principal es el celeste ya que es un color que se relaciiona con la modernidad y la medicina. Se agregó un collar en el logo para recalcar la solución IoT.
+El color principal es el celeste ya que es un color que se relaciiona con la modernidad y la medicina. Se agregó un collar en el logo para recalcar la solución IoT.  
 [![Colors.png](https://i.postimg.cc/NFTBHjFv/Colors.png)](https://postimg.cc/jnspVKyM)  
-[![Heading.png](https://i.postimg.cc/sggbF2zf/Heading.png)](https://postimg.cc/KRC0Bx4C) 
-Se eligió Montserrat por su alta legibilidad, facilidad de escalado y fácil lectura en dispositivos electrónicos.
+[![Heading.png](https://i.postimg.cc/sggbF2zf/Heading.png)](https://postimg.cc/KRC0Bx4C)  
+Se eligió Montserrat por su alta legibilidad, facilidad de escalado y fácil lectura en dispositivos electrónicos.  
 [![Body.png](https://i.postimg.cc/FR3Bbdyp/Body.png)](https://postimg.cc/7GP9wLQJ)  
-De la misma manera, se eligió Work Sans por su correcto espaciado y su fácil lectura en dispositivos electrónicos. 
-[![Spacing.png](https://i.postimg.cc/4y12MDFh/Spacing.png)](https://postimg.cc/bSsRSBPz)
+De la misma manera, se eligió Work Sans por su correcto espaciado y su fácil lectura en dispositivos electrónicos.  
+[![Spacing.png](https://i.postimg.cc/4y12MDFh/Spacing.png)](https://postimg.cc/bSsRSBPz)  
 
 ##### Inclusive design: 
 Ya que detro de nuestro público objetivo se encuentran a usuarios de edad avanzada, es necesario elegir fuentes distingibles y además, no presentar secciones demasiado pequeñas en las soluciones nuestro servicio debe ser accesible a ellos. Las pautas consideradas son:
-- Colores contrastantes y fuentes distinguibles para los usuarios con problemas de 
-visión.
+- Colores contrastantes y fuentes distinguibles para los usuarios con problemas de visión.  
 - Se usaron plantillas para cumplir con los patrones de diseño comunes __(consistencia externa)__.
 - Imágenes de gran tamaño y calidad __(Responsive images)__.
 ### 5.1.2. Web, Mobile and IoT Style Guidelines.
@@ -167,10 +166,19 @@ Nuestra estrategia de navegación está diseñada para guiar a los usuarios de m
 
 Al implementar estas acciones y técnicas de navegación, garantizaremos que los usuarios puedan recorrer el contenido de nuestro Landing Page y aplicaciones de manera fluida y satisfactoria, cumpliendo así sus objetivos y maximizando su experiencia con nuestro producto.
 ## 5.3. Landing Page UI Design.
+Nuestro enfoque en el diseño de la interfaz de usuario (UI) para el Landing Page se basa en la traducción de nuestras decisiones de diseño y arquitectura de información en una experiencia visualmente atractiva y funcional para nuestros usuarios. Cada elemento de diseño se ha cuidadosamente considerado para garantizar que refleje la identidad de nuestra marca, mientras que al mismo tiempo facilita la navegación y comprensión del contenido para los visitantes del sitio. A continuación, presentamos nuestra propuesta de diseño para el Landing Page, destacando cómo se reflejan nuestras decisiones de diseño y arquitectura de información en la interfaz de usuario.
 ### 5.3.1. Landing Page Wireframe.
 ### 5.3.2. Landing Page Mock-up.
 ## 5.4. Applications UX/UI Design.
+En esta sección, presentamos y explicamos la propuesta visual y de interacción para las aplicaciones que forman parte integral de la experiencia de usuario con nuestros productos digitales. Nuestro enfoque en el diseño de UX/UI para las aplicaciones se centra en crear interfaces intuitivas y atractivas que mejoren la usabilidad y la satisfacción de ambos segmentos objetivos. Cada aspecto del diseño se ha considerado cuidadosamente para garantizar una experiencia coherente y eficaz para nuestros usuarios. A continuación, detallamos nuestra propuesta para las aplicaciones, destacando tanto los aspectos visuales como de interacción.
 ### 5.4.1. Applications Wireframes.
+#### Web Application:
+[![Log-in-Wireframe.png](https://i.postimg.cc/mrxS7Q45/Log-in-Wireframe.png)](https://postimg.cc/cvmYStrR)  
+[![selecci-n.png](https://i.postimg.cc/fRY82H8N/selecci-n.png)](https://postimg.cc/87Pdsb8K)  
+[![Sign-up.png](https://i.postimg.cc/cHLTJd0x/Sign-up.png)](https://postimg.cc/Z9X67tW2)  
+[![Home-Pet-Owners.png](https://i.postimg.cc/rpQC37Wv/Home-Pet-Owners.png)](https://postimg.cc/1gVqNCvH)  
+[![Home-Pet-Owners.png](https://i.postimg.cc/cLJQYXPh/Home-Pet-Owners.png)](https://postimg.cc/D8tJ3dv4)
+
 ### 5.4.2. Applications Wireflow Diagrams.
 ### 5.4.2. Applications Mock-ups.
 #### Web:
