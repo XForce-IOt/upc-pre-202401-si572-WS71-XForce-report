@@ -129,6 +129,27 @@ Reflejamos claramente la funcionalidad de monitoreo de salud a través del colla
 
 ### 5.2.4. Searching Systems.
 
+Nuestro enfoque en sistemas de búsqueda está diseñado para proporcionar a los usuarios herramientas efectivas que les permitan encontrar rápidamente la información que están buscando dentro de PetHealth. Queremos evitar que los usuarios se sientan perdidos entre el volumen de datos, por lo que hemos desarrollado varias opciones de búsqueda y filtros para ayudarles en este proceso. A continuación, detallamos las opciones de búsqueda que ofreceremos, los filtros disponibles para los usuarios y cómo se presentarán los datos después de una búsqueda exitosa:
+
+#### Opciones de Búsqueda:
+
+- **Búsqueda por Palabras Clave:** Los usuarios podrán realizar búsquedas utilizando palabras clave relacionadas con la información que están buscando, como el nombre de una mascota, una clínica veterinaria o un tipo de servicio.
+- **Búsqueda Avanzada:** Ofreceremos una opción de búsqueda avanzada que permitirá a los usuarios refinar sus consultas utilizando filtros adicionales, como la fecha, la ubicación o el tipo de servicio requerido.
+#### Filtros Disponibles:
+
+1. **Filtros por Categoría:** Los usuarios podrán filtrar los resultados de la búsqueda por categorías específicas, como citas programadas, historial médico de la mascota, clínicas veterinarias, veterinarios disponibles, entre otros.
+2. **Filtros por Fecha:** Los usuarios tendrán la opción de filtrar los resultados por fecha, lo que les permitirá ver solo la información relevante para un período específico.
+3. **Filtros por Ubicación:** Si la información es geográficamente relevante, como la ubicación de clínicas veterinarias cercanas, los usuarios podrán filtrar los resultados por ubicación para encontrar opciones convenientes.
+
+#### Presentación de Datos Después de la Búsqueda:
+
+Después de realizar una búsqueda exitosa, los datos se presentarán de manera clara y organizada para facilitar la revisión por parte del usuario. Utilizaremos un diseño limpio y estructurado que muestre los resultados de manera ordenada, con opciones para ampliar detalles adicionales si es necesario. Los resultados se mostrarán en una lista o cuadrícula, según la naturaleza de la información, y se destacarán los detalles importantes para ayudar al usuario a identificar rápidamente la información relevante.  
+
+Ejemplo de filtro de búsqueda de citas:
+[![Group-95.png](https://i.postimg.cc/T3MYrwyP/Group-95.png)](https://postimg.cc/ppCHvPJN)
+
+Al ofrecer estas opciones de búsqueda y filtros, así como una presentación clara de los datos, esperamos proporcionar a nuestros usuarios una experiencia de búsqueda efectiva que les permita encontrar rápidamente la información que necesitan dentro de nuestro producto digital.
+
 ### 5.2.5. Navigation Systems.
 
 Nuestra estrategia de navegación está diseñada para guiar a los usuarios de manera efectiva a través del Landing Page y las aplicaciones, facilitando que alcancen sus objetivos y tengan una interacción satisfactoria con nuestro producto. A continuación, detallamos las acciones y técnicas que implementaremos para lograr este objetivo:
