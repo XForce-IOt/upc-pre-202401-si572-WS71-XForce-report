@@ -17,12 +17,19 @@ Honestidad, lealtad, seguridad y calidad.
 Teniendo en cuenta que nuestros usuarios utilizarán la aplicación para monitorear datos críticos de salud de sus mascotas o pacientes a traves de un Gadget tecnológico, PetHealth adoptará un tono formal, respetuoso y sereno.  
 Del mismo modo, se probará la eficacia o el gusto de los usuarios por la aplicación a través de los comentarios de reseña de los clientes satisfechos.  
 [![Branding.png](https://i.postimg.cc/vHMpzzSV/Branding.png)](https://postimg.cc/qgbbB8rJ)  
+
 El color principal es el celeste ya que es un color que se relaciiona con la modernidad y la medicina. Se agregó un collar en el logo para recalcar la solución IoT.  
+
 [![Colors.png](https://i.postimg.cc/NFTBHjFv/Colors.png)](https://postimg.cc/jnspVKyM)  
+
 [![Heading.png](https://i.postimg.cc/sggbF2zf/Heading.png)](https://postimg.cc/KRC0Bx4C)  
+
 Se eligió Montserrat por su alta legibilidad, facilidad de escalado y fácil lectura en dispositivos electrónicos.  
+
 [![Body.png](https://i.postimg.cc/FR3Bbdyp/Body.png)](https://postimg.cc/7GP9wLQJ)  
+
 De la misma manera, se eligió Work Sans por su correcto espaciado y su fácil lectura en dispositivos electrónicos.  
+
 [![Spacing.png](https://i.postimg.cc/4y12MDFh/Spacing.png)](https://postimg.cc/bSsRSBPz)  
 
 ##### Inclusive design: 
@@ -166,48 +173,145 @@ Nuestra estrategia de navegación está diseñada para guiar a los usuarios de m
 
 Al implementar estas acciones y técnicas de navegación, garantizaremos que los usuarios puedan recorrer el contenido de nuestro Landing Page y aplicaciones de manera fluida y satisfactoria, cumpliendo así sus objetivos y maximizando su experiencia con nuestro producto.
 ## 5.3. Landing Page UI Design.
-Nuestro enfoque en el diseño de la interfaz de usuario (UI) para el Landing Page se basa en la traducción de nuestras decisiones de diseño y arquitectura de información en una experiencia visualmente atractiva y funcional para nuestros usuarios. Cada elemento de diseño se ha cuidadosamente considerado para garantizar que refleje la identidad de nuestra marca, mientras que al mismo tiempo facilita la navegación y comprensión del contenido para los visitantes del sitio. A continuación, presentamos nuestra propuesta de diseño para el Landing Page, destacando cómo se reflejan nuestras decisiones de diseño y arquitectura de información en la interfaz de usuario.
+Nuestro enfoque en el diseño de la interfaz de usuario (UI) para el Landing Page se basa en la traducción de nuestras decisiones de diseño y arquitectura de información en una experiencia **visualmente atractiva y funcional** para nuestros segmentos objetivo. Cada elemento de diseño se ha considerado cuidadosamente para garantizar que refleje la identidad de nuestra marca, mientras que al mismo tiempo **facilita la navegación y comprensión del contenido** para los visitantes del sitio. A continuación, presentamos nuestra propuesta de diseño para el Landing Page, destacando cómo se reflejan nuestras decisiones de diseño y arquitectura de información en la interfaz de usuario.
+Propuesta de Diseño para el Landing Page PetHealth:
+
+1. **Identidad Visual Coherente:** Utilizamos elementos de diseño, como colores, tipografías y logotipos, que reflejan la identidad de nuestra marca y crean una experiencia coherente en todo el sitio web.
+
+2. **Diseño Responsivo:** El Landing Page está diseñado de manera que se adapta fluidamente a diferentes dispositivos y tamaños de pantalla, garantizando una experiencia óptima tanto en computadoras de escritorio como en dispositivos móviles.
+
+3. **Navegación Intuitiva:** Implementamos una navegación clara y fácil de entender, con un menú de navegación que destaca las secciones principales del sitio y guía a los usuarios a través del contenido de manera intuitiva.
+
+4. **Llamadas a la Acción (CTA) Destacadas:** Colocamos llamadas a la acción estratégicamente en el Landing Page para alentar a los usuarios a tomar medidas específicas, como registrarse, descargar la aplicación o explorar más sobre nuestros servicios.
+
+5. **Secciones Bien Definidas:** Organizamos el contenido del Landing Page en secciones bien definidas, con títulos claros y llamativos que facilitan la comprensión del contenido y la navegación para los usuarios.
+
+6. **Imágenes y Gráficos Atractivos:** Utilizamos imágenes y gráficos de alta calidad que complementen el contenido y agreguen un atractivo visual al Landing Page, ayudando a captar la atención de los visitantes y transmitir la esencia de nuestros servicios.
+
+7. **Optimización de Velocidad de Carga:** Nos aseguramos de que el diseño del Landing Page esté optimizado para una rápida velocidad de carga, garantizando una experiencia de usuario fluida y sin demoras.
+
+8. **Inclusión de Testimonios y Comentarios:** Integraremos testimonios y comentarios de clientes satisfechos en el diseño del Landing Page para agregar credibilidad y confianza en nuestros servicios.
+
+Con esta propuesta de diseño para el Landing Page, buscamos no solo transmitir la información de manera clara y efectiva, sino también crear una experiencia visualmente atractiva y coherente que refuerce la identidad de nuestra marca y motive a los usuarios a tomar medidas.
+
 ### 5.3.1. Landing Page Wireframe.
+#### Desktop Web Browser
+- Sección Home  
+[![Home.png](https://i.postimg.cc/HLvMtSSp/Home.png)](https://postimg.cc/Z930bLtg)<br>
+- Sección Product  
+[![Product.png](https://i.postimg.cc/2jZW47nD/Product.png)](https://postimg.cc/bdqdPb6C) <br>
+- Sección About  
+[![About.png](https://i.postimg.cc/xCkzpK7L/About.png)](https://postimg.cc/1nQXfNyz) <br>
+- Sección Price  
+[![Price.png](https://i.postimg.cc/wTYmFRks/Price.png)](https://postimg.cc/z3pvGB6J) <br>
+- Sección Review  
+[![Review.png](https://i.postimg.cc/y8VSCqt1/Review.png)](https://postimg.cc/F7BK06h8)
+
+#### Mobile Web Browser:
+- Sección Home  
+ <br>
+- Sección: Product  
+ <br>
+- Sección About  
+ <br>
+- Sección Price  
+ <br>
+- Sección Review  
+
 ### 5.3.2. Landing Page Mock-up.
+#### Desktop Web Browser
+- Sección Home  
+[![Home-1.png](https://i.postimg.cc/nzVdXwXp/Home-1.png)](https://postimg.cc/4KMvMPvS) <br>
+- Sección: Product  
+[![Product.png](https://i.postimg.cc/kGzwhJfg/Product.png)](https://postimg.cc/QKgpFr22) <br>
+- Sección About  
+[![About.png](https://i.postimg.cc/9fbbHtJS/About.png)](https://postimg.cc/rddxSW6C) <br>
+- Sección Price  
+[![Price.png](https://i.postimg.cc/yxgy9qs4/Price.png)](https://postimg.cc/0KvSRBzc) <br>
+- Sección Review  
+[![Review.png](https://i.postimg.cc/R0S8t0Yk/Review.png)](https://postimg.cc/21t2RCrG)
+#### Mobile Web Browser:
+- Sección Home  
+<br>
+- Sección: Product  
+ <br>
+- Sección About  
+ <br>
+- Sección Price  
+ <br>
+- Sección Review  
+
 ## 5.4. Applications UX/UI Design.
 En esta sección, presentamos y explicamos la propuesta visual y de interacción para las aplicaciones que forman parte integral de la experiencia de usuario con nuestros productos digitales. Nuestro enfoque en el diseño de UX/UI para las aplicaciones se centra en crear interfaces intuitivas y atractivas que mejoren la usabilidad y la satisfacción de ambos segmentos objetivos. Cada aspecto del diseño se ha considerado cuidadosamente para garantizar una experiencia coherente y eficaz para nuestros usuarios. A continuación, detallamos nuestra propuesta para las aplicaciones, destacando tanto los aspectos visuales como de interacción.
 ### 5.4.1. Applications Wireframes.
 #### Web Application:
+##### Pet Owner y Vet:
+- Boceto de Log-in y Sign-in:  
 [![Log-in-Wireframe.png](https://i.postimg.cc/mrxS7Q45/Log-in-Wireframe.png)](https://postimg.cc/cvmYStrR)  
 [![selecci-n.png](https://i.postimg.cc/fRY82H8N/selecci-n.png)](https://postimg.cc/87Pdsb8K)  
 [![Sign-up.png](https://i.postimg.cc/cHLTJd0x/Sign-up.png)](https://postimg.cc/Z9X67tW2)  
-[![Home-Pet-Owners.png](https://i.postimg.cc/rpQC37Wv/Home-Pet-Owners.png)](https://postimg.cc/1gVqNCvH)  
+
+##### Pet Owner:
+- Boceto de Home 'Pets' y Agregar Pets:  
 [![Home-Pet-Owners.png](https://i.postimg.cc/cLJQYXPh/Home-Pet-Owners.png)](https://postimg.cc/D8tJ3dv4)
+[![Home-Pet-Owners-1.png](https://i.postimg.cc/yxVTGBr4/Home-Pet-Owners-1.png)](https://postimg.cc/FdBcdt4D)  
+<br>
+- Boceto de 'Citas':  
+[![Home-Pet-Owners-citas.png](https://i.postimg.cc/pdfzM4j2/Home-Pet-Owners-citas.png)](https://postimg.cc/7CLfgBXc)  <br>
+
+- Boceto de 'Agendar Cita' (Flujo de Tareas):
+[![Home-Pet-Owners-citas-1.png](https://i.postimg.cc/RFC65F9R/Home-Pet-Owners-citas-1.png)](https://postimg.cc/sB8D53MQ)
+[![Home-Pet-Owners-citas-2.png](https://i.postimg.cc/jjc2XbNJ/Home-Pet-Owners-citas-2.png)](https://postimg.cc/4KKXfjWJ)
+[![Home-Pet-Owners-citas-3.png](https://i.postimg.cc/wvbBCQwq/Home-Pet-Owners-citas-3.png)](https://postimg.cc/MMVxRVkN)
+[![Home-Pet-Owners-citas-4.png](https://i.postimg.cc/7hFZ6Yvj/Home-Pet-Owners-citas-4.png)](https://postimg.cc/tnzjvb4z)
+
+##### Vet:
+- Boceto de Home 'Pets': 
+[![Home-Vets.png](https://i.postimg.cc/jSLY9YG7/Home-Vets.png)](https://postimg.cc/WdLyFCpN)<br>
+
+- Boceto de 'Citas': 
+[![Appointments-Vets.png](https://i.postimg.cc/cL85wxpX/Appointments-Vets.png)](https://postimg.cc/rDMJLkFr)
+
+##### Pet Owner y Vet:
+- Boceto de 'Profile':
+[![Profile-Pet-Owners-Perfil.png](https://i.postimg.cc/jCYRTgPb/Profile-Pet-Owners-Perfil.png)](https://postimg.cc/T50zqct7)<br>
+
+- Boceto de 'Ajustes':
+[![Settings-Pet-Owners-Perfil.png](https://i.postimg.cc/sXtMBJ7n/Settings-Pet-Owners-Perfil.png)](https://postimg.cc/dkjsprWd)<br>
 
 ### 5.4.2. Applications Wireflow Diagrams.
 ### 5.4.2. Applications Mock-ups.
-#### Web:
-- Ver datos de Mascotas:
-En esta sección el usuario PetOwner y Vet observan los datos recolectados de sus mascotas a cargo.
-PetOwner view:
-![MokUp Web App Pets](./Resources/images/MKWMascotas.png)
-Vet View:
-![MokUp Web App PetsV](./Resources/images/MKWMascotasV.png)
-- Agregar mascotas:
-User view:
-En esta sección los usuarios PetOwner agregan una nueva mascota a su lista.
-![MokUp Web App PetsV](./Resources/images/MKWNuevaMascota.png)
-![MokUp Web App PetsV](./Resources/images/MKWNuevaMascotaC.png)
-- Agendar citas:
-En esta sección el usuario PetOwner puede ver y generar una nueva cita. Donde elige primero la clínica, luego el veterinario a cargo, y por último la fecha y hora de la cita.
-![MokUp Web App PetsV](./Resources/images/MKWVerCitas.png)
-![MokUp Web App PetsV](./Resources/images/MKWAgendarCita.png)
-![MokUp Web App PetsV](./Resources/images/MKWCitasVets.png)
-![MokUp Web App PetsV](./Resources/images/MKWCitasFechas.png)
-![MokUp Web App PetsV](./Resources/images/MKWCAgendado.png)
-- Ver citas: 
-En esta sección el usuario Vet puede ver las citas agendadas por sus clientes en la aplicación.
-![MokUp Web App PetsV](./Resources/images/MKWVetCitas.png)
-- Perfil:
-En esta sección los usuarios pueden revisar y editar sus perfiles.
-![MokUp Web App PetsV](./Resources/images/MKWPerfil.png)
-- Configuración de la cuenta:
-En esta sección los usuarios pueden cambiar su contrasena, activar o desactivar notificaciones y cerrar sesión.
-![MokUp Web App PetsV](./Resources/images/MKWAjustes.png)
+#### Web Application:
+##### Pet Owner y Vet:
+- Mock-ups de Log-in y Sign-in: 
+[![Log-in.png](https://i.postimg.cc/ncvJBf6K/Log-in.png)](https://postimg.cc/kBXzPzMD)  
+[![usuarios.png](https://i.postimg.cc/Xvqm2RDz/usuarios.png)](https://postimg.cc/Ty8t14xV)
+
+##### Pet Owner:
+- Mock-ups de Home 'Pets' y Agregar Pets:  
+[![Home-Pet-Owners.png](https://i.postimg.cc/KzrPtzDS/Home-Pet-Owners.png)](https://postimg.cc/47yHgX0B)  
+[![Home-Pet-Owners-1.png](https://i.postimg.cc/85K58g1f/Home-Pet-Owners-1.png)](https://postimg.cc/N9XYTV2Q)<br>
+
+- Boceto de 'Citas':
+[![Home-Pet-Owners-citas.png](https://i.postimg.cc/rsDYjxnR/Home-Pet-Owners-citas.png)](https://postimg.cc/wRdVTyd9)<br>
+
+- Boceto de 'Agendar Cita' (Flujo de Tareas):  
+[![Home-Pet-Owners-citas-1.png](https://i.postimg.cc/zvTGybCK/Home-Pet-Owners-citas-1.png)](https://postimg.cc/CnLgtK6x)  
+[![Home-Pet-Owners-citas-2.png](https://i.postimg.cc/DyjpDjkJ/Home-Pet-Owners-citas-2.png)](https://postimg.cc/PPDMvMqT)  
+[![Home-Pet-Owners-citas-3.png](https://i.postimg.cc/TYqwCLKh/Home-Pet-Owners-citas-3.png)](https://postimg.cc/SJRkKK7p)  
+[![Home-Pet-Owners-citas-4.png](https://i.postimg.cc/qvDp584B/Home-Pet-Owners-citas-4.png)](https://postimg.cc/NKThy2KZ)
+
+##### Vet:
+- Mock-up de Home 'Pets':  
+[![Home-Vets.png](https://i.postimg.cc/mkQFRm8G/Home-Vets.png)](https://postimg.cc/dZV0jmbW)
+- Mock-up de 'Citas':  
+[![Appointments-Vets.png](https://i.postimg.cc/JhvykfFL/Appointments-Vets.png)](https://postimg.cc/FfbstBmW)
+
+##### Pet Owner y Vet:
+- Mock-up de 'Profile':
+[![Profile-Pet-Owners-Perfil.png](https://i.postimg.cc/Bbd1fdxp/Profile-Pet-Owners-Perfil.png)](https://postimg.cc/MfmGy33f)<br>
+- Mock-up de 'Ajustes':
+[![Settings-Pet-Owners-Perfil.png](https://i.postimg.cc/tg2Z413Y/Settings-Pet-Owners-Perfil.png)](https://postimg.cc/7CJYBZQk)
+
 ### 5.4.3. Applications User Flow Diagrams.
 ## 5.5. Applications Prototyping.
