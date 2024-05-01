@@ -248,8 +248,8 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 #### Web Application:
 ##### Pet Owner y Vet:
 - Boceto de Log-in y Sign-in:  
-[![Log-in-Wireframe.png](https://i.postimg.cc/mrxS7Q45/Log-in-Wireframe.png)](https://postimg.cc/cvmYStrR)  
-[![selecci-n.png](https://i.postimg.cc/fRY82H8N/selecci-n.png)](https://postimg.cc/87Pdsb8K)  
+[![Log-in-Wireframe.png](https://i.postimg.cc/mrxS7Q45/Log-in-Wireframe.png)](https://postimg.cc/cvmYStrR)
+[![selecci-n.png](https://i.postimg.cc/fRY82H8N/selecci-n.png)](https://postimg.cc/87Pdsb8K)
 [![Sign-up.png](https://i.postimg.cc/cHLTJd0x/Sign-up.png)](https://postimg.cc/Z9X67tW2)  
 
 ##### Pet Owner:
@@ -260,17 +260,17 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 - Boceto de 'Citas':  
 [![Home-Pet-Owners-citas.png](https://i.postimg.cc/pdfzM4j2/Home-Pet-Owners-citas.png)](https://postimg.cc/7CLfgBXc)  <br>
 
-- Boceto de 'Agendar Cita' (Flujo de Tareas):
+- Boceto de 'Agendar Cita' (Flujo de Tareas):  
 [![Home-Pet-Owners-citas-1.png](https://i.postimg.cc/RFC65F9R/Home-Pet-Owners-citas-1.png)](https://postimg.cc/sB8D53MQ)
 [![Home-Pet-Owners-citas-2.png](https://i.postimg.cc/jjc2XbNJ/Home-Pet-Owners-citas-2.png)](https://postimg.cc/4KKXfjWJ)
 [![Home-Pet-Owners-citas-3.png](https://i.postimg.cc/wvbBCQwq/Home-Pet-Owners-citas-3.png)](https://postimg.cc/MMVxRVkN)
 [![Home-Pet-Owners-citas-4.png](https://i.postimg.cc/7hFZ6Yvj/Home-Pet-Owners-citas-4.png)](https://postimg.cc/tnzjvb4z)
 
 ##### Vet:
-- Boceto de Home 'Pets': 
+- Boceto de Home 'Pets':  
 [![Home-Vets.png](https://i.postimg.cc/jSLY9YG7/Home-Vets.png)](https://postimg.cc/WdLyFCpN)<br>
 
-- Boceto de 'Citas': 
+- Boceto de 'Citas':  
 [![Appointments-Vets.png](https://i.postimg.cc/cL85wxpX/Appointments-Vets.png)](https://postimg.cc/rDMJLkFr)
 
 ##### Pet Owner y Vet:
@@ -283,36 +283,36 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 #### Movile Application:
 ##### Pet Owner:
 - Boceto de Log-in y Sign-in:  
- [![Iniciar-sesion.png](https://i.postimg.cc/5tLn0Qb5/Iniciar-sesion.png)](https://postimg.cc/jWqz35WC)  
- [![Seleccion-usuario.png](https://i.postimg.cc/j25HzD0F/Seleccion-usuario.png)](https://postimg.cc/DJ94hyzr)  
- [![Cresar-cuenta-Due-o-de-Mascota.png](https://i.postimg.cc/1XrtMQwV/Cresar-cuenta-Due-o-de-Mascota.png)](https://postimg.cc/sG1sDbn3)  
+ [![Iniciar-sesion.png](https://i.postimg.cc/5tLn0Qb5/Iniciar-sesion.png)](https://postimg.cc/jWqz35WC)
+ [![Seleccion-usuario.png](https://i.postimg.cc/j25HzD0F/Seleccion-usuario.png)](https://postimg.cc/DJ94hyzr)
+ [![Cresar-cuenta-Due-o-de-Mascota.png](https://i.postimg.cc/1XrtMQwV/Cresar-cuenta-Due-o-de-Mascota.png)](https://postimg.cc/sG1sDbn3)
  [![Cresar-cuenta-Due-o-de-Mascota-1.png](https://i.postimg.cc/mgDD3KDh/Cresar-cuenta-Due-o-de-Mascota-1.png)](https://postimg.cc/fJGDD2Yh)  
 
 ##### Vet:
 - Boceto de Log-in y Sign-in:  
-[![Crear-cuenta-Veterinaria.png](https://i.postimg.cc/1tRY40Mx/Crear-cuenta-Veterinaria.png)](https://postimg.cc/CZt4QqWJ)  
-[![Crear-cuenta-Veterinaria-1.png](https://i.postimg.cc/gjnSHYfN/Crear-cuenta-Veterinaria-1.png)](https://postimg.cc/64xf9N6v)  
+[![Crear-cuenta-Veterinaria.png](https://i.postimg.cc/1tRY40Mx/Crear-cuenta-Veterinaria.png)](https://postimg.cc/CZt4QqWJ)
+[![Crear-cuenta-Veterinaria-1.png](https://i.postimg.cc/gjnSHYfN/Crear-cuenta-Veterinaria-1.png)](https://postimg.cc/64xf9N6v)
 [![Crear-cuenta-deto-del-Veterinario.png](https://i.postimg.cc/Z5k76zjx/Crear-cuenta-deto-del-Veterinario.png)](https://postimg.cc/QHbJrP2F)  
 
 ##### Pet Owner:
-- Boceto de sincronizar collar:
-[![Crear-cuenta-Dato-de-Mascota.png](https://i.postimg.cc/BvnVncMr/Crear-cuenta-Dato-de-Mascota.png)](https://postimg.cc/VJ2R7Myg)  
-[![Crear-cuenta-Dato-de-Mascota-1.png](https://i.postimg.cc/SswTV0k4/Crear-cuenta-Dato-de-Mascota-1.png)](https://postimg.cc/r0NNFPDZ)  
+- Boceto de sincronizar collar:  
+[![Crear-cuenta-Dato-de-Mascota.png](https://i.postimg.cc/BvnVncMr/Crear-cuenta-Dato-de-Mascota.png)](https://postimg.cc/VJ2R7Myg)
+[![Crear-cuenta-Dato-de-Mascota-1.png](https://i.postimg.cc/SswTV0k4/Crear-cuenta-Dato-de-Mascota-1.png)](https://postimg.cc/r0NNFPDZ)
 [![Crear-cuenta-Dato-de-Mascota-3.png](https://i.postimg.cc/HWyPnL9k/Crear-cuenta-Dato-de-Mascota-3.png)](https://postimg.cc/YjtxyMP5) <br>
-- Boceto de Agregar Pet:
+- Boceto de Agregar Pet:  
 [![Crear-cuenta-Dato-de-Mascota-2.png](https://i.postimg.cc/NMT7sKvh/Crear-cuenta-Dato-de-Mascota-2.png)](https://postimg.cc/ZBbyjKqj)  
 - Boceto de Home 'Pets':  
-[![Home-Due-o-de-Mascota.png](https://i.postimg.cc/Dyqvrnn2/Home-Due-o-de-Mascota.png)](https://postimg.cc/MvpJxkn4)  
-[![Home-Due-o-de-Mascota-1.png](https://i.postimg.cc/4dDGcF07/Home-Due-o-de-Mascota-1.png)](https://postimg.cc/XGktSx44)  
+[![Home-Due-o-de-Mascota.png](https://i.postimg.cc/Dyqvrnn2/Home-Due-o-de-Mascota.png)](https://postimg.cc/MvpJxkn4)
+[![Home-Due-o-de-Mascota-1.png](https://i.postimg.cc/4dDGcF07/Home-Due-o-de-Mascota-1.png)](https://postimg.cc/XGktSx44)
 [![Menu-Due-o-de-Mascota.png](https://i.postimg.cc/3xtH1w6H/Menu-Due-o-de-Mascota.png)](https://postimg.cc/TK5SYTfk)  
 - Boceto de 'Citas':  
 [![Home-Due-o-de-Mascota-2.png](https://i.postimg.cc/9fcrRz95/Home-Due-o-de-Mascota-2.png)](https://postimg.cc/YvypTr8b)  
-- Boceto de 'Agendar Cita' (Flujo de Tareas):
-[![Home-Due-o-de-Mascota-3.png](https://i.postimg.cc/MKyBvCLB/Home-Due-o-de-Mascota-3.png)](https://postimg.cc/ZC5nQM4Y)  
+- Boceto de 'Agendar Cita' (Flujo de Tareas):  
+[![Home-Due-o-de-Mascota-3.png](https://i.postimg.cc/MKyBvCLB/Home-Due-o-de-Mascota-3.png)](https://postimg.cc/ZC5nQM4Y)
 [![Home-Due-o-de-Mascota-1.png](https://i.postimg.cc/V6C62MQt/Home-Due-o-de-Mascota-1.png)](https://postimg.cc/vgGbV4m8)  
 - Boceto Historial de la Mascota:  
 [![Home-Due-o-de-Mascota-4.png](https://i.postimg.cc/Sxkgs7gy/Home-Due-o-de-Mascota-4.png)](https://postimg.cc/BX7T7DWy)
-- Boceto Sidebar:
+- Boceto Sidebar:  
 [![Menu-Due-o-de-Mascota-1.png](https://i.postimg.cc/QMnmfLht/Menu-Due-o-de-Mascota-1.png)](https://postimg.cc/p9zKd69b)
 ##### Vet:
 - Boceto de Home:  
@@ -365,53 +365,53 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 [![Appointments-Vets.png](https://i.postimg.cc/JhvykfFL/Appointments-Vets.png)](https://postimg.cc/FfbstBmW)
 
 ##### Pet Owner y Vet:
-- Mock-up de 'Profile':
+- Mock-up de 'Profile':  
 [![Profile-Pet-Owners-Perfil.png](https://i.postimg.cc/Bbd1fdxp/Profile-Pet-Owners-Perfil.png)](https://postimg.cc/MfmGy33f)<br>
-- Mock-up de 'Ajustes':
+- Mock-up de 'Ajustes':  
 [![Settings-Pet-Owners-Perfil.png](https://i.postimg.cc/tg2Z413Y/Settings-Pet-Owners-Perfil.png)](https://postimg.cc/7CJYBZQk)
 
 #### Movile Application:
 ##### Pet Owner y Vets:
 - Mock-up de Log-in y Sign-in:  
-[![Bienvenida.png](https://i.postimg.cc/VNJRJYbR/Bienvenida.png)](https://postimg.cc/2qfvJNGb =250x)
-[![Iniciar-sesion.png](https://i.postimg.cc/ZqXL318h/Iniciar-sesion.png)](https://postimg.cc/67LRxbbH =250x)  
-[![Seleccion-usuario.png](https://i.postimg.cc/vmnnRDVp/Seleccion-usuario.png)](https://postimg.cc/DW20Lv5g)  
-[![Cresar-cuenta-Due-o-de-Mascota.png](https://i.postimg.cc/Prq8XSDb/Cresar-cuenta-Due-o-de-Mascota.png)](https://postimg.cc/Jt9hKcPt)  
-[![Cresar-cuenta-Due-o-de-Mascota-1.png](https://i.postimg.cc/m261t73v/Cresar-cuenta-Due-o-de-Mascota-1.png)](https://postimg.cc/56L2rYRg)  
-[![Crear-cuenta-Veterinaria.png](https://i.postimg.cc/59s6R8rX/Crear-cuenta-Veterinaria.png)](https://postimg.cc/kDtJVRqC)  
-[![Crear-cuenta-Veterinaria-1.png](https://i.postimg.cc/Fs1757tD/Crear-cuenta-Veterinaria-1.png)](https://postimg.cc/crysf1Ln)  
-[![Crear-cuenta-deto-del-Veterinario.png](https://i.postimg.cc/jd9CsttK/Crear-cuenta-deto-del-Veterinario.png)](https://postimg.cc/tY39k0sm)  
-- Mock-up de Sincronizar collar y Agregar mascota 
-[![Crear-cuenta-Dato-de-Mascota-1.png](https://i.postimg.cc/8zH4G8D1/Crear-cuenta-Dato-de-Mascota-1.png)](https://postimg.cc/cvvw7brj)  
-[![Crear-cuenta-Dato-de-Mascota.png](https://i.postimg.cc/259xq4VM/Crear-cuenta-Dato-de-Mascota.png)](https://postimg.cc/5HvzTQ5S)  
-[![Crear-cuenta-deto-del-Veterinario.png](https://i.postimg.cc/jd9CsttK/Crear-cuenta-deto-del-Veterinario.png)](https://postimg.cc/tY39k0sm)  
+[![Bienvenida.png](https://i.postimg.cc/VNJRJYbR/Bienvenida.png)](https://postimg.cc/2qfvJNGb)
+[![Iniciar-sesion.png](https://i.postimg.cc/ZqXL318h/Iniciar-sesion.png)](https://postimg.cc/67LRxbbH)
+[![Seleccion-usuario.png](https://i.postimg.cc/vmnnRDVp/Seleccion-usuario.png)](https://postimg.cc/DW20Lv5g)
+[![Cresar-cuenta-Due-o-de-Mascota.png](https://i.postimg.cc/Prq8XSDb/Cresar-cuenta-Due-o-de-Mascota.png)](https://postimg.cc/Jt9hKcPt)
+[![Cresar-cuenta-Due-o-de-Mascota-1.png](https://i.postimg.cc/m261t73v/Cresar-cuenta-Due-o-de-Mascota-1.png)](https://postimg.cc/56L2rYRg)
+[![Crear-cuenta-Veterinaria.png](https://i.postimg.cc/59s6R8rX/Crear-cuenta-Veterinaria.png)](https://postimg.cc/kDtJVRqC)
+[![Crear-cuenta-Veterinaria-1.png](https://i.postimg.cc/Fs1757tD/Crear-cuenta-Veterinaria-1.png)](https://postimg.cc/crysf1Ln)
+[![Crear-cuenta-deto-del-Veterinario.png](https://i.postimg.cc/jd9CsttK/Crear-cuenta-deto-del-Veterinario.png)](https://postimg.cc/tY39k0sm)
+- Mock-up de Sincronizar collar y Agregar mascota  
+[![Crear-cuenta-Dato-de-Mascota-1.png](https://i.postimg.cc/8zH4G8D1/Crear-cuenta-Dato-de-Mascota-1.png)](https://postimg.cc/cvvw7brj)
+[![Crear-cuenta-Dato-de-Mascota.png](https://i.postimg.cc/259xq4VM/Crear-cuenta-Dato-de-Mascota.png)](https://postimg.cc/5HvzTQ5S)
+[![Crear-cuenta-deto-del-Veterinario.png](https://i.postimg.cc/jd9CsttK/Crear-cuenta-deto-del-Veterinario.png)](https://postimg.cc/tY39k0sm)
 
 ##### Pet Owner:
-- Mock-up Home 'Mascotas':
-[![Home-Due-o-de-Mascota.png](https://i.postimg.cc/kgPz4yW4/Home-Due-o-de-Mascota.png)](https://postimg.cc/CzJmrkPT)  
+- Mock-up Home 'Mascotas':  
+[![Home-Due-o-de-Mascota.png](https://i.postimg.cc/kgPz4yW4/Home-Due-o-de-Mascota.png)](https://postimg.cc/CzJmrkPT)
 [![Home-Due-o-de-Mascota-1.png](https://i.postimg.cc/wj8Hfv9t/Home-Due-o-de-Mascota-1.png)](https://postimg.cc/563ZjfY1)  
-- Mock-up 'Historial':
+- Mock-up 'Historial':  
 [![Home-Due-o-de-Mascota-2.png](https://i.postimg.cc/nzjpSQ9D/Home-Due-o-de-Mascota-2.png)](https://postimg.cc/G8CWHtQL)  
 - Mock-up 'Mascotas' y Agregar mascotas:  
-[![Menu-Due-o-de-Mascota.png](https://i.postimg.cc/B6DR151M/Menu-Due-o-de-Mascota.png)](https://postimg.cc/tZqBKxkx)  
+[![Menu-Due-o-de-Mascota.png](https://i.postimg.cc/B6DR151M/Menu-Due-o-de-Mascota.png)](https://postimg.cc/tZqBKxkx)
 [![Menu-Due-o-de-Mascota-1.png](https://i.postimg.cc/SxJTMLBC/Menu-Due-o-de-Mascota-1.png)](https://postimg.cc/Hr19GMsk)  
-- Mock-up Agendar Cita:
-[![Home-Due-o-de-Mascota-3.png](https://i.postimg.cc/HLm6hGJ4/Home-Due-o-de-Mascota-3.png)](https://postimg.cc/SnZLnvfJ)  
-[![Home-Due-o-de-Mascota-4.png](https://i.postimg.cc/635YBdf8/Home-Due-o-de-Mascota-4.png)](https://postimg.cc/xkhKRN7Q)  
-[![Home-Due-o-de-Mascota-5.png](https://i.postimg.cc/Qt4SCHf0/Home-Due-o-de-Mascota-5.png)](https://postimg.cc/ygR0rY4Z)  
-[![Home-Due-o-de-Mascota-6.png](https://i.postimg.cc/cCvhn0jZ/Home-Due-o-de-Mascota-6.png)](https://postimg.cc/JHWjwVMd)  
+- Mock-up Agendar Cita:  
+[![Home-Due-o-de-Mascota-3.png](https://i.postimg.cc/HLm6hGJ4/Home-Due-o-de-Mascota-3.png)](https://postimg.cc/SnZLnvfJ)
+[![Home-Due-o-de-Mascota-4.png](https://i.postimg.cc/635YBdf8/Home-Due-o-de-Mascota-4.png)](https://postimg.cc/xkhKRN7Q)
+[![Home-Due-o-de-Mascota-5.png](https://i.postimg.cc/Qt4SCHf0/Home-Due-o-de-Mascota-5.png)](https://postimg.cc/ygR0rY4Z)
+[![Home-Due-o-de-Mascota-6.png](https://i.postimg.cc/cCvhn0jZ/Home-Due-o-de-Mascota-6.png)](https://postimg.cc/JHWjwVMd)
 
 #### Vet:
 - Mock-up Home:  
 [![Home-Veterinaria.png](https://i.postimg.cc/J4g3SfFH/Home-Veterinaria.png)](https://postimg.cc/6yrGvmtB)  
 - Mock-up Mascotas:  
 [![Menu-Due-o-de-Mascota.png](https://i.postimg.cc/B6DR151M/Menu-Due-o-de-Mascota.png)](https://postimg.cc/tZqBKxkx)  
-- Mock-up Historial:
+- Mock-up Historial:  
 [![Veterinaria-Historial-de-mascotas.png](https://i.postimg.cc/HxR5F5ZD/Veterinaria-Historial-de-mascotas.png)](https://postimg.cc/1n0fqg1J)  
 - Mock-up de otros Vets en la misma Veterinaria:  
-[![Veterinaria-Perfiles.png](https://i.postimg.cc/g21WX2Tc/Veterinaria-Perfiles.png)](https://postimg.cc/jD69BtTB)  
-[![Veterinaria-Perfiles-1.png](https://i.postimg.cc/85mQ0BPs/Veterinaria-Perfiles-1.png)](https://postimg.cc/34NcyGGH)  
-[![Veterinaria-Perfiles-2.png](https://i.postimg.cc/8P5QZv8P/Veterinaria-Perfiles-2.png)](https://postimg.cc/jCGF5LdG)  
+[![Veterinaria-Perfiles.png](https://i.postimg.cc/g21WX2Tc/Veterinaria-Perfiles.png)](https://postimg.cc/jD69BtTB)
+[![Veterinaria-Perfiles-1.png](https://i.postimg.cc/85mQ0BPs/Veterinaria-Perfiles-1.png)](https://postimg.cc/34NcyGGH)
+[![Veterinaria-Perfiles-2.png](https://i.postimg.cc/8P5QZv8P/Veterinaria-Perfiles-2.png)](https://postimg.cc/jCGF5LdG)
 
 
 ### 5.4.3. Applications User Flow Diagrams.
