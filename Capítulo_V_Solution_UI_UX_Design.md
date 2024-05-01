@@ -336,7 +336,7 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 - Boceto de 'Ajustes':  
 [![Veterinaria-Ajustes.png](https://i.postimg.cc/BnQs9D9z/Veterinaria-Ajustes.png)](https://postimg.cc/RN82wW01)
 
-### 5.4.2. Applications Wireflow Diagrams.
+### 5.4.2. Applications Wireflow Diagrams.  
 ### 5.4.2. Applications Mock-ups.
 #### Web Application:
 ##### Pet Owner y Vet:
@@ -373,8 +373,8 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 #### Movile Application:
 ##### Pet Owner y Vets:
 - Mock-up de Log-in y Sign-in:  
-[![Bienvenida.png](https://i.postimg.cc/VNJRJYbR/Bienvenida.png)](https://postimg.cc/2qfvJNGb)  
-[![Iniciar-sesion.png](https://i.postimg.cc/ZqXL318h/Iniciar-sesion.png)](https://postimg.cc/67LRxbbH)  
+[![Bienvenida.png](https://i.postimg.cc/VNJRJYbR/Bienvenida.png)](https://postimg.cc/2qfvJNGb =250x)
+[![Iniciar-sesion.png](https://i.postimg.cc/ZqXL318h/Iniciar-sesion.png)](https://postimg.cc/67LRxbbH =250x)  
 [![Seleccion-usuario.png](https://i.postimg.cc/vmnnRDVp/Seleccion-usuario.png)](https://postimg.cc/DW20Lv5g)  
 [![Cresar-cuenta-Due-o-de-Mascota.png](https://i.postimg.cc/Prq8XSDb/Cresar-cuenta-Due-o-de-Mascota.png)](https://postimg.cc/Jt9hKcPt)  
 [![Cresar-cuenta-Due-o-de-Mascota-1.png](https://i.postimg.cc/m261t73v/Cresar-cuenta-Due-o-de-Mascota-1.png)](https://postimg.cc/56L2rYRg)  
