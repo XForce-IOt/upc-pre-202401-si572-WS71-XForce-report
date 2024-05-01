@@ -1,4 +1,4 @@
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/83188290/18130bf7-c911-428d-ac02-446e6ca04d7f)## 4.1. Strategic-Level Domain-Driven Design.
+## 4.1. Strategic-Level Domain-Driven Design.
 ### 4.1.1. EventStorming.
 Nuestro proceso de event storming se realizó en la herramienta MIRO, donde se realizó todo el proceso.
 
