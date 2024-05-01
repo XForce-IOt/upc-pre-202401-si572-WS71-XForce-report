@@ -132,9 +132,10 @@ Este diagrama de contexto ilustra eficazmente cómo las diferentes entidades int
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams.
 
-Es un diagrama que se enfoca en los contenedores de software y sus relaciones. Representa cómo la aplicación móvil, la API propia, el servidor de aplicación y la base de datos están organizados y cómo interactúan entre sí para proporcionar funcionalidades completas a los usuarios.
+El diagrama ilustra cómo los diferentes contenedores del sistema interactúan entre sí y con los usuarios finales para proporcionar una solución integral de monitoreo y gestión de la salud de las mascotas. El sistema se compone de varias aplicaciones web y móviles, una API central, y componentes específicos de edge computing para manejar los datos generados por un collar inteligente.  
+Este diagrama de contenedores muestra un sistema robusto y bien integrado que utiliza tecnología moderna y prácticas de diseño para proporcionar una solución completa para el monitoreo de la salud y la gestión de la atención de las mascotas. Cada componente está diseñado para trabajar en conjunto de manera eficiente, asegurando que los usuarios, ya sean dueños de mascotas o veterinarios, reciban una experiencia fluida y funcional.
 
-[![Container-Diagram-1.png](https://i.postimg.cc/Gh1GbSs0/Container-Diagram-1.png)](https://postimg.cc/vD3czhzX)
+[![Container-Diagrams.png](https://i.postimg.cc/Y9tWJ47k/image.png)](https://postimg.cc/WDfzZ1tf)
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams.
 
