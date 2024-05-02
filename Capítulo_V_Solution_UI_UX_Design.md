@@ -109,7 +109,7 @@ Para optimizar la visibilidad y el posicionamiento en los motores de búsqueda, 
 #### Para el Sitio Web Estático (Landing Page) y Web Application:  
 
 1. **Title:**  
-**Landing Page:** "El mejor cuidado para la salud de tu mascota. Controla la salud de tus mascotas con tecnología IoT"  
+**Landing Page:** "¡Bienvenido a PetHealth! Controla la salud de tus mascotas con tecnología IoT"  
 **Web Application:** "PetHealth - Monitoriza la salud de tus mascotas con nuestro collar IoT"  
 2. **Meta Description:**  
 **Landing Page:** "Descubre cómo PetHealth puede ayudarte a monitorear la salud de tus mascotas con nuestro collar IoT inteligente. Regístrate ahora y mantén a tus mascotas saludables y seguras."  
