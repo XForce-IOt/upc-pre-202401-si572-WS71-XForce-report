@@ -139,25 +139,56 @@ Este diagrama muestra cómo los diferentes elementos del sistema, como aplicacio
 [![Deployment-Diagram-2-1.png](https://i.postimg.cc/qv13XJD0/Deployment-Diagram-2-1.png)](https://postimg.cc/rDtsqkLY)
 
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.1. Bounded Context: Motitorizacion de salud de mascota
+### 4.2.1. Bounded Context: Function of the collar
+El dominio de Function of the collar describe detalladamente las funciones y procesos que se llevan a cabo a través del collar inteligente para mascotas. Este dominio es responsable de manejar las funciones, como el monitoreo y el de encontrar a la mascota perdida, como garantizar la manera correcta de instalar y sincronizar la cuenta del usuario con el collar.
+
+**Diccionario de Clases:**
+
+El Diccionario de Clases es una herramienta importante en el proceso de diseño y desarrollo de nuestra plataforma PetHealth, ya que proporciona una descripción detallada de las clases clave que forman la base del modelo de dominio del sistema. Este diccionario documenta las entidades y sus relaciones, atributos y comportamientos, lo que facilita la comunicación y la colaboración entre los miembros del equipo y garantiza una base sólida para nuestra solución de nuestro proyecto PetHealth.  
+[![collar.png](https://i.postimg.cc/yN0pycYK/image.png)](https://postimg.cc/675h97vb)  
+[![sensor.png](https://i.postimg.cc/s237bh4s/image.png)](https://postimg.cc/75Q52bRW)  
+[![monitoring.png](https://i.postimg.cc/xd7H84ST/image.png)](https://postimg.cc/XZfXDxJT)  
+[![alert.png](https://i.postimg.cc/FR3fRFZD/image.png)](https://postimg.cc/34rrfTzv)  
+[![geofencing.png](https://i.postimg.cc/nzJF344G/image.png)](https://postimg.cc/1gv1tNY8)  
+[![medicalHistory.png](https://i.postimg.cc/YqZwXNkL/image.png)](https://postimg.cc/tY3fJxs9)  
+[![ConnectivityManager.png](https://i.postimg.cc/VkQVrKmg/image.png)](https://postimg.cc/3d1BzCy0)
+
 #### 4.2.1.1. Domain Layer.
-- Pet: Entidad que representa a una mascota y contiene métodos para acceder a su historial de salud y programar citas veterinarias.
-- PetOwner: Entidad que representa al dueño de la mascota, incluye métodos para acceder a la información de sus mascotas
+Dentro del dominio de Function of the Collar, se encuentran entidades clave como lo escrito anteriormente. Estas entidades desempeñan un papel fundamental en el proceso de las funciones necesarias para el collar, ya que permitirá a los usuarios poder monitorear y recibir alertas sobre la salud de su mascota, como también encontrar a su mascota mediante gps.  
+A continuación, se muestra todo los objetos relacionados con el dominio.  
+[![domainlayer.png](https://i.postimg.cc/L6zrVcyw/image.png)](https://postimg.cc/3dxS8cQF)
 
 #### 4.2.1.2. Interface Layer.
-- HealthMonitoringController: Este controlador maneja las solicitudes relacionadas con la monitorización de la salud de las mascotas. Tendrá métodos para iniciar el proceso de detección de enfermedades, registrar comportamientos anómalos y obtener el historial de salud de la mascota.
-- PetOwnerController: Este controlador se encargará de las acciones relacionadas con los dueños de las mascotas. Tendrá metodos para acceder a la información de las mascotas de una persona y recibir alertas de salud.
-- HealthAlertConsumer: Escuchará eventos relacionados con la detección de enfermedades y conductas anómalas. Cuando se detecte cualquiera de los dos casos envía una notificación al dueño de la mascota mediante la aplicación.
-- HealthStatus: Contendrá la información sobre el estado de salud actual de la mascota, incluyendo frecuencia cardiaca, temperatura y cualquier anomalía detectada. Esta información se podrá ver en la interfaz de usuario de la aplicación móvil para que el dueño de la mascota lo vea.
+En esta sección, presentamos la Capa de Interfaz de nuestra plataforma de PetHealth, que representa el punto de entrada para las interacciones entre los usuarios y el sistema. La Capa de Interfaz está compuesta por una serie de controladores que manejan las peticiones entrantes de los usuarios y devuelven las respuestas adecuadas, permitiendo una comunicación efectiva entre la plataforma y sus usuarios.  
+El contexto de esta capa incluye cinco controladores principales: **CollarController, HealthMonitoringController, OwnerController, AlertsController y PetController**. Estos controladores tienen la responsabilidad de gestionar las operaciones relacionadas.
+
+**CollarController:** Maneja las operaciones relacionadas con los collares.
+
+**HealthMonitoringController:** Centrado en la captura y análisis de datos de salud de las mascotas.
+
+**OwnerController:** Maneja información relacionada con los propietarios de las mascotas.
+
+**AlertsController:** Gestiona las alertas generadas por el sistema.
+
+**PetController:** Administra información sobre las mascotas.
+
+[![interfacelayer.png](https://i.postimg.cc/wMYwyvdv/image.png)](https://postimg.cc/jwvHBR20)
 
 #### 4.2.1.3. Application Layer.
-- HealthMonitoringService: Este servicio sería responsable de coordinar la monitorización de la salud de las mascotas. Podría contener métodos para iniciar el proceso de detección de enfermedades, registrar comportamientos anómalos y almacenar el historial de salud de la mascota.
-- PetManagementService: Este servicio manejaría las operaciones relacionadas con la gestión de mascotas y sus propietarios. Podría tener métodos para acceder a la información de las mascotas de un propietario y enviar alertas de salud utilizando los servicios proporcionados por el Interface Layer.
-- PetHealthHistoryService: Este servicio sería responsable de manejar el historial de salud de las mascotas. Podría contener métodos para acceder al historial de salud de una mascota específica, agregar nuevos registros de salud y realizar consultas sobre el estado de salud pasado de la mascota.
+En esta sección, presentamos la Capa de Aplicación (Application Layer) dentro del contexto del enfoque de diseño Domain-Driven Design (DDD) para nuestra plataforma de alquiler de automóviles. La Capa de Aplicación es responsable de coordinar las acciones y el flujo de datos entre la Capa de Dominio y la Capa de Infraestructura, actuando como intermediario y gestionando las interacciones entre estas capas. Esta capa es crucial para garantizar que la lógica de negocio, representada por la Capa de Dominio, se ejecute de manera eficiente y coherente.
+
+La Capa de Aplicación se compone de servicios de aplicación, Command Handlers y Event Handlers. Los Command Handlers gestionan las operaciones de escritura en la plataforma, como **CollarActivationCommandHandler**, que se encarga de activar un collar en específico; y **PetRegistrationCommandHandler**, que permite registrar una nueva mascota en el sistema.
+
+Por otro lado, los Event Handlers se encargan de manejar eventos del sistema, como **HealthAlertEventHandler**, que procesa y responde a una alerta de salud generada por el sistema; y **LocationUpdateEventHandler**, que actualiza y valida la ubicación de la mascota en el sistema.
+
+[![aplicationlayer.png](https://i.postimg.cc/BbJxf10x/image.png)](https://postimg.cc/9RN4G0zM)
 
 #### 4.2.1.4. Infrastructure Layer.
-- PetRepository: Esta clase sería responsable de interactuar con la base de datos para almacenar y recuperar información sobre las mascotas. Podría proporcionar métodos para agregar nuevas mascotas, actualizar su información y recuperar detalles específicos sobre una mascota.
-- PetOwnerRepository: Esta clase manejaría la persistencia de información relacionada con los dueños de mascotas, como su información de contacto y la lista de mascotas asociadas. Podría proporcionar métodos para agregar nuevos propietarios, vincular mascotas a propietarios existentes y recuperar información sobre propietarios específicos.
+En esta sección, presentamos la Capa de Infraestructura (Infrastructure Layer) dentro del contexto del enfoque de diseño Domain-Driven Design (DDD) para nuestra el bounded context **Function of the Collar**. La Capa de Infraestructura es responsable de proporcionar los componentes técnicos y de soporte necesarios para que las otras capas del sistema funcionen correctamente. Esta capa incluye la implementación de repositorios, servicios que se conectan con sistemas externos y otros componentes de infraestructura.
+
+Los repositorios en la Capa de Infraestructura implementan las interfaces definidas en la Capa de Dominio y se encargan de la persistencia y gestión de datos. En nuestra plataforma, utilizamos repositorios basados en JPA (Java Persistence API) para manejar la interacción con la base de datos. Entre los repositorios clave se encuentran **CollarRepository**, que gestiona la información del Collar; y **PetRepository**, que gestiona la información de las mascotas.
+
+[![infraestructurelayer.png](https://i.postimg.cc/zX6VnRc0/image.png)](https://postimg.cc/7f1H4bD2)
 
 #### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams.
 #### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams.
