@@ -6,7 +6,9 @@
 | 3       | 02-05-2024 | Todos los integrantes | Se realizan correcciones sobre la revisión de la TB1, se agrega capítulo 5.|
 
 ### Project Report Collaboration Insights
-Url del repositorio: [https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report)
+Url del repositorio informe: [https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report)  
+Url del repositorio Web Application: [https://github.com/XForce-IOt/Frontend](https://github.com/XForce-IOt/Frontend)  
+Url del repositorio Mobile Application: [https://github.com/XForce-IOt/Mobile](https://github.com/XForce-IOt/Mobile)
 #### Evidencias de la TB1
 Se obserban cas contribuciones hechas a la rama main hasta el día 13-04-2024
 [![Colaboration-Insights.png](https://i.postimg.cc/T2tmkcJb/Colaboration-Insights.png)](https://postimg.cc/QVWHC1PN)
