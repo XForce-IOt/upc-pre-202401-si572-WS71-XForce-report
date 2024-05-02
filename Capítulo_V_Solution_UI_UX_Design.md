@@ -430,7 +430,7 @@ Task Flow:
 - El usuario se encuentra en el log in
 - El usuario se dirige a Sign Up
 - El usuario selecciona el tipo de cuenta
-- El usuario rellena los el formulario
+- El usuario rellena los formularios
 - El usuario crea su cuenta
 
 [![WF1.png](https://i.postimg.cc/QN71zvPD/WF1.png)](https://postimg.cc/grYxXtmt)
@@ -574,6 +574,8 @@ Task Flow:
 
 ### 5.4.3. Applications User Flow Diagrams.
 
+#### Web Application User Flow Diagrams:
+
 #### User Flow N°1:
 
 a) User Goal: 
@@ -657,5 +659,91 @@ b) Task Flow:
 c) User Flow:
 
 [![UF5.png](https://i.postimg.cc/G3BWwzby/UF5.png)](https://postimg.cc/hhByVLzD)
+
+#### Mobile Application User Flow Diagrams:
+
+#### User Flow N°1:
+
+a) User goal: 
+Registrarse en la aplicación
+Como usuario quiero registrarme en la aplicación.
+
+b) Task Flow: 
+- El usuario se encuentra en el log in 
+- El usuario se dirige a Sign Up 
+- El usuario selecciona el tipo de cuenta
+- El usuario rellena los el formulario 
+- El usuario crea su cuenta
+
+c) User Flow:
+
+[![MUF1.png](https://i.postimg.cc/CLFCfmPV/MUF1.png)](https://postimg.cc/grTLCqbM)
+
+#### User Flow N°2:
+
+a) User goal:
+Supervisa los datos recopilados de las mascotas.
+Como usuario quiero supervisa los datos recopilados de mis mascotas.
+
+b) Task Flow:
+- El usuario ingresa a la aplicación 
+- El usuario selecciona una de las 6 opciones de recopilación de datos
+
+c) User Flow:
+
+[![MUF2.png](https://i.postimg.cc/K8jn04hq/MUF2.png)](https://postimg.cc/cvqgHxHw)
+
+#### User Flow N°3:
+
+a) User Goal:
+Agendar una cita.
+Como usuario quiero agendar una cita con el veterinario.
+
+b) Task Flow:
+- El usuario ingresa a la aplicación 
+- El usuario se dirige a Citas 
+- El usuario selecciona Añadir Cita 
+- El usuario selecciona la veterinaria 
+- El usuario selecciona el veterinario disponible 
+- El usuario selecciona la fecha y hora 
+- El usuario agenda la cita
+
+c) User Flow:
+
+[![MUF3.png](https://i.postimg.cc/C1TkMNBX/MUF3.png)](https://postimg.cc/t1kY2FzN)
+
+#### User Flow N°4:
+
+a) User Goal:
+Editar información de mascota.
+Como usuario quiero editar la información de mi mascota. 
+
+b)  Task Flow:
+- El usuario ingresa a la aplicación 
+- El usuario se dirige a más opciones 
+- El usuario selecciona Mascotas 
+- El usuario selecciona la mascota 
+- El usario edita la información y guarda los cambios
+
+c) User Flow:
+
+[![MUF4.png](https://i.postimg.cc/G3jGrvcg/MUF4.png)](https://postimg.cc/RqNNL6Jw)
+
+#### User Flow N°5:
+
+a) User Goal:
+Editar perfil.
+Como usuario quiero editar la información de mi perfil. 
+
+b) Task Flow:
+- El usuario ingresa a la aplicación 
+- El usuario se dirige a más opciones 
+- El usuario se dirige a Perfil 
+- El usuario edita sus datos 
+- El usuario guarda los cambios
+
+c) User Flow:
+
+[![MUF5.png](https://i.postimg.cc/KvqT3F3n/MUF5.png)](https://postimg.cc/HVMnFq2x)
 
 ## 5.5. Applications Prototyping.
