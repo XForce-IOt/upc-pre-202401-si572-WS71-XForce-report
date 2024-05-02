@@ -336,7 +336,86 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 - Boceto de 'Ajustes':  
 [![Veterinaria-Ajustes.png](https://i.postimg.cc/BnQs9D9z/Veterinaria-Ajustes.png)](https://postimg.cc/RN82wW01)
 
-### 5.4.2. Applications Wireflow Diagrams.  
+### 5.4.2. Applications Wireflow Diagrams. 
+
+#### User goal: 
+
+Registrarse en la aplicación.
+
+Como usuario quiero registrarme en la aplicación.
+
+Task Flow:
+- El usuario se encuentra en el log in
+- El usuario se dirige a Sign Up
+- El usuario selecciona el tipo de cuenta
+- El usuario rellena los el formulario
+- El usuario crea su cuenta
+
+
+[![UG1.png](https://i.postimg.cc/QtwRPKP5/UG1.png)](https://postimg.cc/Hc0Z8nTs)
+
+#### User goal:
+
+Agregar una mascota.
+
+Como usuario quiero agregar una mascota.
+
+Task Flow:
+- El usuario inicia sesión
+- El usuario se dirige a Mascotas 
+- El usuario agrega una nueva mascota 
+- El usuario rellena los datos de la nueva mascota
+
+
+[![UG2.png](https://i.postimg.cc/7LbtkYSN/UG2.png)](https://postimg.cc/TyMJjx7y)
+
+#### User goal:
+
+Agendar una cita.
+
+Como usuario quiero agendar una cita con el veterinario.
+
+Task Flow:
+- El usuario inicia sesión
+- El usuario se dirige a Citas
+- El usuario selecciona Añadir Cita
+- El usuario selecciona la veterinaria
+- El usuario selecciona el veterinario disponible
+- El usuario selecciona la fecha y hora
+- El usuario agenda la cita
+
+
+[![UG3.png](https://i.postimg.cc/W3k9dWWF/UG3.png)](https://postimg.cc/gXGy5DPm)
+
+#### User goal:
+
+Editar perfil.
+
+Como usuario quiero editar los datos de mi perfil.
+
+Task Flow:
+- El usuario inicia sesión
+- El usuario se dirige a Perfil
+- El usuario edita sus datos
+- El usuario guarda los cambios
+
+
+[![UG4.png](https://i.postimg.cc/8kLKDYfx/UG4.png)](https://postimg.cc/Yjqfzb3x)
+
+#### User goal:
+
+Cambiar contraseña.
+
+Como usuario quiero tener la opción de cambiar mi contraseña. 
+
+Task Flow:
+- El usuario inicia sesión
+- El usuario se dirige a Ajustes
+- El usuario ingresa su contraseña actual, la contraseña nueva y la confirma
+- El usuario guarda los cambios
+
+
+[![UG5.png](https://i.postimg.cc/cJKhzkN9/UG5.png)](https://postimg.cc/p9HKhZrz)
 
 ### 5.4.2. Applications Mock-ups.
 #### Web Application:
@@ -416,4 +495,89 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 
 
 ### 5.4.3. Applications User Flow Diagrams.
+
+#### User Flow N°1:
+
+a) User Goal: 
+Registrarse en la aplicación.
+Como usuario quiero registrarme en la aplicación.
+
+b) Task Flow:
+- El usuario se encuentra en el log in
+- El usuario se dirige a Sign Up
+- El usuario selecciona el tipo de cuenta
+- El usuario rellena los el formulario
+- El usuario crea su cuenta
+
+c) User Flow
+
+[![UF1.png](https://i.postimg.cc/d04BLMjV/UF1.png)](https://postimg.cc/xkNH44Zw)
+
+#### User Flow N°2:
+
+a) User Goal:
+Agregar una mascota.
+Como usuario quiero agregar una mascota.
+
+b) Task Flow:
+- El usuario inicia sesión
+- El usuario se dirige a Mascotas 
+- El usuario agrega una nueva mascota 
+- El usuario rellena los datos de la nueva mascota
+
+c) User Flow:
+
+[![UF2.png](https://i.postimg.cc/QtzJJpPL/UF2.png)](https://postimg.cc/r0S48tMg)
+
+#### User Flow N°3:
+
+a) User Goal: 
+Agendar una cita.
+Como usuario quiero agendar una cita con el veterinario.
+
+b) Task Flow:
+- El usuario inicia sesión
+- El usuario se dirige a Citas
+- El usuario selecciona Añadir Cita
+- El usuario selecciona la veterinaria
+- El usuario selecciona el veterinario disponible
+- El usuario selecciona la fecha y hora
+- El usuario agenda la cita
+
+c) User Flow:
+
+[![UF3.png](https://i.postimg.cc/hv7byXWX/UF3.png)](https://postimg.cc/n9pDMcLx)
+
+#### User Flow N°4:
+
+a) User Goal: 
+Editar perfil.
+Como usuario quiero editar los datos de mi perfil.
+
+b) Task Flow:
+- El usuario inicia sesión
+- El usuario se dirige a Perfil
+- El usuario edita sus datos
+- El usuario guarda los cambios
+
+c) User Flow:
+
+[![UF4.png](https://i.postimg.cc/ThMjZTfC/UF4.png)](https://postimg.cc/wR2sN8tm)
+
+#### User Flow N°5:
+
+a) User Goal:
+Cambiar contraseña.
+Como usuario quiero tener la opción de cambiar mi contraseña. 
+
+b) Task Flow:
+- El usuario inicia sesión
+- El usuario se dirige a Ajustes
+- El usuario ingresa su contraseña actual, la contraseña nueva y la confirma
+- El usuario guarda los cambios
+
+c) User Flow:
+
+[![UF5.png](https://i.postimg.cc/G3BWwzby/UF5.png)](https://postimg.cc/hhByVLzD)
+
 ## 5.5. Applications Prototyping.
