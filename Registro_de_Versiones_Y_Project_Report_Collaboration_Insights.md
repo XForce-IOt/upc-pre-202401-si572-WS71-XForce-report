@@ -3,6 +3,7 @@
 |---------|------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 1       | 13-04-2024 | Todos los Integrantes | Primera versión del informe                                                                                                              |
 | 2       | 26-04-2024 | Todos los integrantes | Se agrega Registro de versiones del Informe, Project Report Collaboration Insights, Student Outcome y corrección de Tabla de contenido.  |
+| 3       | 02-05-2024 | Todos los integrantes | Se realizan correcciones sobre la revisión de la TB1, se agrega capítulo 5.|
 
 ### Project Report Collaboration Insights
 Url del repositorio: [https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report)
@@ -12,7 +13,7 @@ Se obserban cas contribuciones hechas a la rama main hasta el día 13-04-2024
 [![Colaboration-Insights-Pulse.png](https://i.postimg.cc/SxHNjn7j/Colaboration-Insights-Pulse.png)](https://postimg.cc/yDXzbYGz)
 
 #### Evidencias del TP
-Se obserban cas contribuciones hechas a la rama main hasta el día 01-05-2024
+Se obserban cas contribuciones hechas a la rama main hasta el día 02-05-2024
 
 ### Student Outcome
 | Criterio Específico                                                                                                                                 | Acciones Realizadas         | Conclusiones |
