@@ -6,11 +6,11 @@ El To-Be Scenario Mapping es una herramienta clave para proyectar mejoras en el 
 
 - **Dueños de Mascotas**  
 
-[![Screenshot-2024-05-02-at-12-35-46.png](https://i.postimg.cc/Z52xgRDq/Screenshot-2024-05-02-at-12-35-46.png)](https://postimg.cc/87dvf1G8)
+[![Screenshot-2024-05-02-at-12-35-46.png](https://i.postimg.cc/Z52xgRDq/Screenshot-2024-05-02-at-12-35-46.png)](https://postimg.cc/87dvf1G8)  
 
 - **Dueños de Veterinarias**  
 
-[![Screenshot-2024-05-02-at-12-36-33.png](https://i.postimg.cc/rm80Y2cm/Screenshot-2024-05-02-at-12-36-33.png)](https://postimg.cc/XZzYphrS)
+[![Screenshot-2024-05-02-at-12-36-33.png](https://i.postimg.cc/rm80Y2cm/Screenshot-2024-05-02-at-12-36-33.png)](https://postimg.cc/XZzYphrS)  
 
 ## 3.2. User Stories.
 
