@@ -109,7 +109,7 @@ Para optimizar la visibilidad y el posicionamiento en los motores de búsqueda, 
 #### Para el Sitio Web Estático (Landing Page) y Web Application:  
 
 1. **Title:**  
-**Landing Page:** "¡Bienvenido a PetHealth! Controla la salud de tus mascotas con tecnología IoT"  
+**Landing Page:** "El mejor cuidado para la salud de tu mascota. Controla la salud de tus mascotas con tecnología IoT"  
 **Web Application:** "PetHealth - Monitoriza la salud de tus mascotas con nuestro collar IoT"  
 2. **Meta Description:**  
 **Landing Page:** "Descubre cómo PetHealth puede ayudarte a monitorear la salud de tus mascotas con nuestro collar IoT inteligente. Regístrate ahora y mantén a tus mascotas saludables y seguras."  
@@ -253,9 +253,9 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 [![Sign-up.png](https://i.postimg.cc/cHLTJd0x/Sign-up.png)](https://postimg.cc/Z9X67tW2)  
 
 ##### Pet Owner:
-- Boceto de Home 'Pets' y Agregar Pets:  
+- Boceto de Home 'Pets' y Editar Pets:  
 [![Home-Pet-Owners.png](https://i.postimg.cc/cLJQYXPh/Home-Pet-Owners.png)](https://postimg.cc/D8tJ3dv4)
-[![Home-Pet-Owners-1.png](https://i.postimg.cc/yxVTGBr4/Home-Pet-Owners-1.png)](https://postimg.cc/FdBcdt4D)  
+[![Home-Pet-Owners-1.png](https://i.postimg.cc/BvYS6dV5/Home-Pet-Owners-1.png)](https://postimg.cc/hJmWZ3gh)  
 <br>
 - Boceto de 'Citas':  
 [![Home-Pet-Owners-citas.png](https://i.postimg.cc/pdfzM4j2/Home-Pet-Owners-citas.png)](https://postimg.cc/7CLfgBXc)  <br>
@@ -337,6 +337,7 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 [![Veterinaria-Ajustes.png](https://i.postimg.cc/BnQs9D9z/Veterinaria-Ajustes.png)](https://postimg.cc/RN82wW01)
 
 ### 5.4.2. Applications Wireflow Diagrams.  
+
 ### 5.4.2. Applications Mock-ups.
 #### Web Application:
 ##### Pet Owner y Vet:
@@ -345,9 +346,9 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 [![usuarios.png](https://i.postimg.cc/Xvqm2RDz/usuarios.png)](https://postimg.cc/Ty8t14xV)
 
 ##### Pet Owner:
-- Mock-ups de Home 'Pets' y Agregar Pets:  
+- Mock-ups de Home 'Pets' y Editar Pets:  
 [![Home-Pet-Owners.png](https://i.postimg.cc/KzrPtzDS/Home-Pet-Owners.png)](https://postimg.cc/47yHgX0B)  
-[![Home-Pet-Owners-1.png](https://i.postimg.cc/85K58g1f/Home-Pet-Owners-1.png)](https://postimg.cc/N9XYTV2Q)<br>
+[![Home-Pet-Owners.png](https://i.postimg.cc/LsHKjN1y/Home-Pet-Owners.png)](https://postimg.cc/4YFSgvwt)<br>
 
 - Boceto de 'Citas':  
 [![Home-Pet-Owners-citas.png](https://i.postimg.cc/rsDYjxnR/Home-Pet-Owners-citas.png)](https://postimg.cc/wRdVTyd9)<br>
