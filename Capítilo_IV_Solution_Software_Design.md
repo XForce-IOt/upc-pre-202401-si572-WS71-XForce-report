@@ -92,6 +92,18 @@ De acuerdo con los boundend contexts definidos en puntos anteriores, se crearon 
 
 #### Context Mapping 
 
+Function of the collar y Appointment function se relacionan:
+
+Ambos contextos están relacionados en el sentido de que las funciones asociadas con el collar de monitoreo de mascotas pueden requerir citas programadas o gestión de citas para visitas veterinarias.
+
+User account management se relaciona con Function of the collar y Appointment function:
+
+User account management está relacionado con Function of the collar porque los usuarios pueden necesitar configurar sus cuentas para controlar las funciones del collar de manera adecuada.
+
+También se relaciona con Appointment function porque los usuarios podrían usar sus cuentas para programar citas veterinarias relacionadas con el cuidado de las mascotas.
+
+Estas relaciones reflejan cómo los diferentes aspectos de la aplicación están interconectados para proporcionar una experiencia completa y coherente para los usuarios, desde la gestión de cuentas hasta las funciones específicas del collar y las citas veterinarias.
+
 [![Context-Mapping-Pet-Health.jpg](https://i.postimg.cc/GhJrWY4h/Context-Mapping-Pet-Health.jpg)](https://postimg.cc/zVB9Wyw9)
 
 Para una mejor vista: https://miro.com/app/board/uXjVKNZ76t4=/?share_link_id=935515296039 
