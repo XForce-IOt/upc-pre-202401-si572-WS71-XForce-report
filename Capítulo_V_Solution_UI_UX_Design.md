@@ -338,6 +338,8 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 
 ### 5.4.2. Applications Wireflow Diagrams. 
 
+#### Web Application Wireflow Diagrams:
+
 #### User goal: 
 
 Registrarse en la aplicación.
@@ -416,6 +418,82 @@ Task Flow:
 
 
 [![UG5.png](https://i.postimg.cc/cJKhzkN9/UG5.png)](https://postimg.cc/p9HKhZrz)
+
+#### Mobile Application Wireflow Diagrams:
+
+#### User Goal:
+Registrarse en la aplicación.
+
+Como usuario quiero registrarme en la aplicación.
+
+Task Flow:
+- El usuario se encuentra en el log in
+- El usuario se dirige a Sign Up
+- El usuario selecciona el tipo de cuenta
+- El usuario rellena los el formulario
+- El usuario crea su cuenta
+
+[![WF1.png](https://i.postimg.cc/QN71zvPD/WF1.png)](https://postimg.cc/grYxXtmt)
+
+#### User Goal:
+
+Supervisa los datos recopilados de las mascotas.
+
+Como usuario quiero supervisa los datos recopilados de mis mascotas.
+
+Task Flow:
+- El usuario ingresa a la aplicación
+- El usuario selecciona una de las 6 opciones de recopilación de datos
+
+[![WF2.png](https://i.postimg.cc/rFLx2QXr/WF2.png)](https://postimg.cc/DmB8qQzv)
+
+#### User Goal:
+
+Agendar una cita.
+
+Como usuario quiero agendar una cita con el veterinario.
+
+Task Flow:
+- El usuario ingresa a la aplicación
+- El usuario se dirige a Citas
+- El usuario selecciona Añadir Cita
+- El usuario selecciona la veterinaria
+- El usuario selecciona el veterinario disponible
+- El usuario selecciona la fecha y hora
+- El usuario agenda la cita
+
+[![WF3.png](https://i.postimg.cc/6QTGfPRD/WF3.png)](https://postimg.cc/TyMwRCt9)
+
+#### User Goal:
+
+Editar información de mascota.
+
+Como usuario quiero editar la información de mi mascota. 
+
+Task Flow:
+- El usuario ingresa a la aplicación
+- El usuario se dirige a más opciones
+- El usuario selecciona Mascotas 
+- El usuario selecciona la mascota
+- El usario edita la información y guarda los cambios
+
+[![WF4.png](https://i.postimg.cc/kXSvsBK0/WF4.png)](https://postimg.cc/MvWBKZs5)
+
+#### User Goal:
+
+Editar perfil.
+
+Como usuario quiero editar la información de mi perfil. 
+
+Task Flow:
+- El usuario ingresa a la aplicación
+- El usuario se dirige a más opciones
+- El usuario se dirige a Perfil
+- El usuario edita sus datos
+- El usuario guarda los cambios
+
+[![WF5.png](https://i.postimg.cc/QCT1fy9Q/WF5.png)](https://postimg.cc/YLtv98x0)
+
 
 ### 5.4.2. Applications Mock-ups.
 #### Web Application:
