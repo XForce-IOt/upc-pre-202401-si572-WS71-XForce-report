@@ -6,11 +6,11 @@ El To-Be Scenario Mapping es una herramienta clave para proyectar mejoras en el 
 
 - **Dueños de Mascotas**  
 
-[![Captura-de-pantalla-2024-05-02-134030.png](https://i.postimg.cc/J42XgtYv/Captura-de-pantalla-2024-05-02-134030.png)](https://postimg.cc/PP1NvfjQ)  
+[![To-be-Scenario-Mapp-Pet-Health-owner.jpg](https://i.postimg.cc/Z5fJjyfv/To-be-Scenario-Mapp-Pet-Health-owner.jpg)](https://postimg.cc/0zwgyr19)  
 
 - **Dueños de Veterinarias**  
 
-[![Captura-de-pantalla-2024-05-02-134337.png](https://i.postimg.cc/3wHk5GXS/Captura-de-pantalla-2024-05-02-134337.png)](https://postimg.cc/4YBfpmFV)  
+[![To-be-Scenario-Mapp-Pet-Health.jpg](https://i.postimg.cc/zGP1TYBn/To-be-Scenario-Mapp-Pet-Health.jpg)](https://postimg.cc/CRDtVtb1)  
 
 ## 3.2. User Stories.
 
