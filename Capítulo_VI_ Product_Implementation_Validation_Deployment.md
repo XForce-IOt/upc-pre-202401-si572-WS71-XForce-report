@@ -101,10 +101,29 @@ La estructura que se sigue en los commits de este proyecto, tomando en cuenta el
 
 ## 6.2. Landing Page, Services & Applications Implementation.
 ### 6.2.1. Sprint 1
+Sprint Goal: Durante el primer sprint, el equipo se centró en los siguientes entregables: el diseño de la arquitectura de software, la creación del diagrama de la base de datos, diagramas C4, el desarrollo del Tactical-Level Domain-Driven Design para cada Bounded context, así como la implementación y el despliegue exitoso de la landing page y la Web Application.
 #### 6.2.1.1. Sprint Planning 1.
+| **Sprint #**                       | 1                                                                                                                           |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**     |                                                                                                                             |
+| Date                               | 2024-04-17                                                                                                                  |
+|                Time                | 10:00 PM                                                                                                                    |
+| Location                           | Reunión via Google Meet                                                                                                     |
+| Prepared By                        | Jaramillo Almora Jesica Rut                                                                                                 |
+| Attendees (to planning meeting)    | Almeyda Alania, Fredy Antonio / Aquino Cruz, Leonardo José / Mendoza Barco, Saúl Enrique / Quispe Villegas, Emerson Gerardo |
+| Sprint n – 1 Review Summary        | Este es el primer Sprint.                                                                                                   |
+| Sprint n – 1 Retrospective Summary | Este es el primer Sprint.                                                                                                   |
+| **Sprint Goal & User Stories**     |                                                                                                                             |
+| Sprint n Goal                      | Correción del Informe, despliegue de la Landing page y la Web Application consumiendo una Fake API.                         |
+| Sprint n Velocity                  | 20                                                                                                                          |
+| Sum of Story Points                | 17                                                                                                                          |
 #### 6.2.1.2. Sprint Backlog 1.
+[![backlog.png](https://i.postimg.cc/SNGZVBrM/backlog.png)](https://postimg.cc/KRRr8sCG)
+[https://www.pivotaltracker.com/n/projects/2703036](https://www.pivotaltracker.com/n/projects/2703036)
 #### 6.2.1.3. Development Evidence for Sprint Review.
+[![sprint.png](https://i.postimg.cc/dtKCDDG2/sprint.png)](https://postimg.cc/Z0VnMb7n)
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review.
+No se realizaron tests durante esta entrega.
 #### 6.2.1.5. Execution Evidence for Sprint Review.
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review.
