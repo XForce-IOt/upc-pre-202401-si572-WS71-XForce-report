@@ -20,80 +20,85 @@ En esta sección se presentarán las User Stories y Epics de nuestro proyecto. L
 
 ##### Epic 1: Registro y Gestión de Información de Usuarios y Mascotas
 
-- E001 - Registro de Dueño y Perfil de Mascota (US001)
-- E002 - Actualización de Información de Mascota (US007)
+- E001 - Registro de Dueño y Perfil de Mascota (US006)
+- E002 - Actualización de Información de Mascota (US012)
 
 ##### Epic 2: Monitoreo de Salud y Bienestar
 
-- E003 - Monitoreo Continuo de Salud en Tiempo Real (US002)
-- E004 - Generación de Alertas por Anomalías de Salud (US003)
-- E005 - Provisión de Diagnósticos Preliminares (US004)
-- E006 - Consulta del Historial Médico (US006)
-- E007 - Seguimiento de Actividad Física (US011)
-- E008 - Establecimiento de Metas de Salud (US012)
-- E009 - Análisis del Comportamiento y Estado de Ánimo (US015)
+- E003 - Monitoreo Continuo de Salud en Tiempo Real (US007)
+- E004 - Generación de Alertas por Anomalías de Salud (US008)
+- E005 - Provisión de Diagnósticos Preliminares (US009)
+- E006 - Consulta del Historial Médico (US0011)
+- E007 - Seguimiento de Actividad Física (US016)
+- E008 - Establecimiento de Metas de Salud (US017)
+- E009 - Análisis del Comportamiento y Estado de Ánimo (US020)
 
 ##### Epic 3: Servicios Veterinarios Integrados
 
-- E010 - Programación de Citas Veterinarias (US005)
-- E011 - Compartir Historial con Veterinarios (US008)
-- E012 - Acceso a Servicios de Emergencia (US018)
+- E010 - Programación de Citas Veterinarias (US010)
+- E011 - Compartir Historial con Veterinarios (US013)
+- E012 - Acceso a Servicios de Emergencia (US023)
 
 ##### Epic 4: Comunidad y Comunicación
 
-- E013 - Recepción de Consejos de Cuidado Personalizado(US009)
-- E014 - Comunidad de Dueños de Mascotas (US017)
-- E015 - Reporte de Pérdida de Mascota (US016)
+- E013 - Recepción de Consejos de Cuidado Personalizado(US014)
+- E014 - Comunidad de Dueños de Mascotas (US022)
+- E015 - Reporte de Pérdida de Mascota (US021)
 
 ##### Epic 5: Configuración y Personalización
 
-- E016 - Configuración de Alertas y Notificaciones (US010)
-- E017 - Configuración de Recordatorios de Medicación (US013)
+- E016 - Configuración de Alertas y Notificaciones (US015)
+- E017 - Configuración de Recordatorios de Medicación (US018)
 
 ##### Epic 6: Información Nutricional y Educativa
 
-- E018 - Información Sobre Nutrición (US014)
-- E019 - Reseñas de Veterinarias (US019)
+- E018 - Información Sobre Nutrición (US019)
+- E019 - Reseñas de Veterinarias (US024)
 
 ##### Epic 7: Integración Tecnológica Avanzada
 
-- E020 - Integración con Dispositivos de Casa Inteligente (US020)
+- E020 - Integración con Dispositivos de Casa Inteligente (US025)
 
 ##### Epic 8: Soporte Técnico y Servicios para Veterinarios
 
 - Este Epic incluirá todas las User Stories desde US021 hasta US040, ya que todas están enfocadas en proporcionar soporte, herramientas y servicios a veterinarios y clínicas veterinarias.
 
-  - E021 - Registro de Veterinaria en la Aplicación (US021)
-  - E022 - Acceso al Historial de Salud de Mascotas (US022)
-  - E023 - Gestión de Citas (US023)
-  - E024 - Envío de Recordatorios de Citas (US024)
-  - E025 - Recepción de Alertas de Salud Urgentes (US025)
-  - E026 - Publicación de Información de Salud (US026)
-  - E027 - Personalización de Servicios Ofrecidos (US027)
-  - E028 - Visualización de Estadísticas de Salud (US028)
-  - E029 - Feedback sobre el Servicio (US029)
-  - E030 - Integración con Sistemas de Gestión Veterinaria (US030)
-  - E031 - Actualizaciones en Tiempo Real de la Salud de la Mascota (US031)
-  - E032 - Programa de Fidelidad para Dueños de Mascotas (US032)
-  - E033 - Análisis de Tendencias de Salud (US033)
-  - E034 - Soporte para Múltiples Especialidades Veterinarias (US034)
-  - E035 - Administración de Historiales de Salud Digitales (US035)
-  - E036 - Publicación de Casos de Estudio (US036)
-  - E037 - Webinars y Eventos Educativos (US037)
-  - E038 - Gestión de Citas y Recordatorios Automatizados (US038)
-  - E039 - Integración con Laboratorios para Análisis (US039)
-  - E040 - Soporte y Asesoramiento en Línea (US040)
+  - E021 - Registro de Veterinaria en la Aplicación (US026)
+  - E022 - Acceso al Historial de Salud de Mascotas (US027)
+  - E023 - Gestión de Citas (US028)
+  - E024 - Envío de Recordatorios de Citas (US029)
+  - E025 - Recepción de Alertas de Salud Urgentes (US030)
+  - E026 - Publicación de Información de Salud (US031)
+  - E027 - Personalización de Servicios Ofrecidos (US032)
+  - E028 - Visualización de Estadísticas de Salud (US033)
+  - E029 - Feedback sobre el Servicio (US034)
+  - E030 - Integración con Sistemas de Gestión Veterinaria (US035)
+  - E031 - Actualizaciones en Tiempo Real de la Salud de la Mascota (US036)
+  - E032 - Programa de Fidelidad para Dueños de Mascotas (US037)
+  - E033 - Análisis de Tendencias de Salud (US038)
+  - E034 - Soporte para Múltiples Especialidades Veterinarias (US039)
+  - E035 - Administración de Historiales de Salud Digitales (US040)
+  - E036 - Publicación de Casos de Estudio (US041)
+  - E037 - Webinars y Eventos Educativos (US042)
+  - E038 - Gestión de Citas y Recordatorios Automatizados (US043)
+  - E039 - Integración con Laboratorios para Análisis (US044)
+  - E040 - Soporte y Asesoramiento en Línea (US045)
 
 ##### Epic 9: Presentación y Navegación en la Landing Page
 
-  - E041 - Introducción Clara y Atractiva en la Landing Page (US041)
-  - E042 - Testimonios y Casos de Éxito para Veterinarios en la Landing Page (US042)
+  - E041 - Introducción Clara y Atractiva en la Landing Page (US046)
+  - E042 - Ingreso al Landing Page (US001)
+  - E043 - Información sobre las Funciones del Producto (US002)
+  - E044 - ¿Por qué unirse a XForce? (US003)
+  - E045 - Planes de Pago (US004)
+  - E046 - Conoce a Nuestro Equipo (US005)
+  - E047 - Testimonios y Casos de Éxito para Veterinarios en la Landing Page (US047)
 
 ##### Epic 10: Desarrollo Backend y API para la Plataforma
 
-  - E043 - Implementación de RESTful API para Comunicación Eficiente (TS001)
-  - E044 - Establecimiento de Mecanismo de Autenticación y Autorización para APIs (TS002)
-  - E045 - Implementación de Logging y Monitoreo para APIs (TS003)
+  - E048 - Implementación de RESTful API para Comunicación Eficiente (TS001)
+  - E049 - Establecimiento de Mecanismo de Autenticación y Autorización para APIs (TS002)
+  - E050 - Implementación de Logging y Monitoreo para APIs (TS003)
 
 | User StoryID | Title                                                    | Description                                                                                                                                                                                                                                                                        | Acceptance Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Epic ID |
 | ------------ | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
