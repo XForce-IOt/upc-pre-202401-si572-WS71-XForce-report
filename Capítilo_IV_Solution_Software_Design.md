@@ -293,24 +293,54 @@ En esta sección se muestra la estructura de la base de datos y la relación que
 
 [![image.png](https://i.postimg.cc/RFMp3Xwt/image.png)](https://postimg.cc/f3rfp72W)
 
-### 4.2.3. Bounded Context: Programación de citas
+### 4.2.3. Bounded Context: Appointment Function
+El dominio de Appointment Function describe las funciones y procesos que se llevan a cabo en las aplicaciones web y móviles. Este dominio es responsable de manejar las funciones como el agendado de citas y el de poder visualizar las citas agendadas.  
+**Diccionario de Clases:**  
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/7558e7c1-c721-4d4a-921d-6d4f45e1ada9)  
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/023ec0af-e758-418b-9da0-c9666200a563)
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/39981000-0532-433d-aeee-77f7e354aa7b)
+
+
 #### 4.2.3.1. Domain Layer.
-- Vet: Esta entidad representaría a un veterinario. Podría incluir detalles como el nombre del veterinario, la dirección de la clínica.
-- Appointment: Esta entidad representaría una cita veterinaria programada para una mascota en particular. Podría contener detalles como la fecha y hora de la cita, el motivo de la visita y la mascota asociada.
+Para la función de citas, el Domain Layer sería responsable de modelar las entidades del dominio y de encapsular la lógica. Aquí encontramos value objects y Aggregates, estos desempeñan un papel importante, ya que permite a los dueños de mascotas agendar una cita con veterinarias afiliadas y a los veterinarios poder ver su agenda de citas que tienen. 
+
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/7bf2fa1f-0e00-444b-8cb6-ece09e0b4165)
+
 
 #### 4.2.3.2. Interface Layer.
-- AppointmentController: Este controlador podría manejar las solicitudes relacionadas con la programación y gestión de citas veterinarias. Podría tener métodos para programar nuevas citas,reprogramar o cancelar citas existentes, buscar citas por mascota o fecha, y enviar recordatorios de citas a los propietarios de mascotas.
-- AppointmentView: Esta clase podría ser responsable de mostrar información sobre las citas veterinarias en la interfaz de usuario del sistema. Podría presentar las citas en un formato fácil de entender, mostrando detalles como la fecha y hora de la cita, el motivo de la visita y la información de contacto del veterinario.
+La Interface Layer del bounded context es esencial para el sistema, ya que se encarga de manejar las solicitudes relacionadas con las citas. Esto incluye su creación, actualización y eliminación de las citas  
 
-#### 4.2.3.3. Application Layer.
-- AppointmentManagementService: Este servicio sería responsable de coordinar la gestión de citas veterinarias. Podría contener métodos para programar nuevas citas, cancelar citas existentes, buscar citas por mascota o fecha, y enviar recordatorios de citas a los propietarios de mascotas.
-- AppointmentValidationService: Este servicio manejaría la validación de nuevas citas antes de ser programadas. Podría verificar la disponibilidad de horarios, asegurarse de que la mascota esté disponible para la cita y validar cualquier requisito adicional necesario para la programación de la cita.
-- AppointmentCancellationService: Este servicio sería responsable de manejar la cancelación de citas veterinarias. Podría contener métodos para cancelar citas existentes y manejar cualquier lógica relacionada con la política de cancelación, como la aplicación de tarifas por cancelaciones tardías.
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/ed96e6d8-71d2-413b-886e-a1442ba33a9b)
 
-#### 4.2.3.4. Infrastructure Layer.
-- Database: Esta capa sería responsable de interactuar con la base de datos para almacenar y recuperar información sobre las citas veterinarias programadas. Podría contener clases para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en la tabla de citas, así como en tablas relacionadas, como la información de las mascotas y los propietarios.
 
-#### 4.2.3.6. Bounded Context Software Architecture Component Level Diagrams.
+#### 4.2.3.3. Application Layer.  
+En esta sección la caja de aplicación es responsable de la creación de las recetas médicas que brinda el veterinario al finalizar la cita agendada.
+
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/034bfb42-1684-41e8-a628-3664e407e9d3)
+
+
+#### 4.2.3.4. Infrasreucture Layer.
+La capa de infraestructura es responsable de proporcionar componentes tecnicos y de soporte necesarios para que las otras capas del sistema funcionen correctamente. Esta capa incluye la implementación de servicios que se conectan con otros sistemas externos.
+
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/fd0eccad-eb48-432c-bf6a-524d513b759d)
+
+
+#### 4.2.3.6. Bounded Context Software Architecture Component Level Diagrams.  
+
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/7f512329-f204-422e-b4be-c850e201b82c)
+
+
 #### 4.2.3.7. Bounded Context Software Architecture Code Level Diagrams.
+
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/3930fb75-5f29-421b-9e0b-400f742e8ee5)
+
+
 ##### 4.2.3.7.1. Bounded Context Domain Layer Class Diagrams.
+
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/c8c028a9-f132-4582-9604-d40a26bb4883)
+
+
 ##### 4.2.3.7.2. Bounded Context Database Design Diagram.
+
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/8fcded37-f281-4c9f-b649-c034423bfbaa)
+
