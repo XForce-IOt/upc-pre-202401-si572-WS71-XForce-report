@@ -128,7 +128,8 @@ La interfaz de usuario de la aplicación móvil debe ser sencilla de comprender,
 **Creemos que** integrar una función de llamada de emergencia que permita a los usuarios contactar rápidamente con las veterinarias afiliadas más cercanas o una de su preferencia aumentará la sensación de seguridad y tranquilidad de los propietarios de mascotas, además de proporcionar una solución rápida y eficaz en situaciones de emergencia relacionadas con la salud de las mascotas. **Sabremos que** estamos bien cuando sepamos que los usuarios expresan alivio al saber que tienen acceso inmediato a ayuda veterinaria en caso de emergencia, lo que les brinda confianza en la capacidad de nuestra aplicación para cuidar a sus mascotas.
 
 #### 1.2.2.4. Lean UX Canvas.
-![canvas](https://github.com/XForce-IOt/Informe/assets/64367045/dbbde85a-26b9-4934-a1c8-dc8885d80e00)
+
+![canvas](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/aea02668-7766-424a-bdc4-25b179bc0415)
 
 ## 1.3. Segmentos objetivo.
 Actualmente las mascotas son más que simples compañeros, sino miembros queridos de la familia, reconocemos la importancia de su salud y bienestar. Es por eso que presentamos XForce, una innovadora solución diseñada para revolucionar la forma en que cuidamos a nuestros amigos peludos.
