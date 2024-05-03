@@ -50,12 +50,46 @@ Software Testing, Software Deployment:
 ### 6.1.2. Source Code Management.
 Como se mencionó en la sección anterios, se utiliza GitHub como plataforma y sistema de control de versiones.
 #### Gitflow implementation según Vincent Driessen
-- **Master / Main Branch:** Se considera a main como la rama principal, aquí es donde se reflejan los cambios finales integrados para la entrega. Esta es la rama que se usa para los despliegues.
-- **Develop Branch:** 
-- **Release Branch:** Permite la preparación de un nuevo lanzamiento de producción, facilitando ajustes finales y corrección de errores menores, así como la preparación de metadatos para el lanzamiento. 
-
+- **Master / Main Branch:** Se considera a main como la rama principal, siempre está en un estado listo para producción. Esta es la rama que se usa para los despliegues.  
+Notación usada: main
+- **Develop Branch:** Es donde el código refleja los últimos cambios de desarrollo entregados para la próxima versión.  Podremos considerarla la "rama de integración", ya que es desde aquí donde se generan las compilaciones automáticas nocturnas.  
+Notación usada: develop
+- **Release Branch:** Permite la preparación de un nuevo lanzamiento de producción, facilitando ajustes finales y corrección de errores menores, así como la preparación de metadatos para el lanzamiento.  
+Notación usada: release[release-versionNumber]
+- **Feature Branch:** Se utiliza para desarrollar nuevas funcionalidades para futuras versiones. Se derivan de la rama "develop" y deben fusionarse nuevamente en ella una vez que la característica esté completa.  
+Notación usada: feature/[name of feature] o [name of feature]
+- **Hotfix Branch:**  Surge de la necesidad de actuar de inmediato ante un estado no deseado de una versión de producción. Cuando se debe resolver de inmediato un error crítico en una versión de producción, se puede derivar una rama de hotfix desde la etiqueta correspondiente en la rama "main" que marca la versión de producción. La esencia de las ramas de hotfix es permitir que el trabajo de los miembros del equipo (en la rama "develop") continúe mientras otra persona prepara una corrección rápida para producción. Estas ramas se crean ***a partir de la rama "main"*** y, una vez corregido el problema, se fusionan nuevamente tanto en "develop" como en "main".  
+Notación usada: hotfix[hotfix-versionNumber]
+#### Conventional Commits:
+La estructura que se sigue en los commits de este proyecto, tomando en cuenta el artículo "Conventional Commits 2.0.0", es:  
+"(type) [optional scope]: (description)"
+##### Type:
+- fix: Para parchar un error en el repositorio.
+- feat: Para introducir un nuevo feature al repositorio.
+- BREAKING CHANGE (footer): Un commit tiene este footer o tiene un "!" luego del (type) cuando introduce un "breaking API change", es decir, un cambio que cambia la forma en la que los usuarios interactúan con el API.
+- add: Para indicar que se añadieron archivos o carpetas.
+- test: Para indicar que se agregaron nuevos tests.
+- [optional scope]:Solo en las ramas release, hotfix y main para indicar la versión.
+##### Repositorios:
+- Landing page: [https://github.com/XForce-IOt/Landing-Page](https://github.com/XForce-IOt/Landing-Page)
+- Frontend Web Application: [https://github.com/XForce-IOt/Frontend](https://github.com/XForce-IOt/Frontend)
+- Frontent Movile Application: [https://github.com/XForce-IOt/Mobile](https://github.com/XForce-IOt/Mobile)
+- Informe: [https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report)
 ### 6.1.3. Source Code Style Guide & Conventions.
-### 6.1.4. Software Deployment Configuration.
+#### HTML Style Guide for the proyect
+- Siempre declarar el Document Type: < !DOCTYPE html>
+- Utiliza Lowercase para los elementos y atributos: body, p, label, href
+- Siempre agregar los atributos entre comillas: class="striped"
+#### Gherkin Specifications:
+- Los escenaros deben mantener la estructura simple Given, When, Then. Para los steps, se agrega And. Ejemplo:  
+[![Captura-de-pantalla-2024-05-03-065621.png](https://i.postimg.cc/50sp4bFd/Captura-de-pantalla-2024-05-03-065621.png)](https://postimg.cc/0MJ7Zgfc)
+
+#### Angular Code Style Guide:
+- Single responsibility - Rule of One: Definir los componentes por tarea, de modo que solo hagan una cosa. Además, asegurarse que el componente no pase las 44 líneas de código. Esto evitará tener bugs creados por la combinación accidental de componentes.
+- Single responsibility - Small functions: Utilizar funciones pequeñas (no más de 75 líneas de código) hará que estas sean más fáciles de testear, leer y mantener. Además, promueven el reuso.
+- General Naming Guidelines: Sigue un patrón que describa el feature y luego el tipo. El patrón recomendado es **"feature.type.ts"**
+
+### 6.1.4. Software Deployment Configuration. 
 ## 6.2. Landing Page, Services & Applications Implementation.
 ### 6.2.1. Sprint 1
 #### 6.2.1.1. Sprint Planning 1.
