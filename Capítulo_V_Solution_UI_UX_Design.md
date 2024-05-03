@@ -62,7 +62,6 @@ Ya que detro de nuestro público objetivo se encuentran a usuarios de edad avanz
 
 ## 5.2. Information Architecture.
 ### 5.2.1. Organization Systems.
-[![Organization-System-Pet-Health.jpg](https://i.postimg.cc/Bb4ypTBp/Organization-System-Pet-Health.jpg)](https://postimg.cc/8JXtPr3f)
 En nuestra estrategia de organización del contenido, aplicaremos diferentes sistemas según la naturaleza y el propósito de la información. Esto asegurará una experiencia de usuario coherente y eficiente. A continuación, detallamos cómo utilizaremos los distintos enfoques:
 #### Organización Visual del Contenido:  
 
