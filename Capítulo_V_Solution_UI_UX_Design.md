@@ -354,7 +354,7 @@ Task Flow:
 - El usuario crea su cuenta
 
 
-[![UG1.png](https://i.postimg.cc/QtwRPKP5/UG1.png)](https://postimg.cc/Hc0Z8nTs)
+[![WWF1.png](https://i.postimg.cc/gcxp2ZH5/WWF1.png)](https://postimg.cc/Hj1RSjK4)
 
 #### User goal:
 
@@ -369,7 +369,7 @@ Task Flow:
 - El usuario rellena los datos de la nueva mascota
 
 
-[![UG2.png](https://i.postimg.cc/7LbtkYSN/UG2.png)](https://postimg.cc/TyMJjx7y)
+[![WWF2.png](https://i.postimg.cc/5NvMwWGS/WWF2.png)](https://postimg.cc/zVJMr6qy)
 
 #### User goal:
 
@@ -387,7 +387,7 @@ Task Flow:
 - El usuario agenda la cita
 
 
-[![UG3.png](https://i.postimg.cc/W3k9dWWF/UG3.png)](https://postimg.cc/gXGy5DPm)
+[![WWF3.png](https://i.postimg.cc/QMNGG9Mf/WWF3.png)](https://postimg.cc/dhfSG0rC)
 
 #### User goal:
 
@@ -402,7 +402,7 @@ Task Flow:
 - El usuario guarda los cambios
 
 
-[![UG4.png](https://i.postimg.cc/8kLKDYfx/UG4.png)](https://postimg.cc/Yjqfzb3x)
+[![WWF4.png](https://i.postimg.cc/yNfqV1gs/WWF4.png)](https://postimg.cc/KKgpfyDH)
 
 #### User goal:
 
@@ -417,7 +417,7 @@ Task Flow:
 - El usuario guarda los cambios
 
 
-[![UG5.png](https://i.postimg.cc/cJKhzkN9/UG5.png)](https://postimg.cc/p9HKhZrz)
+[![WWF5.png](https://i.postimg.cc/LX7r1x3W/WWF5.png)](https://postimg.cc/R67srQ81)
 
 #### Mobile Application Wireflow Diagrams:
 
@@ -433,7 +433,7 @@ Task Flow:
 - El usuario rellena los formularios
 - El usuario crea su cuenta
 
-[![WF1.png](https://i.postimg.cc/QN71zvPD/WF1.png)](https://postimg.cc/grYxXtmt)
+[![MWF1.png](https://i.postimg.cc/vTVCL5PZ/MWF1.png)](https://postimg.cc/9wcxcw56)
 
 #### User Goal:
 
@@ -445,7 +445,7 @@ Task Flow:
 - El usuario ingresa a la aplicación
 - El usuario selecciona una de las 6 opciones de recopilación de datos
 
-[![WF2.png](https://i.postimg.cc/rFLx2QXr/WF2.png)](https://postimg.cc/DmB8qQzv)
+[![MWF2.png](https://i.postimg.cc/J7HwLW1C/MWF2.png)](https://postimg.cc/6TKbrg2M)
 
 #### User Goal:
 
@@ -462,7 +462,7 @@ Task Flow:
 - El usuario selecciona la fecha y hora
 - El usuario agenda la cita
 
-[![WF3.png](https://i.postimg.cc/6QTGfPRD/WF3.png)](https://postimg.cc/TyMwRCt9)
+[![MWF3.png](https://i.postimg.cc/v8JJ8SBg/MWF3.png)](https://postimg.cc/w3kf02Dg)
 
 #### User Goal:
 
@@ -477,7 +477,7 @@ Task Flow:
 - El usuario selecciona la mascota
 - El usario edita la información y guarda los cambios
 
-[![WF4.png](https://i.postimg.cc/kXSvsBK0/WF4.png)](https://postimg.cc/MvWBKZs5)
+[![MWF4.png](https://i.postimg.cc/ZK61WFBf/MWF4.png)](https://postimg.cc/KRv9VT5L)
 
 #### User Goal:
 
@@ -492,8 +492,7 @@ Task Flow:
 - El usuario edita sus datos
 - El usuario guarda los cambios
 
-[![WF5.png](https://i.postimg.cc/QCT1fy9Q/WF5.png)](https://postimg.cc/YLtv98x0)
-
+[![MWF5.png](https://i.postimg.cc/HkHFXcbT/MWF5.png)](https://postimg.cc/nCRdtLdW)
 
 ### 5.4.2. Applications Mock-ups.
 #### Web Application:
@@ -591,7 +590,7 @@ b) Task Flow:
 
 c) User Flow
 
-[![UF1.png](https://i.postimg.cc/d04BLMjV/UF1.png)](https://postimg.cc/xkNH44Zw)
+[![WUF1.png](https://i.postimg.cc/mgwJwLSC/WUF1.png)](https://postimg.cc/zyyxD16G)
 
 #### User Flow N°2:
 
@@ -607,7 +606,7 @@ b) Task Flow:
 
 c) User Flow:
 
-[![UF2.png](https://i.postimg.cc/QtzJJpPL/UF2.png)](https://postimg.cc/r0S48tMg)
+[![WUF2.png](https://i.postimg.cc/6QpSbkHS/WUF2.png)](https://postimg.cc/gx1NnTbq)
 
 #### User Flow N°3:
 
@@ -626,7 +625,7 @@ b) Task Flow:
 
 c) User Flow:
 
-[![UF3.png](https://i.postimg.cc/hv7byXWX/UF3.png)](https://postimg.cc/n9pDMcLx)
+[![WUF3.png](https://i.postimg.cc/jj31pMmj/WUF3.png)](https://postimg.cc/mcMVMybx)
 
 #### User Flow N°4:
 
@@ -642,7 +641,7 @@ b) Task Flow:
 
 c) User Flow:
 
-[![UF4.png](https://i.postimg.cc/ThMjZTfC/UF4.png)](https://postimg.cc/wR2sN8tm)
+[![WUF4.png](https://i.postimg.cc/V6ShmjPW/WUF4.png)](https://postimg.cc/47gP1HdY)
 
 #### User Flow N°5:
 
@@ -658,7 +657,7 @@ b) Task Flow:
 
 c) User Flow:
 
-[![UF5.png](https://i.postimg.cc/G3BWwzby/UF5.png)](https://postimg.cc/hhByVLzD)
+[![WUF5.png](https://i.postimg.cc/26PK6VzR/WUF5.png)](https://postimg.cc/cgBmk1gX)
 
 #### Mobile Application User Flow Diagrams:
 
@@ -677,7 +676,7 @@ b) Task Flow:
 
 c) User Flow:
 
-[![MUF1.png](https://i.postimg.cc/CLFCfmPV/MUF1.png)](https://postimg.cc/grTLCqbM)
+[![MUF1-2.png](https://i.postimg.cc/6qn1Gt37/MUF1-2.png)](https://postimg.cc/SYQGB0cq)
 
 #### User Flow N°2:
 
@@ -691,7 +690,7 @@ b) Task Flow:
 
 c) User Flow:
 
-[![MUF2.png](https://i.postimg.cc/K8jn04hq/MUF2.png)](https://postimg.cc/cvqgHxHw)
+[![MUF2-2.png](https://i.postimg.cc/VsChhBRY/MUF2-2.png)](https://postimg.cc/s13KQWq8)
 
 #### User Flow N°3:
 
@@ -710,7 +709,7 @@ b) Task Flow:
 
 c) User Flow:
 
-[![MUF3.png](https://i.postimg.cc/C1TkMNBX/MUF3.png)](https://postimg.cc/t1kY2FzN)
+[![MUF3-2.png](https://i.postimg.cc/5NWrWY78/MUF3-2.png)](https://postimg.cc/V54gj6cN)
 
 #### User Flow N°4:
 
@@ -727,7 +726,7 @@ b)  Task Flow:
 
 c) User Flow:
 
-[![MUF4.png](https://i.postimg.cc/G3jGrvcg/MUF4.png)](https://postimg.cc/RqNNL6Jw)
+[![MUF4-2.png](https://i.postimg.cc/ZKPMbb22/MUF4-2.png)](https://postimg.cc/hfjrMBS1)
 
 #### User Flow N°5:
 
@@ -744,6 +743,6 @@ b) Task Flow:
 
 c) User Flow:
 
-[![MUF5.png](https://i.postimg.cc/KvqT3F3n/MUF5.png)](https://postimg.cc/HVMnFq2x)
+[![MUF5-2.png](https://i.postimg.cc/3xKbdMHR/MUF5-2.png)](https://postimg.cc/VdVFVVvQ)
 
 ## 5.5. Applications Prototyping.
