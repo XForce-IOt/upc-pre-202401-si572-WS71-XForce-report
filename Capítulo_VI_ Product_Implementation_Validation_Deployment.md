@@ -122,6 +122,7 @@ Sprint Goal: Durante el primer sprint, el equipo se centró en los siguientes en
 [https://www.pivotaltracker.com/n/projects/2703036](https://www.pivotaltracker.com/n/projects/2703036)
 #### 6.2.1.3. Development Evidence for Sprint Review.
 [![sprint.png](https://i.postimg.cc/dtKCDDG2/sprint.png)](https://postimg.cc/Z0VnMb7n)
+[https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EUnjzl5QYdVGvw-6Bya0SdsBwnEhiCo3WPQqITynuv9vPA?e=NR5nOv](https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EUnjzl5QYdVGvw-6Bya0SdsBwnEhiCo3WPQqITynuv9vPA?e=NR5nOv)
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 No se realizaron tests durante esta entrega.
 #### 6.2.1.5. Execution Evidence for Sprint Review.
