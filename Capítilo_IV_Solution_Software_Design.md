@@ -336,6 +336,7 @@ La capa de infraestructura es responsable de proporcionar componentes tecnicos y
 
 
 ##### 4.2.3.7.1. Bounded Context Domain Layer Class Diagrams.
+<<<<<<< HEAD
 
 ![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/c8c028a9-f132-4582-9604-d40a26bb4883)
 
@@ -344,3 +345,6 @@ La capa de infraestructura es responsable de proporcionar componentes tecnicos y
 
 ![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/8fcded37-f281-4c9f-b649-c034423bfbaa)
 
+=======
+##### 4.2.3.7.2. Bounded Context Database Design Diagram.
+>>>>>>> origin/feature/chapter-V
