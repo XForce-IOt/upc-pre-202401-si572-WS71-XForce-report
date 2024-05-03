@@ -88,8 +88,17 @@ La estructura que se sigue en los commits de este proyecto, tomando en cuenta el
 - Single responsibility - Rule of One: Definir los componentes por tarea, de modo que solo hagan una cosa. Además, asegurarse que el componente no pase las 44 líneas de código. Esto evitará tener bugs creados por la combinación accidental de componentes.
 - Single responsibility - Small functions: Utilizar funciones pequeñas (no más de 75 líneas de código) hará que estas sean más fáciles de testear, leer y mantener. Además, promueven el reuso.
 - General Naming Guidelines: Sigue un patrón que describa el feature y luego el tipo. El patrón recomendado es **"feature.type.ts"**
+- Symbols and file names: Upper cammel case para los nombres de clase. Añade el símbolo del nombre con el sufijo, como Component, Directive, Module, Pipe, o Service, y dale al nombre del archivo el mismo sufijo, como .component.ts, .directive.ts, .module.ts, .pipe.ts, or .service.ts.   
+[![Captura-de-pantalla-2024-05-03-071724.png](https://i.postimg.cc/L5MyQNfh/Captura-de-pantalla-2024-05-03-071724.png)](https://postimg.cc/r0QCKGfL)  
+### 6.1.4. Software Deployment Configuration.
+#### Despliegue de la landing page en GitHub Pages:
+1. Seleccionar Settings  
+[![Captura-de-pantalla-2024-05-03-072306.png](https://i.postimg.cc/L5XqSMjW/Captura-de-pantalla-2024-05-03-072306.png)](https://postimg.cc/tZKRdwSd)
+2. Selecciona Pages  
+[![Captura-de-pantalla-2024-05-03-072534.png](https://i.postimg.cc/zBdB0P4F/Captura-de-pantalla-2024-05-03-072534.png)](https://postimg.cc/jw7tjvxD)  
+3. Seleccionar la rama desde donde se desea desplegar y Save  
+[![Captura-de-pantalla-2024-05-03-072846.png](https://i.postimg.cc/DZmFyfY1/Captura-de-pantalla-2024-05-03-072846.png)](https://postimg.cc/LYdGxSSs)
 
-### 6.1.4. Software Deployment Configuration. 
 ## 6.2. Landing Page, Services & Applications Implementation.
 ### 6.2.1. Sprint 1
 #### 6.2.1.1. Sprint Planning 1.
