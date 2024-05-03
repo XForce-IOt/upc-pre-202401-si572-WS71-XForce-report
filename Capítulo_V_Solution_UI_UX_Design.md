@@ -150,7 +150,7 @@ Nuestro enfoque en sistemas de búsqueda está diseñado para proporcionar a los
 
 Después de realizar una búsqueda exitosa, los datos se presentarán de manera clara y organizada para facilitar la revisión por parte del usuario. Utilizaremos un diseño limpio y estructurado que muestre los resultados de manera ordenada, con opciones para ampliar detalles adicionales si es necesario. Los resultados se mostrarán en una lista o cuadrícula, según la naturaleza de la información, y se destacarán los detalles importantes para ayudar al usuario a identificar rápidamente la información relevante.  
 
-Ejemplo de filtro de búsqueda de citas:
+Ejemplo de filtro de búsqueda de citas:  
 [![Group-95.png](https://i.postimg.cc/T3MYrwyP/Group-95.png)](https://postimg.cc/ppCHvPJN)
 
 Al ofrecer estas opciones de búsqueda y filtros, así como una presentación clara de los datos, esperamos proporcionar a nuestros usuarios una experiencia de búsqueda efectiva que les permita encontrar rápidamente la información que necesitan dentro de nuestro producto digital.
