@@ -1,4 +1,4 @@
-## 4.1. Strategic-Level Domain-Driven Design.
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/83188290/d259ee4c-1ad4-4fc1-8992-a7c4b467f559)## 4.1. Strategic-Level Domain-Driven Design.
 ### 4.1.1. EventStorming.
 Nuestro proceso de event storming se realizó en la herramienta MIRO, donde se realizó todo el proceso.
 
@@ -123,14 +123,14 @@ Es un diagrama que muestra la estructura general del sistema, incluyendo sus com
 El diagrama de contexto muestra las relaciones y flujos de información entre los actores (usuarios y sistemas) y el sistema principal, el PetHealth System. El objetivo del sistema es monitorear la salud y la ubicación de las mascotas a través de un collar inteligente equipado con sensores avanzados.  
 Este diagrama de contexto ilustra eficazmente cómo las diferentes entidades interactúan y dependen unas de otras para proporcionar un cuidado integral y monitoreo de la salud para mascotas, haciendo uso de tecnología avanzada y servicios integrados.
 
-[![Context-Diagrams.png](https://i.postimg.cc/CKzCcnw2/image.png)](https://postimg.cc/TyvWwwLj)
+[![Context_Diagram.png](https://i.postimg.cc/QCHYXVrK/image.png)](https://postimg.cc/MfJm56Hz)
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams.
 
 El diagrama ilustra cómo los diferentes contenedores del sistema interactúan entre sí y con los usuarios finales para proporcionar una solución integral de monitoreo y gestión de la salud de las mascotas. El sistema se compone de varias aplicaciones web y móviles, una API central, y componentes específicos de edge computing para manejar los datos generados por un collar inteligente.  
 Este diagrama de contenedores muestra un sistema robusto y bien integrado que utiliza tecnología moderna y prácticas de diseño para proporcionar una solución completa para el monitoreo de la salud y la gestión de la atención de las mascotas. Cada componente está diseñado para trabajar en conjunto de manera eficiente, asegurando que los usuarios, ya sean dueños de mascotas o veterinarios, reciban una experiencia fluida y funcional.
 
-[![Container-Diagrams.png](https://i.postimg.cc/Y9tWJ47k/image.png)](https://postimg.cc/WDfzZ1tf)
+[![Container_Diagram.png](https://i.postimg.cc/dVMNYqND/image.png)](https://postimg.cc/N54k8wcw)
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams.
 
@@ -191,9 +191,42 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 [![infraestructurelayer.png](https://i.postimg.cc/zX6VnRc0/image.png)](https://postimg.cc/7f1H4bD2)
 
 #### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams.
+En esta sección, presentamos los Diagramas de Componentes a nivel de Arquitectura de Software del bounded Context **Function of the collar** para nuestra plataforma de collar inteligente para mascotas. Estos diagramas proporcionan una visión detallada de cómo los diferentes componentes del sistema interactúan entre sí en el contexto de aplicaciones web y móviles. Al analizar estos diagramas, podemos obtener una comprensión clara de cómo la plataforma funciona desde un punto de vista arquitectónico y cómo los componentes se comunican entre sí.
+
+Las aplicaciones web y móviles interactúan con el sistema a través de una serie de controladores, que gestionan las peticiones entrantes y proporcionan las respuestas adecuadas. Los controladores clave en nuestra plataforma incluye **CollarController, HealthMonitoringController y AlertsController**. Estos controladores manejan las operaciones(lectura y escritura) relacionadas con el monitoreo de la salud de las mascotas y la función de localizar a la mascota perdida.
+
+Cada controlador interactúa con sus respectivos servicios y repositorios para realizar las operaciones requeridas. Los servicios implementan la lógica de negocio y coordinan las acciones entre los repositorios y otros componentes del sistema. Los repositorios, por otro lado, se encargan de la persistencia y gestión de datos, interactuando con la base de datos y, en algunos casos, con servicios externos.
+
+Además, el sistema puede interactuar con servicios externos para obtener información adicional o realizar acciones específicas, como el servicio de geolocalización o el envío de alertas de correos electrónicos.
+
+[![Component_Diagram_Function_Collar.png](https://i.postimg.cc/wBwSHCsP/image.png)](https://postimg.cc/LqZy30DB)
+
 #### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams.
+Estos diagramas proporcionan una visión detallada de cómo los diferentes componentes del sistema interactúan entre sí a nivel de código, enfocándose específicamente en la conexión e integración de servicios externos como Google Map y Firebase Cloud Messaging.
+
+El AlertService es un componente clave en nuestra plataforma, encargado de enviar un mensaje de alerta a los usuarios que son dueños de mascotas si la salud de su mascota está grave o crítica. Para lograr esto, el AlertService se conecta con Firebase Cloud Messaging, un servicio que envía alertas y notificaciones push a los usuarios. El diagrama de código muestra cómo el AlertService se comunica con Firebase Cloud Messaging a través de su API, enviando alerta mediante correos electrónicos o notificaciones dependiendo de la salud de la mascota.
+
+Otro componente importante en nuestra plataforma es el LocationService, que se encarga de obtener la ubicación de las mascotas cuando salen del perímetro establecido. Para lograr esto, el LocationService se integra con Google Map, un proveedor de servicios de geolocalización y mapas. El diagrama de código muestra cómo el LocationService interactúa con la API de Google Map para recuperar la información de ubicación de las mascotas y actualizarla en el sistema según sea necesario.
+
+[![code_1.png](https://i.postimg.cc/wvtbz7zy/image.png)](https://postimg.cc/1nQKcRfs)  
+[![code_2.png](https://i.postimg.cc/QxgYh22b/image.png)](https://postimg.cc/ZCRxLMKB)
+
 ##### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams.
+Es una herramienta esencial en el diseño y desarrollo de software, especialmente en la metodología de Diseño Dirigido por el Dominio (DDD).  
+Son fundamentales para la organización, diseño, implementación y mantenimiento de sistemas complejos, ayudando a asegurar que el software es escalable, mantenible y alineado con las necesidades del negocio.  
+Para desarrollarlo, se hizo un diagrama de clase, usando todo lo que se realizó anteriormente.
+
+[![layer_class_diagrams.png](https://i.postimg.cc/L86DRnB9/image.png)](https://postimg.cc/BXkHBZVk)
+
 ##### 4.2.1.7.2. Bounded Context Database Design Diagram.
+Es una herramienta utilizada en el diseño de software, particularmente en la arquitectura de microservicios y en el enfoque de diseño de dominios.
+
+El uso de un diagrama de diseño de base de datos es fundamental para gestionar la complejidad en sistemas grandes y distribuidos, ayudando a organizar y simplificar el diseño y la implementación de las bases de datos y los servicios asociados.
+
+En este diagrama de diseño de base de datos, se explica las relaciones de los entitys realizados.
+
+[![database.png](https://i.postimg.cc/6qM7h57c/image.png)](https://postimg.cc/jnJdxT4n)
+
 ### 4.2.2. Bounded Context: Respuesta de alertas
 #### 4.2.2.1. Domain Layer.
 - HealthAlert: Esta entidad representaría una alerta de salud generada por el sistema cuando se detecta una enfermedad o un comportamiento anómalo en una mascota. Podría contener detalles como la mascota afectada, el tipo de alerta (enfermedad, comportamiento anómalo, ubicación fuera del perímetro), la fecha y hora de la detección y cualquier información adicional relevante.
