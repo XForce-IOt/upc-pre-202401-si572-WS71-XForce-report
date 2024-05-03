@@ -1,4 +1,5 @@
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/83188290/d259ee4c-1ad4-4fc1-8992-a7c4b467f559)## 4.1. Strategic-Level Domain-Driven Design.
+# Capítulo IV: Solution Software Design
+## 4.1. Strategic-Level Domain-Driven Design.
 ### 4.1.1. EventStorming.
 Nuestro proceso de event storming se realizó en la herramienta MIRO, donde se realizó todo el proceso.
 
@@ -227,25 +228,71 @@ En este diagrama de diseño de base de datos, se explica las relaciones de los e
 
 [![database.png](https://i.postimg.cc/6qM7h57c/image.png)](https://postimg.cc/jnJdxT4n)
 
-### 4.2.2. Bounded Context: Respuesta de alertas
+### 4.2.2. Bounded Context: User Account Management
+El dominio de **User Account Management** se centra en gestionar todas las interacciones y operaciones asociadas con cuentas de usuario. Este dominio es responsable de manejar las cuentas de usuario, tanto para editar como para actualizar su membresía.
+
+**Diccionario de Clases:**
+
+En el Diccionario de Clases, hemos incluido 3 clases principales: Pet Owner, Pet y Subscription. Estas clases representan los elementos esenciales de nuestra plataforma y definen las entidades y se relaciona en actualizar el perfil y la membresía de su cuenta.
+
+[![image.png](https://i.postimg.cc/J7Y4KF6p/image.png)](https://postimg.cc/w3JpjwdN)  
+[![image.png](https://i.postimg.cc/pX9VSB3R/image.png)](https://postimg.cc/4mgT7pJS)  
+[![image.png](https://i.postimg.cc/ZnPqfYC2/image.png)](https://postimg.cc/PvxhJjbQ)
+
 #### 4.2.2.1. Domain Layer.
-- HealthAlert: Esta entidad representaría una alerta de salud generada por el sistema cuando se detecta una enfermedad o un comportamiento anómalo en una mascota. Podría contener detalles como la mascota afectada, el tipo de alerta (enfermedad, comportamiento anómalo, ubicación fuera del perímetro), la fecha y hora de la detección y cualquier información adicional relevante.
+Dentro del dominio de User Account Management, se encuentran entidades clave como Pet, Pet Owner y Subscription. Estas entidades desempeñan un papel fundamental en la gestión de la cuenta, ya que permite a los usuarios actualizar la información básica de su cuenta y de actualizar la membresía de su cuenta.
+
+A continuación, se muestra todos los objetos relacionados con el dominio
+
+[![image.png](https://i.postimg.cc/02xjzS4s/image.png)](https://postimg.cc/SjTk5nqT)
 
 #### 4.2.2.2. Interface Layer.
-- HealthAlertNotificationManager: Este administrador de notificaciones será responsable de enviar alertas de salud a los dueños de mascotas cuando se detecten enfermedades, comportamientos anómalos o la ubicación de la mascota salga del perímetro establecido.
-- LocationController: Este controlador maneja las acciones relacionadas con la ubicación de la mascota. Tendrá métodos para visualizar la ubicación de la mascota.
+La interface layer del bounded context del User Account Management es una parte esencial del sistema, ya que es la capa que permite la comunicación entre los diferentes componentes de la aplicación. Esto incluye la creación de usuarios, mascotas y suscripciones.
+
+A continuación, se muestran los controllers identificados.
+
+[![image.png](https://i.postimg.cc/9MZXMXt0/image.png)](https://postimg.cc/G83ngCfn)
 
 #### 4.2.2.3. Application Layer.
-- HealthAlertService: Este servicio sería responsable de manejar los eventos relacionados con la detección de enfermedades y comportamientos anómalos. Cuando se detecte una enfermedad, un comportamiento inusual o salga del perimetro, este servicio podría activar el HealthAlertNotificationManager para enviar notificaciones a los propietarios de mascotas.
-- LocationService: Éste se encargará de guardar las coordenadas en donde se encuentre la mascota, controlando que no salga del perímetro establecido.
+En esta sección, presentamos la Capa de Aplicación (Application Layer) dentro del contexto del enfoque de diseño Domain-Driven Desing(DDD) para nuestra plataforma de collar inteligente para mascotas. La Capa de Aplicación es responsable de coordinar las acciones y el flujo de datos entre la Capa de Dominio y la Capa de Infraestructura, actuando como intermediario y gestionando las interacciones entre estas capas. Esta capa es crucial para garantizar que la lógica de negocio, representada por la Capa de Dominio, se ejecute de manera eficiente y coherente.
+
+La Capa de Aplicación se compone de servicios de aplicación, Command Handlers y Event Handlers. Los Command Handlers gestionan las operaciones de escritura en la plataforma, PetOwnerAccountCommandHandler, que es aquel que se encarga de gestionar la información de los dueños de mascotas, editar y eliminar; PetCommandHandler, que es aquel que se encarga de gestionar la información de las mascotas, editar y eliminar; y SubscriptionCommandHandler, que se encarga de gestionar las suscripciones de los usuarios, actualizar o cancelar.
+
+Por otro lado, los Event Handlers se encargan de manejar eventos del sistema, como PaymentEventHandler, que se encarga de que el pago sea exitoso o no. SubscriptionStatusEventHandler, que se encarga de activar la suscripción o expirarlo. PetStatusUpdateEventHandler que se encarga de añadir o remover la información de la mascota.
+
+[![image.png](https://i.postimg.cc/vHQ8Ys18/image.png)](https://postimg.cc/rzP2j7C7)
 
 #### 4.2.2.4. Infrastructure Layer.
-- GoogleMapsApi: Permitirá interactuar con la API de Google Maps para obtener información sobre la ubicación de las mascotas
+En esta sección, presentamos la Capa de Infraestructura (Infrastructure Layer) dentro del contexto del enfoque de diseño Domain-Driven Design (DDD) para nuestra el bounded context User Account Management. La Capa de Infraestructura es responsable de proporcionar los componentes técnicos y de soporte necesarios para que las otras capas del sistema funcionen correctamente. Esta capa incluye la implementación de repositorios, servicios que se conectan con sistemas externos y otros componentes de infraestructura.
+
+Los repositorios en la Capa de Infraestructura implementan las interfaces definidas en la Capa de Dominio y se encargan de la persistencia y gestión de datos. En nuestra plataforma, utilizamos repositorios basados en JPA (Java Persistence API) para manejar la interacción con la base de datos. Entre los repositorios clave se encuentran **PetOwnerRepository**, que gestiona la información de los usuarios pet owners; **PetRepository**, que se encarga de gestionar la información de las mascotas; y **SubscriptionRepository**, que se encarga de gestionar la realizarse las suscripciones.
+
+[![image.png](https://i.postimg.cc/wBsgfxr2/image.png)](https://postimg.cc/1gPk4SsV)
 
 #### 4.2.2.6. Bounded Context Software Architecture Component Level Diagrams.
+En esta sección, presentamos los Diagramas de Componentes a nivel de Arquitectura de Software del bounded Context **User Account Management** para nuestra plataforma de cuidado de las mascotas mediante un collar inteligente. Estos diagramas proporcionan una visión detallada de cómo los diferentes componentes del sistema interactúan entre sí en el contexto de aplicaciones web y móviles. Al analizar estos diagramas, podemos obtener una comprensión clara de cómo la plataforma funciona desde un punto de vista arquitectónico y cómo los componentes se comunican entre sí.
+
+Las aplicaciones web y móviles interactúan con el sistema a través de una serie de controladores, que gestionan las peticiones entrantes y proporcionan las respuestas adecuadas. Los controladores clave en nuestra plataforma incluye **PetOwnerController, PetController y SubscriptionController**. Estos controladores manejan las operaciones (lectura y escritura) relacionadas con las funciones de la gestión de usuarios.
+
+[![image.png](https://i.postimg.cc/SxHpMFKM/image.png)](https://postimg.cc/sMPLkL7j)
+
 #### 4.2.2.7. Bounded Context Software Architecture Code Level Diagrams.
+Estos diagramas proporcionan una visión detallada de cómo los diferentes componentes del sistema interactúan entre sí a nivel de código, enfocándose específicamente en la conexión e integración del servicio externo Izipay.
+
+El SubscriptionService se encarga de gestionar las operaciones relacionadas con la actualización de la membresía de la cuenta del usuario
+
+[![image.png](https://i.postimg.cc/WbtK6WC6/image.png)](https://postimg.cc/TpMCT9Rp)
+
 ##### 4.2.2.7.1. Bounded Context Domain Layer Class Diagrams.
+El Bounded Context Domain Layer Class Diagrams del bounded context del User Account Management representa los diagramas de clases para los diferentes componentes del dominio, incluyendo todos los entitys. Estos diagramas muestran cómo se modela la funcionalidad en el dominio del negocio, y cómo las diferentes clases interactúan para cumplir con las necesidades del negocio. Cada diagrama de clase muestra los atributos y métodos relevantes.
+
+[![image.png](https://i.postimg.cc/HL0Psf8H/image.png)](https://postimg.cc/4Kd1W21F)
+
 ##### 4.2.2.7.2. Bounded Context Database Design Diagram.
+En esta sección se muestra la estructura de la base de datos y la relación que tendrán entre ellas. En este caso tenemos 4 tablas que representan la forma en la que se trabaja la gestión de cuentas de usuarios y la actualización de las suscripciones para las cuentas de los usuarios.
+
+[![image.png](https://i.postimg.cc/RFMp3Xwt/image.png)](https://postimg.cc/f3rfp72W)
+
 ### 4.2.3. Bounded Context: Programación de citas
 #### 4.2.3.1. Domain Layer.
 - Vet: Esta entidad representaría a un veterinario. Podría incluir detalles como el nombre del veterinario, la dirección de la clínica.
