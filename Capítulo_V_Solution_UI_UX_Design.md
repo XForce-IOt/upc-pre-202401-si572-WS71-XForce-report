@@ -248,37 +248,37 @@ En esta sección, presentamos y explicamos la propuesta visual y de interacción
 #### Web Application:
 ##### Pet Owner y Vet:
 - Boceto de Log-in y Sign-in:  
-[![Log-in-Wireframe.png](https://i.postimg.cc/mrxS7Q45/Log-in-Wireframe.png)](https://postimg.cc/cvmYStrR)
-[![selecci-n.png](https://i.postimg.cc/fRY82H8N/selecci-n.png)](https://postimg.cc/87Pdsb8K)
-[![Sign-up.png](https://i.postimg.cc/cHLTJd0x/Sign-up.png)](https://postimg.cc/Z9X67tW2)  
+[![Log-in-1.png](https://i.postimg.cc/pdXqCK0J/Log-in-1.png)](https://postimg.cc/rD31FR2D)
+[![Sign-up-Veterinaria.png](https://i.postimg.cc/NMZDQSQd/Sign-up-Veterinaria.png)](https://postimg.cc/WF6gn9FZ)
+[![Sign-up-Veterinaria-1.png](https://i.postimg.cc/x8HR85Cn/Sign-up-Veterinaria-1.png)](https://postimg.cc/zHzWPnKc)
 
 ##### Pet Owner:
 - Boceto de Home 'Pets' y Editar Pets:  
-[![Home-Pet-Owners.png](https://i.postimg.cc/cLJQYXPh/Home-Pet-Owners.png)](https://postimg.cc/D8tJ3dv4)
-[![Home-Pet-Owners-1.png](https://i.postimg.cc/BvYS6dV5/Home-Pet-Owners-1.png)](https://postimg.cc/hJmWZ3gh)  
-<br>
+[![Home-Pet-Owners.png](https://i.postimg.cc/W19M2Cn0/Home-Pet-Owners.png)](https://postimg.cc/sMhBmnb2)
+[![Home-Pet-Owners-1.png](https://i.postimg.cc/PqP1Ny39/Home-Pet-Owners-1.png)](https://postimg.cc/mcWP5YGy)
+
 - Boceto de 'Citas':  
-[![Home-Pet-Owners-citas.png](https://i.postimg.cc/pdfzM4j2/Home-Pet-Owners-citas.png)](https://postimg.cc/7CLfgBXc)  <br>
+[![Home-Pet-Owners-citas.png](https://i.postimg.cc/JnXJ5nWQ/Home-Pet-Owners-citas.png)](https://postimg.cc/R6MNMvh3)
 
 - Boceto de 'Agendar Cita' (Flujo de Tareas):  
-[![Home-Pet-Owners-citas-1.png](https://i.postimg.cc/RFC65F9R/Home-Pet-Owners-citas-1.png)](https://postimg.cc/sB8D53MQ)
-[![Home-Pet-Owners-citas-2.png](https://i.postimg.cc/jjc2XbNJ/Home-Pet-Owners-citas-2.png)](https://postimg.cc/4KKXfjWJ)
-[![Home-Pet-Owners-citas-3.png](https://i.postimg.cc/wvbBCQwq/Home-Pet-Owners-citas-3.png)](https://postimg.cc/MMVxRVkN)
-[![Home-Pet-Owners-citas-4.png](https://i.postimg.cc/7hFZ6Yvj/Home-Pet-Owners-citas-4.png)](https://postimg.cc/tnzjvb4z)
+[![Home-Pet-Owners-citas-1.png](https://i.postimg.cc/rwqPgF3b/Home-Pet-Owners-citas-1.png)](https://postimg.cc/6y1cpw9L)
+[![Home-Pet-Owners-citas-2.png](https://i.postimg.cc/d0bRH5D1/Home-Pet-Owners-citas-2.png)](https://postimg.cc/McYjXb72)
+[![Home-Pet-Owners-citas-3.png](https://i.postimg.cc/jdSfhpvc/Home-Pet-Owners-citas-3.png)](https://postimg.cc/BtRtSwrP)
+[![Home-Pet-Owners-citas-4.png](https://i.postimg.cc/c4knkFbS/Home-Pet-Owners-citas-4.png)](https://postimg.cc/svSxv4z6)
 
 ##### Vet:
 - Boceto de Home 'Pets':  
-[![Home-Vets.png](https://i.postimg.cc/jSLY9YG7/Home-Vets.png)](https://postimg.cc/WdLyFCpN)<br>
+[![Home-Vets.png](https://i.postimg.cc/t41VKFKV/Home-Vets.png)](https://postimg.cc/gxWJRLkY)<br>
 
 - Boceto de 'Citas':  
-[![Appointments-Vets.png](https://i.postimg.cc/cL85wxpX/Appointments-Vets.png)](https://postimg.cc/rDMJLkFr)
+[![Appointments-Vets.png](https://i.postimg.cc/XvdBJ47j/Appointments-Vets.png)](https://postimg.cc/d7QVNMyp)
 
 ##### Pet Owner y Vet:
 - Boceto de 'Profile':
-[![Profile-Pet-Owners-Perfil.png](https://i.postimg.cc/jCYRTgPb/Profile-Pet-Owners-Perfil.png)](https://postimg.cc/T50zqct7)<br>
+[![Profile-Pet-Owners-Perfil.png](https://i.postimg.cc/x84154Tp/Profile-Pet-Owners-Perfil.png)](https://postimg.cc/Pv1HrKD1)<br>
 
 - Boceto de 'Ajustes':
-[![Settings-Pet-Owners-Perfil.png](https://i.postimg.cc/sXtMBJ7n/Settings-Pet-Owners-Perfil.png)](https://postimg.cc/dkjsprWd)<br>
+[![Settings-Pet-Owners-Perfil.png](https://i.postimg.cc/hvzBDPcM/Settings-Pet-Owners-Perfil.png)](https://postimg.cc/tnjfDb1V)<br>
 
 #### Movile Application:
 ##### Pet Owner:
