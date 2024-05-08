@@ -124,14 +124,14 @@ Es un diagrama que muestra la estructura general del sistema, incluyendo sus com
 El diagrama de contexto muestra las relaciones y flujos de información entre los actores (usuarios y sistemas) y el sistema principal, el PetHealth System. El objetivo del sistema es monitorear la salud y la ubicación de las mascotas a través de un collar inteligente equipado con sensores avanzados.  
 Este diagrama de contexto ilustra eficazmente cómo las diferentes entidades interactúan y dependen unas de otras para proporcionar un cuidado integral y monitoreo de la salud para mascotas, haciendo uso de tecnología avanzada y servicios integrados.
 
-[![Context_Diagram.png](https://i.postimg.cc/QCHYXVrK/image.png)](https://postimg.cc/MfJm56Hz)
+[![Context-Diagram.png](https://i.postimg.cc/bwT5Y8m1/image.png)](https://postimg.cc/bZZg3Xcv)
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams.
 
 El diagrama ilustra cómo los diferentes contenedores del sistema interactúan entre sí y con los usuarios finales para proporcionar una solución integral de monitoreo y gestión de la salud de las mascotas. El sistema se compone de varias aplicaciones web y móviles, una API central, y componentes específicos de edge computing para manejar los datos generados por un collar inteligente.  
 Este diagrama de contenedores muestra un sistema robusto y bien integrado que utiliza tecnología moderna y prácticas de diseño para proporcionar una solución completa para el monitoreo de la salud y la gestión de la atención de las mascotas. Cada componente está diseñado para trabajar en conjunto de manera eficiente, asegurando que los usuarios, ya sean dueños de mascotas o veterinarios, reciban una experiencia fluida y funcional.
 
-[![Container_Diagram.png](https://i.postimg.cc/dVMNYqND/image.png)](https://postimg.cc/N54k8wcw)
+[![Container-Diagram.png](https://i.postimg.cc/4NvLwskj/image.png)](https://postimg.cc/ppTJLNdB)
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams.
 
@@ -200,7 +200,7 @@ Cada controlador interactúa con sus respectivos servicios y repositorios para r
 
 Además, el sistema puede interactuar con servicios externos para obtener información adicional o realizar acciones específicas, como el servicio de geolocalización o el envío de alertas de correos electrónicos.
 
-[![Component_Diagram_Function_Collar.png](https://i.postimg.cc/wBwSHCsP/image.png)](https://postimg.cc/LqZy30DB)
+[![Component-Diagram-Collar-Function.png](https://i.postimg.cc/7ZxBWdqh/image.png)](https://postimg.cc/KRHrK9kh)
 
 #### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams.
 Estos diagramas proporcionan una visión detallada de cómo los diferentes componentes del sistema interactúan entre sí a nivel de código, enfocándose específicamente en la conexión e integración de servicios externos como Google Map y Firebase Cloud Messaging.
@@ -274,7 +274,7 @@ En esta sección, presentamos los Diagramas de Componentes a nivel de Arquitectu
 
 Las aplicaciones web y móviles interactúan con el sistema a través de una serie de controladores, que gestionan las peticiones entrantes y proporcionan las respuestas adecuadas. Los controladores clave en nuestra plataforma incluye **PetOwnerController, PetController y SubscriptionController**. Estos controladores manejan las operaciones (lectura y escritura) relacionadas con las funciones de la gestión de usuarios.
 
-[![image.png](https://i.postimg.cc/SxHpMFKM/image.png)](https://postimg.cc/sMPLkL7j)
+[![Component-Diagram-User-Account-Management.png](https://i.postimg.cc/yYTjcj0H/image.png)](https://postimg.cc/9rryjGx8)
 
 #### 4.2.2.7. Bounded Context Software Architecture Code Level Diagrams.
 Estos diagramas proporcionan una visión detallada de cómo los diferentes componentes del sistema interactúan entre sí a nivel de código, enfocándose específicamente en la conexión e integración del servicio externo Izipay.
