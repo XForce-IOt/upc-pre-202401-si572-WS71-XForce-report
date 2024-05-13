@@ -296,51 +296,54 @@ En esta sección se muestra la estructura de la base de datos y la relación que
 ### 4.2.3. Bounded Context: Appointment Function
 El dominio de Appointment Function describe las funciones y procesos que se llevan a cabo en las aplicaciones web y móviles. Este dominio es responsable de manejar las funciones como el agendado de citas y el de poder visualizar las citas agendadas.  
 **Diccionario de Clases:**  
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/7558e7c1-c721-4d4a-921d-6d4f45e1ada9)  
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/023ec0af-e758-418b-9da0-c9666200a563)
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/39981000-0532-433d-aeee-77f7e354aa7b)
-
+[![image.png](https://i.postimg.cc/sxH472BW/image.png)](https://postimg.cc/FkcSQNVF)  
+[![image.png](https://i.postimg.cc/NjHk2BQy/image.png)](https://postimg.cc/nXnD68jZ)  
+[![image.png](https://i.postimg.cc/mrWNQJrm/image.png)](https://postimg.cc/w1FmzWLN)  
+[![image.png](https://i.postimg.cc/KY77Qfkx/image.png)](https://postimg.cc/p9TnLDJ6)
 
 #### 4.2.3.1. Domain Layer.
-Para la función de citas, el Domain Layer sería responsable de modelar las entidades del dominio y de encapsular la lógica. Aquí encontramos value objects y Aggregates, estos desempeñan un papel importante, ya que permite a los dueños de mascotas agendar una cita con veterinarias afiliadas y a los veterinarios poder ver su agenda de citas que tienen. 
+Para la función de citas, el Domain Layer sería responsable de modelar las entidades del dominio y de encapsular la lógica. Aquí encontramos los Aggregates, entitys, value objects, domain Services y repositories, estos desempeñan un papel importante, ya que encapsula la lógica de Appointment Function.
 
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/7bf2fa1f-0e00-444b-8cb6-ece09e0b4165)
+A continuación, se muestran todos los objetos relacionados con el dominio. 
 
+[![Domain-layer.png](https://i.postimg.cc/cHXRGJBz/image.png)](https://postimg.cc/bDSDQpM0)
 
 #### 4.2.3.2. Interface Layer.
-La Interface Layer del bounded context es esencial para el sistema, ya que se encarga de manejar las solicitudes relacionadas con las citas. Esto incluye su creación, actualización y eliminación de las citas  
+La Interface Layer del bounded context es esencial para el sistema, ya que se encarga de manejar las solicitudes relacionadas con las citas. Esto incluye su creación, actualización y eliminación de las citas.
 
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/ed96e6d8-71d2-413b-886e-a1442ba33a9b)
-
+[![image.png](https://i.postimg.cc/Y0PQjyVf/image.png)](https://postimg.cc/K3n1HQmR)
 
 #### 4.2.3.3. Application Layer.  
-En esta sección la caja de aplicación es responsable de la creación de las recetas médicas que brinda el veterinario al finalizar la cita agendada.
+En esta sección la caja de aplicación es responsable de coordinar las acciones y el flujo de datos entre la Capa de Dominio y la Capa de Infraestructura, actuando como intermediario y gestionando las interacciones entre las capas. Esta capa es crucial para garantizar que la lógica de negocio, representada por la Capa de Dominio, se ejecute de manera eficiente y coherente.
 
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/034bfb42-1684-41e8-a628-3664e407e9d3)
+[![image.png](https://i.postimg.cc/G3gFMH28/image.png)](https://postimg.cc/dDdZ3QGw)
 
+#### 4.2.3.4. Infraestructure Layer.
+La capa de infraestructura es responsable de proporcionar componentes técnicos y de soporte necesarios para que las otras capas del sistema funcionen correctamente. Esta capa incluye la implementación de repositorios, servicios que se conectan con otros sistemas externos y otros componentes de infraestructura.
 
-#### 4.2.3.4. Infrasreucture Layer.
-La capa de infraestructura es responsable de proporcionar componentes tecnicos y de soporte necesarios para que las otras capas del sistema funcionen correctamente. Esta capa incluye la implementación de servicios que se conectan con otros sistemas externos.
-
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/fd0eccad-eb48-432c-bf6a-524d513b759d)
-
+[![image.png](https://i.postimg.cc/pTGF162b/image.png)](https://postimg.cc/Q97CFS90)
 
 #### 4.2.3.6. Bounded Context Software Architecture Component Level Diagrams.  
+En esta sección presentamos el component level diagram de nuestro bounded context Appointment Function. Estos diagramas proporcionan una visión detallada de cómo los diferentes componentes del sistema interactúan entre sí en el contexto de aplicaciones web y móviles. Al analizar estos diagramas, podemos obtener una comprensión clara de cómo la plataforma funciona desde un punto de vista arquitectónico y cómo los componentes se comunican entre sí.
 
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/7f512329-f204-422e-b4be-c850e201b82c)
-
+[![image.png](https://i.postimg.cc/rFtrQj33/image.png)](https://postimg.cc/2Vry5Qz7)
 
 #### 4.2.3.7. Bounded Context Software Architecture Code Level Diagrams.
+Estos diagramas proporcionan información de cómo diferentes componentes de la aplicación interactúan a nivel de código para poder extraer información de la base de datos, en este caso podemos observar la interacción de los servicios del usuario y de los planes que ofrece nuestra aplicación.
 
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/3930fb75-5f29-421b-9e0b-400f742e8ee5)
+Dentro de los componentes tenemos el Appointment Management Service, el cual nos permite obtener información acerca de las citas y a la vez guardar y actualizar información acerca de estos mismos.
+
+[![image.png](https://i.postimg.cc/wMR74xfL/image.png)](https://postimg.cc/kR9JBCdg)
 
 
 ##### 4.2.3.7.1. Bounded Context Domain Layer Class Diagrams.
+El Bounded Context Domain Layer Class Diagrams del bounded context del Appointment Function representa los diagramas de clases para los diferentes componentes del dominio.
 
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/c8c028a9-f132-4582-9604-d40a26bb4883)
+[![image.png](https://i.postimg.cc/2jLQKCB0/image.png)](https://postimg.cc/yWB3J4jR)
 
 
 ##### 4.2.3.7.2. Bounded Context Database Design Diagram.
+En esta sección se muestra la estructura de la base de datos y la relación que tendrán entre ellas. En este caso tenemos 4 tablas que representan la forma en la que se trabaja la gestión de citas, de modo que el usuario dueño de mascota pueda generar una cita de un veterinario.
 
-![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/8fcded37-f281-4c9f-b649-c034423bfbaa)
+[![image.png](https://i.postimg.cc/QxLQLvQh/image.png)](https://postimg.cc/XX8GdH1z)
 
