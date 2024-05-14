@@ -765,4 +765,4 @@ Estos criterios nos guían en la creación de una experiencia de usuario coheren
 
 [![prototype.png](https://i.postimg.cc/85zBvmnc/prototype.png)](https://postimg.cc/t18xQWbG)
 
-Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c677_upc_edu_pe/EVrmSzsruG9EhIKxgzCSAfsBQirW6X1e6S5CzW2YbHFawg?e=6C1W1b 
+**Link del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c677_upc_edu_pe/EVrmSzsruG9EhIKxgzCSAfsBQirW6X1e6S5CzW2YbHFawg?e=6C1W1b 
