@@ -709,6 +709,25 @@ En este sprint, el equipo dividió las tareas teniendo en cuenta los features (a
     - Comentarios adicionales y conclusión de la entrevista.
     
 ### 6.3.2. Registro de Entrevistas.
+
+### Segmento Objetivo: Dueño de mascota
+
+### Entrevista 1:
+
+**Entrevistador:** Saúl Enrique Mendoza Barco 
+
+**Entrevistado:** Madelein Rodriguez
+
+**Edad:** 23 años
+
+**Distrito:** Callao
+
+[![e1.png](https://i.postimg.cc/vTQXfBcM/e1.png)](https://postimg.cc/S2vWpm6t)
+
+https://www.youtube.com/watch?v=P0n4a9h1IEA 
+
+**Resumen:** Madelein es una dueña de mascota de 23 años. Viven en el Callao y su dispositivo más usado es su celular con sistema operativo Android, el navegador que más utiliza en Chrome. Las redes sociales que más usa son Whatsapp e Instagram. Tiene una sola mascota, un perro. Lleva a su mascota todos los meses para un chequeo o un baño, su mascota cuenta con una dieta balanceada y posee un registro en una agenda de las vacunas y medicamentos que haya tomado su mascota, cuando ella no se encuentra en casa, deja a su mascota con su madre. Madelein nos comenta que la aplicación le pareció muy intuitiva y útil, en especial para poder contactar con su veterinario de confianza, también nos dice que le es de mucha ayuda tener los datos vitales de su mascota pues se preocupa mucho por la salud y bienestar de esta. 
+
 ### 6.3.3. Evaluaciones según heurísticas.
 **SITE o APP A EVALUAR:** PetHealth  
 **TAREAS A EVALUAR**  
