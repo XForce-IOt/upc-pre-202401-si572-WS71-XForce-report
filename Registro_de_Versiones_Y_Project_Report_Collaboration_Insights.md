@@ -20,6 +20,7 @@ Se obserban cas contribuciones hechas a la rama main hasta el día 02-05-2024
 [![Imagen1.png](https://i.postimg.cc/tTjcNT3r/Imagen1.png)](https://postimg.cc/v10XQGS9)
 
 #### Evidencias de la TB2
+Exposición de la TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER_kxRr2hvZCls-pRrBoB3UBpm51ChBz1SOPiUN6pdTiqA?e=48pIj5  
 En este sprint, el equipo dividió las tareas teniendo en cuenta los features (account-management, appointment-function, collar-function y pet-owner).  
 ###### Web Frontend:  
 [![Imagen18.png](https://i.postimg.cc/ZRd8fFcZ/Imagen18.png)](https://postimg.cc/47XHycqF)  
