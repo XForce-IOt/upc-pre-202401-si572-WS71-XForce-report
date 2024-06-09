@@ -149,34 +149,28 @@ En base al análisis competitivo de nuestros competidores que elaboramos previam
 Las fortalezas de nuestra competencia se comprenden en:
 1. Innovación y Mejora Continua:
   - Competidores: Muchos ofrecen seguimientos GPS y monitoreo básico.
-  - Estrategia: Ir más allá del estándar; investigar y desarrollar características innovadoras que nuestros competidores no ofrezcan, como análisis de comportamiento avanzado, recomendaciones personalizadas para el cuidado de la mascota, o integración con dispositivos de hogar inteligente.
+  - Estrategia: Ir más allá del estándar; investigar y desarrollar características innovadoras que nuestros competidores no ofrezcan, como **análisis de comportamiento avanzado**, **recomendaciones personalizadas** para el cuidado de la mascota, o integración con dispositivos de hogar inteligente.
 2. Experiencia de Usuario:
   - Competidores: Las aplicaciones y dispositivos pueden ser complicados o no muy intuitivos.
-  - Estrategia: Asegúrarse de que nuestro producto y aplicación sean extremadamente fáciles de usar, con interfaces intuitivas y soporte al cliente excepcional. Considerando la implementación de tutoriales interactivos o realidad aumentada para ayudar en la configuración inicial.
+  - Estrategia: Asegúrarse de que nuestro producto y aplicación sean extremadamente fáciles de usar, con interfaces intuitivas.
 3. Personalización:
   - Competidores: Ofrecen soluciones más generalizadas.
-  - Estrategia: Proporcionar opciones de personalización avanzadas, permitiendo a los dueños de mascotas ajustar las funciones según las necesidades específicas de sus animales. Esto puede incluir alertas personalizadas, objetivos de actividad y planes de salud personalizados.
+  - Estrategia: Proporcionar **opciones de personalización avanzadas**, permitiendo a los dueños de mascotas ajustar las funciones según las necesidades específicas de sus animales. Esto puede incluir **alertas personalizadas**.
 4. Precios y Modelos de Suscripción:
   - Competidores: Algunos pueden tener precios elevados o modelos de suscripción costosos.
   - Estrategia: Ofreceremos un modelo de precios competitivo o flexible que pueda atraer a un rango más amplio de clientes. Considerando ofrecer una versión básica gratuita con opciones de suscripción premium para características avanzadas.
 5. Marketing y Comunidad:
   - Competidores: Pueden tener estrategias de marketing sólidas y reconocimiento de marca.
   - Estrategia: Construir una comunidad fuerte alrededor de nuestra marca, utilizando las redes sociales y marketing de contenido para educar a los dueños de mascotas sobre la importancia del cuidado preventivo. Las historias de éxito de clientes reales pueden ser particularmente poderosas.
-6. Asociaciones Estratégicas:
-  - Competidores: Pueden tener asociaciones establecidas con clínicas veterinarias o tiendas de mascotas.
-  - Estrategia: Buscaremos asociaciones únicas, como colaborar con organizaciones de bienestar animal, grupos de entrenamiento de mascotas, o incluso aseguradoras de mascotas para ofrecer paquetes exclusivos o descuentos.
-7. Sostenibilidad:
-  - Competidores: La sostenibilidad puede no ser su enfoque principal.
-  - Estrategia: Destacaremos cualquier aspecto ecológico de nuestro producto, como materiales sostenibles o empaques reciclables, y asegurarnos de comunicar estas iniciativas a tus clientes.
 
 **Aprovechando las debilidades de nuestros competidores**  
 Las debilidades de nuestra competencia se comprenden en:
 1. Mejora la Durabilidad y Comodidad:
   - Competidores: Algunos collares pueden ser frágiles o incómodos para las mascotas.
-  - Estrategia: Aseguraremos que el PetHealth sea robusto y resistente al agua, pero también ligero y cómodo para llevar todo el día. Destacaremos estas características en tu marketing.
+  - Estrategia: Aseguraremos que el PetHealth sea robusto y resistente al agua, pero también ligero y cómodo para llevar todo el día. Destacaremos estas características en el marketing.
 2. Simplifica la Experiencia del Usuario:
   - Competidores: Interfaces complicadas o configuraciones difíciles.
-  - Estrategia: Ofreceremos una experiencia de usuario intuitiva tanto en el dispositivo como en la app asociada. Implementando un diseño amigable y asegurarse de que la configuración sea simple, ofreciendo guías paso a paso o videos tutoriales.
+  - Estrategia: Ofreceremos una **experiencia de usuario intuitiva** tanto en el dispositivo como en las app asociadas. Implementando un diseño amigable y asegurarse de que la configuración sea simple, ofreciendo guías paso a paso.
 3. Optimiza la Vida de la Batería:
   - Competidores: Corta duración de batería que requiere cargas frecuentes.
   - Estrategia: Desarrollaremos tecnología de batería de larga duración y destacar este punto en nuestra comunicación. Considerando sistemas de ahorro de energía inteligentes que ajusten el uso según la actividad.
@@ -185,14 +179,11 @@ Las debilidades de nuestra competencia se comprenden en:
   - Estrategia: Evaluaremos nuestra estructura de costos para ofrecer precios competitivos o modelos de suscripción más flexibles que atraigan a una base de clientes más amplia.
 5. Proporciona Soporte al Cliente Excepcional:
   - Competidores: Servicio al cliente deficiente o limitado.
-  - Estrategia: Estableceremos un soporte al cliente excepcional, ofreciendo múltiples canales de soporte, como chat en vivo, email, y teléfono. Respondiendo rápidamente a las consultas y solucionando problemas de manera eficiente.
-6. Enfócate en la Seguridad de Datos:
+  - Estrategia: Estableceremos un soporte al cliente excepcional, ofreciendo múltiples canales de soporte, como chat, email, y teléfono. Respondiendo rápidamente a las consultas y solucionando problemas de manera eficiente.
+6. Se enfoca en la Seguridad de Datos:
   - Competidores: Preocupaciones sobre la privacidad y seguridad de los datos.
   - Estrategia: Implementaremos y comunicaremos claramente las medidas de seguridad de datos avanzadas para proteger la información personal y de salud de las mascotas. Esto puede incluir encriptación de datos, políticas de privacidad transparentes y opciones de control de datos para los usuarios.
-7. Capacita y Educa a Tus Usuarios:
-  - Competidores: Falta de información o educación sobre el uso y beneficios del producto.
-  - Estrategia: Crearemos contenido educativo que destaque los beneficios de monitorear la salud y la actividad de las mascotas. Utilizando blogs, vídeos y redes sociales para educar a los dueños sobre cómo nuestro producto puede mejorar la vida de sus mascotas.
-8. Innovación Constante:
+7. Innovación Constante:
   - Competidores: Falta de innovación o actualizaciones.
   - Estrategia: Nos compremeteremos a la innovación continua, desarrollando nuevas características y mejoras basadas en el feedback de los usuarios. Manteniendo a tus clientes comprometidos con actualizaciones regulares y nuevas funcionalidades.
 
@@ -200,7 +191,7 @@ Las debilidades de nuestra competencia se comprenden en:
 Las oportunidades de nuestra competencia se comprenden en:
 1. Innovación Constante:
   - Competidores: Lanzamiento de nuevas funciones y mejoras.
-  - Estrategia: Fomentaremos una cultura de innovación continua en tu startup. Manteniendo al tanto de las tendencias emergentes en tecnología para mascotas y bienestar animal. Considerando la implementación de funciones avanzadas antes que tus competidores, como análisis de comportamiento mediante inteligencia artificial o integración con otros dispositivos inteligentes del hogar.
+  - Estrategia: Fomentaremos una cultura de innovación continua en el startup. Manteniendonos al tanto de las tendencias emergentes en tecnología para mascotas y bienestar animal. Considerando la implementación de funciones avanzadas antes que nuestros competidores, como análisis de comportamiento mediante inteligencia artificial o integración con otros dispositivos inteligentes del hogar.
 2. Expansión de Mercado:
   - Competidores: Entrar en nuevos mercados geográficos o segmentos de clientes.
   - Estrategia: Realizaremos investigaciones de mercado para identificar nichos no explotados o mercados emergentes. Considerando asociaciones locales o regionales para facilitar la entrada a nuevos mercados. Adaptando nuestro producto y mensajes de marketing para resonar con las preferencias locales.
@@ -213,13 +204,10 @@ Las oportunidades de nuestra competencia se comprenden en:
 5. Experiencia Personalizada:
   - Competidores: Ofrecer productos o servicios personalizados.
   - Estrategia: Utilizaremos tecnología para personalizar la experiencia del usuario, desde la personalización del producto hasta recomendaciones personalizadas basadas en el análisis de datos de la actividad de la mascota. Consideraremos funciones ajustables que los dueños puedan modificar según las necesidades específicas de sus mascotas.
-6. Sostenibilidad y Responsabilidad Social:
-  - Competidores: Enfatizar prácticas de negocio sostenibles y responsables.
-  - Estrategia: Aseguraremos de que nuestra cadena de suministro sea sostenible y ética. Considerando la posibilidad de participar en programas de reciclaje para dispositivos antiguos y utiliza materiales eco-amigables. Comunicando nuestros esfuerzos y compromisos de sostenibilidad claramente a tus clientes.
-7. Adaptabilidad y Escalabilidad:
+6. Adaptabilidad y Escalabilidad:
   - Competidores: Flexibilidad para adaptarse rápidamente a los cambios del mercado.
   - Estrategia: Mantendremos nuestra estructura organizativa ágil para poder adaptartarnos rápidamente a los cambios en las demandas de los consumidores o a los desafíos del mercado. Fomentando un enfoque basado en datos para la toma de decisiones, lo que nos permitirá escalar eficazmente y ajustar nuestras estrategias en tiempo real.
-8. Enfoque en la Comunidad:
+7. Enfoque en la Comunidad:
   - Competidores: Construir una comunidad sólida y comprometida.
   - Estrategia: Crearemos una comunidad en línea y fuera de línea entorno a nuestra marca, ofreciendo un espacio para que los dueños de mascotas compartan experiencias, consejos y apoyo. Organizando eventos comunitarios y participando en causas relacionadas con el bienestar animal.
 
@@ -246,9 +234,6 @@ Las amenazas de nuestra competencia se comprenden en:
 7. Falsificaciones y Competencia Desleal:
   - Competidores: La presencia de productos falsificados en el mercado.
   - Estrategia: Educaremos a nuestros clientes sobre cómo identificar tu producto auténtico y las ventajas de comprar directamente de nosotros o de distribuidores autorizados. Protegeremos nuestra marca y nuestros productos mediante patentes y marcas registradas.
-8. Desafíos de Distribución y Cadena de Suministro:
-  - Competidores: Interrupciones en la cadena de suministro pueden afectar la disponibilidad del producto.
-  - Estrategia:  Desarrollaremos una cadena de suministro robusta y flexible con múltiples proveedores y opciones logísticas. Consideraremos la producción local o regional para reducir los tiempos de entrega y los costos.
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
@@ -295,138 +280,156 @@ Las amenazas de nuestra competencia se comprenden en:
 - ¿Cuáles son las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo? (Ejemplo: Un caso de envenenamiento)
 
 ### 2.2.2. Registro de entrevistas.
+En esta sección se adjuntan las evidencias y detalle de las entrevistas realizadas a cada segmento objetivo (PetOwner y Vet).
+
+**Video recopilatorio de las entrevistas:**
+ [![entrevistas.png](https://i.postimg.cc/nr7vMVtf/entrevistas.png)](https://postimg.cc/WqNDHv35)[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g936_upc_edu_pe/EavttEK2k0BHk1hnSDv_TP0BjApGhrKmKyk2W0SQWwL0-g?e=bAUmjp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g936_upc_edu_pe/EavttEK2k0BHk1hnSDv_TP0BjApGhrKmKyk2W0SQWwL0-g?e=bAUmjp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Segmento: Dueños de mascota**
 
-- Entrevista 1:  
+- **Entrevista 1:**
 Entrevistador: Saúl Mendoza  
 Entrevistado: Nataly Torres  
 Edad: 23  
-Link de la entrevista: https://www.youtube.com/watch?v=L07RnsSHmFw 
+Distrito: Callao  
+Min Inicio: 0:09  
+Min Final: 3:30  
+[![entrevista.png](https://i.postimg.cc/T3WLfyt4/entrevista.png)](https://postimg.cc/QFhxqMGQ)  
 
-[![entrevista.png](https://i.postimg.cc/T3WLfyt4/entrevista.png)](https://postimg.cc/QFhxqMGQ)
+- **Resumen**: Nataly es una dueña de mascota de 23 años, que vive en Callao, usa principalmente Android. Las redes sociales que usa son Whatsapp, Facebook y TikTok. Nos comenta que tiene un veterinario de confianza al cual acude al menos 1 o 2 veces al mes, ya sea para un chequeo médico, para un baño o corte de pelo de su mascota. Por lo tanto, los productos que su mascota más usa son productos provehídos por la clínica donde trabaja su veterinario de confianza. También nos cuenta que cuando no está en casa, suele dejar a su mascota con algún familiar o amigo de confianza. Le gustaría una aplicación que le ayude a administrar los chequeos de su mascota para tener datos y estado medico de su mascota para de esa manera agilizar el proceso y tener un diagnóstico en caso algo llegue a suceder.
 
-- **Resumen**: Nataly es una dueña de mascota de 23 años, que vive en Callao, usa principalmente Android. Nos comenta que tiene un veterinario de confianza al cual acude al menos 1 o 2 veces al mes, ya sea para un chequeo a su mascota o para un baño, corte de pelo de su mascota, también nos cuenta que cuando no está en casa, suele dejar a su mascota con algún familiar o amigo de confianza. Le gustaría una aplicación que le ayude a administrar los chequeos de su mascota para tener datos y estado medico de su mascota para de esa manera agilizar el proceso y tener un diagnóstico en caso algo llegue a suceder. 
-
-- Entrevista 2:
-Nombre: Beatriz Almora Chuquihuaccha
-Distrito de residencia: Independencia
-Edad: 56 años
-Grado académico: Técnico
-
-[![Entrevista Dueño de mascota 2](https://i.postimg.cc/RVdr8pzw/Cap-POwner.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69)
+- **Entrevista 2:**
+Entrevistador: Jesica Rut Jaramillo Almora  
+Entrevistado: Beatriz Almora Chuquihuaccha  
+Edad: 56 años  
+Distrito: Independencia  
+Min Inicio: 3:31  
+Min Final: 8:17  
+[![https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69](https://i.postimg.cc/RVdr8pzw/Cap-POwner.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69)  
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ERraB-RBMKVDsAQYcF8idw4BlFnQmKtRnFYD6IHk79utmg?e=YUeo69)
 
 - **Resumen**: Beatriz es una dueña de mascota de 56 años. Vine en Independencia y el dispositivo que más usa es el celular con sistema operativo Android. El navegador que más utiliza en Chrome. Las redes sociales que más usa son Whatsapp, Facebook y TikTok. Tiene 3 mascotas, 2 perros y un gato. Se preocupa en llevar la cuenta de los baños de sus mascotas y en la compra de sus alimentos. No le molesta cuidar a sus mascotas porque sabe que ellos son dependientes de ella. Tiene problemas respecto a la salud de sus mascotas. Ella no puede monitorear a sus mascotas por largos periodos de tiempo debido al trabajo, en estos casos, ella encarga su cuidado a su hojo.
 Tiene un veterinario de confianza, donde realiza los baños, cortes de pelo, despulgue y revisiones médicos. Ella agenda sus citas cada 25 días y por llamada o whatsapp, donde coordinan la hora que necesite. Ella lleva la cuenta de las veces que lleva a sus mascotas al veterinario viendo la longitud del pelo de su perro. 
 Si su veterinario de confianza no estubiera disponible, buscaría otro veterinario disponible, lo cual le resultaría tedioso. 
-LAs marcas que usa son croquetas Ricocán, croquetas recomendadas por el veterinario (no recuerda el nombre) y shampoo Fresh Can. 
+Las marcas que usa son croquetas Ricocán, croquetas recomendadas por el veterinario (no recuerda el nombre) y shampoo Fresh Can. 
 Tiene 4 años siendo dueña de mascotas.
 
+- **Entrevista 3:**
+Entrevistador: Fredy Antonio Almeyda Alania  
+Entrevistado: Rosi Jennifer Claudia Laurencia  
+Edad: 23  
+Distrito: -  
+Min inicio: 8:18  
+Min Final: 13:04  
+- **Resumen:** Rosi es una estudiante universitaria que vive en lima. Su dispositivo móvil preferidi es el Smartphone con sistema operativo iOs. Su navegador preferido es Safari. Sus redes sociales preferidas son Facebook, Instagram y Whatsapp. Tiene 5 mascotas, entre perros y gatos, que son atendidas por un veterinario de confianza. Lleva a cada una al veterinario cada 15 o 30 días y el principal motivo de sus citas es por baños y cortes de pelo. La forma en la que contacta a su veterinario es a travéz de llamadas y Whatsapp. Además, los productos que consumen sus mascotas son croquetas recomendadas por su veterinario.  
+[![Foto-Entrevista.png](https://i.postimg.cc/W1HgmYw4/Foto-Entrevista.png)](https://postimg.cc/PC1CT4cG)  
+
 **Segmento: Veterinarios**
-- Entrevista 1:  
-Nombre: Cindia Martinez Olivia
-Edad: 37 años
-Distrito de residencia: Breña
-Grado Académico: Médico Veterinario
+- **Entrevista 1:**  
+Entrevistador: Leonardo José Aquino Cruz  
+Entrevistado: Cindia Martinez Olivia  
+Edad: 37 años  
+Distrito: Breña  
+Grado Académico: Médico Veterinario  
+Min inicio: 13:08  
+Min final: 15:33  
+[![Entrevista Veterinario 1](https://img.youtube.com/vi/4RhwqBvAMNs/0.jpg)](https://youtu.be/4RhwqBvAMNs)  
+- **Resumen**:
+  Cindia es una veterinaria de 37 años, que vive en Breña, usa principalmente Iphone iOS. En su trabajo, el animal que más atiende son los perros y lo traen al veterinario mayormente por enfermedades, tanto por su salud o edad. La cantidad de clientes que llegan cuando está en su turno es entre 10 a 12 clientes aproximadamente.  
+  Cuenta que se debe llevar al veterinario a sus mascotas por lo menos 1 vez al mes. Manejan un software llamado MedPet, donde ingresan todos los datos de sus anteriores clientes, la salud de sus mascotas, el historial médico, como también la fecha del proximo baño de pulgas de la mascota. Las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo, según la doctora, para un cliente regular, es más fácil saber que es lo que tiene el animal, se obvia mucho procedimiento ya que tiene registrado sus anteriores enfermedades y puede calcular que es lo que tiene el animal, miéntras que un cliente nuevo, se tiene que realizar todos los examenes para saber exactamente que enfermedad tiene el animal.  
 
-[![Entrevista Veterinario 1](https://img.youtube.com/vi/4RhwqBvAMNs/0.jpg)](https://youtu.be/4RhwqBvAMNs)
-  - **Resumen**:
-    Cindia es una veterinaria de 37 años, que vive en Breña, usa principalmente Iphone iOS. En su trabajo, el animal que más atiende son los perros y lo traen al veterinario mayormente por enfermedades, tanto por su salud o edad. La cantidad de clientes que llegan cuando está en su turno es entre 10 a 12 clientes aproximadamente.  
-    Cuenta que se debe llevar al veterinario a sus mascotas por lo menos 1 vez al mes. Manejan un software llamado MedPet, donde ingresan todos los datos de sus anteriores clientes, la salud de sus mascotas, el historial médico, como también la fecha del proximo baño de pulgas de la mascota. Las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo, según la doctora, para un cliente regular, es más fácil saber que es lo que tiene el animal, se obvia mucho procedimiento ya que tiene registrado sus anteriores enfermedades y puede calcular que es lo que tiene el animal, miéntras que un cliente nuevo, se tiene que realizar todos los examenes para saber exactamente que enfermedad tiene el animal.
-
-- Entrevista 2:
-Nombre: Grecia Elena Álvarez Medrano
-Edad: 33 años
-Distrito de residencia: Carabayllo
-Grado académico: Médico Veterinario
-
-[![Entrevista Veterinario 2](https://i.postimg.cc/4dJ1HPmQ/CapVet.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY)
+- **Entrevista 2:**
+Entrevistador: Jesica Rut Jaramillo Almora  
+Entrevistado: Grecia Elena Álvarez Medrano  
+Edad: 33 años  
+Distrito: Carabayllo  
+Grado académico: Médico Veterinario  
+Min inicio: 15:33  
+Min final: 17:59  
+[![https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY](https://i.postimg.cc/4dJ1HPmQ/CapVet.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/ER1oyV0YtThDhiIog3h_oQ4BMx7aGdOM0y5exdSCmq-IZQ?e=tGmWAY)  
 
 - **Resumen**:
-Grecia es una veterinaria de 33 años que vive en Carabayllo. El dispositivo que más usa es el celular con sistema operativo Android. Tiene una especialización en perros y gatos, que son los animales que más atiende. Atiende de 8 a 10 animales por día. Los pricipales motivos de las consultas son: inapentencia, fiebre o tienen garrapatas. Ella recomienda que las mascotas recivan citas veterinas según su edad: los más jóvenes cada año y a partir de los 5 años, 2 veces por año.
-Utiliza historias clínicas físicas para llevar los registros médicos de las mascotas que atiende. Pero espera en un futuro virtualizar este proceso. El procedimiento para la atención de una mascota es: Ingresar a recepción, crear una historia clínica física o buscar su historia existente, y ser atendidos. Todas las mascotas deben aperturar una historia clínica.
+Grecia es una veterinaria de 33 años que vive en Carabayllo. El dispositivo que más usa es el celular con sistema operativo Android. El navegador que más utiliza es Chrome. Tiene una especialización en perros y gatos, que son los animales que más atiende. Atiende de 8 a 10 animales por día. Los pricipales motivos de las consultas son: inapentencia, fiebre o tienen garrapatas. Ella recomienda que las mascotas recivan citas veterinas según su edad: los más jóvenes cada año y a partir de los 5 años, 2 veces por año. 
+Las citas médicas en la Clínica Veterinaria donde trabaja se realizan a través de Whatsapp, llamadas telefónicas o de manera presencial.
+Utiliza historias clínicas físicas para llevar los registros médicos de las mascotas que atiende. Pero espera en un futuro virtualizar este proceso. El procedimiento para la atención de una mascota es: Ingresar a recepción, crear una historia clínica física o buscar su historia existente, y ser atendidos. Todas las mascotas deben aperturar una historia clínica.  
 
-- Entrevista 3:
-Nombre: Henry Nicolas Velarde Bernales
-Edad: 24 años
-Distrito de residencia: Lima
-Grado académico: Estudiante Veterinario
+- **Entrevista 3:**
+Entrevistador: Emerson Gerardo Quispe Villegas  
+Entevistado: Henry Nicolas Velarde Bernales  
+Edad: 24 años  
+Distrito de residencia: Lima  
+Grado académico: Estudiante Veterinario  
+[![Foto-Entrevista.png](https://i.postimg.cc/5y6fmj2D/Foto-Entrevista.png)](https://postimg.cc/LgFd99fV)  
 
 - **Resumen**:
 La entrevista realizada a Henry Nicolas Velarde Bernales un joven veterinario de 24 años, nos comenta que actualmente vive en Lima, actualmente se encuentra estudiando y trabajando, el dispositivo que más usa es el celular, con el sistema operativo de Android, en 5 años se ve teniendo su propia veterinaria y ayudando a varios animalitos en la calle. El navegador web que mas usa es el chrome, y la red social que más utiliza son WhatsApp y Facebook. El nos comenta que le gustan muchos los animales y le gusta ayudar.Henry nos comenta que las mascotas que mas atiende son perros y gatos, mas perros que gatos. A diario el recibe 7 u 8 clientes diarios, de los cuales la mayoria de visitas que recibe son por que sus mascotas se encuentran mal. El recomienda que las mascotas deben acudir al veterinario minimo 2 veces al año, para un chequeo, en caso no se presente ninguna enfermedad y pueda prevenir una enfermdad a largo plazo.Henry comenta que en la veterinaria donde trabaja mantienen los registrso de las mascotas en word y tambien en documentos fisicos. Nos comentó también como proceden ante un caso comun que ve a diario y uno de emergencia. En el caso común, es que llevan a la mascota por alergia, el veterinario lo chequea y le da su respectiva receta. Para el caso de emergencia, primero deben calmar al dueño, para que puedan hablar con el y les pueda dar mas detalles sobre lo que le sucede a la mascota,una vez identificado las causas, el veterinario procede con los respectivos protocolos para la pronta mejora de la mascota. Por ultimo acota que es muy importante una comunicacion clara con los dueños de las mascotas, ya que si no llegan a entenderse bien, el veterinario le puede estar aplicando una medicina que no es lo ideal para el caso que esta presentando la mascota.
 
 ### 2.2.3. Análisis de entrevistas.
 #### Pet Owners
-- La edad promedio de los Pet Owners es 34 años.
-  [![edad-Promedio-PO.png](https://i.postimg.cc/Dz6zYjNJ/edad-Promedio-PO.png)](https://postimg.cc/GBBr4Qdd)
-- El 100% de los Pet Owners viven en Lima.
-  [![viven-En-Lima-PO.png](https://i.postimg.cc/y6yzhgwx/viven-En-Lima-PO.png)](https://postimg.cc/SjR5ksQb)
-- El dispositivo peferido de los pert Owners es el Smartphone
-  [![dispositivo-Preferido-PO.png](https://i.postimg.cc/Twht4P9z/dispositivo-Preferido-PO.png)](https://postimg.cc/Fd5bfNwp)
-- El Sistema operativo más usado es Android.
-  [![SOPreferido-PO.png](https://i.postimg.cc/8cmfdRvN/SOPreferido-PO.png)](https://postimg.cc/RJq04nGD)
-- El navegador web más usado es Chrome.
-  [![navegador-Web-Preferido-PO.png](https://i.postimg.cc/0jV22cmM/navegador-Web-Preferido-PO.png)](https://postimg.cc/2LBf0d0r)
-- Redes sociales:
-  [![redes-Sociales-PO.png](https://i.postimg.cc/Qt6RFP43/redes-Sociales-PO.png)](https://postimg.cc/LY1y7yFC)
-- El promedio de la cantidad de mascotas que tienen es 3
-  [![num-Mascotas-Promedio-PO.png](https://i.postimg.cc/J0NYb2K0/num-Mascotas-Promedio-PO.png)](https://postimg.cc/p5dBvkwM)
-- Las especies de mascotas que tienen:
-  [![por-Mascotas-PO.png](https://i.postimg.cc/mg5jF4RV/por-Mascotas-PO.png)](https://postimg.cc/JsjZ99sB)
-- El 100% tiene un veterinario de confianza
-  [![tienen-Vet-Confianza-PO.png](https://i.postimg.cc/D0N0PxZV/tienen-Vet-Confianza-PO.png)](https://postimg.cc/64dB9Lnz)
-- Los Pet owners llevan a sus mascotas al veterinario cada 26 días en promedio
-  [![intervalo-Entre-Citas-PO.png](https://i.postimg.cc/prmXrKBs/intervalo-Entre-Citas-PO.png)](https://postimg.cc/vxddSgkn)
-- Canales de comunicación con sus veterinarios:
-  [![canal-Comunicacion-Vets-PO.png](https://i.postimg.cc/NMSL1NF3/canal-Comunicacion-Vets-PO.png)](https://postimg.cc/vg7QytWh)
 
+| Pregunta                                                                    | Acciones Realizadas                                                                                                                                                                                    |
+|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Cuál es su edad?                                                           | La edad promedio de los PetOwners es de 34 años.                                                                                                                                                       |
+| ¿Dónde vive actualmente?                                                    | El 100% de los PetOwners vive en Lima.                                                                                                                                                                 |
+|                 ¿Cuál es el dispositivo móvil que más usa?                  | El 100% de los PetOwners comenta que su dispositivo móvil más usado es el Smartphone.                                                                                                                  |
+| ¿Cuál es el sistema operativo de su celular?                                | El 66.6% de los PetOwners prefieren Android frente al 33.3% que prefiere iOS.                                                                                                                          |
+| ¿Qué navegador web usa?                                                     | El 66.6% de los PetOwners prefieren Chrome frente al 33.3% que prefiere Safari.                                                                                                                        |
+| ¿Qué redes sociales usa?                                                    | El 100% de los usuarios usa Whatsapp para coordinar sus citas con sus veterinarios. Para otras actividades, el 67%  también usa Facebook, el 33% también usa TikTok, y otro 33% también usa Instagram. |
+| ¿Cuántas mascotas tiene?                                                    | El número de mascotas que los PetOwners tienen en promedio es 3 mascotas. El 100% tiene perros, de estos, el 67% también tiene gatos.                                                                          |
+| ¿Tiene un veterinario de confianza?                                         | El 100% de los PetOwners recalcan que tienen un veterinario de confianza.                                                                                                                              |
+| ¿Cómo agenda las citas de su mascota con su veterinario?                    | El 33% agenda sus citas con el veterinario solo de manera presencial. El 67% agenda sus citas de manera presencial, por Whatsapp o por llamada telefónica.                                             |
+| ¿Cada cuánto tiempo agenda estas citas para su mascota? ¿Cuál es el motivo? | Los usuarios PetOwners reservan sus citas al veterinario cada 25 días en promedio y el principal motivo es la limpieza y corte de pelo de sus mascotas.                                                |
 #### Vets
-- La edad promedio de los Vets es 31 años.
-  [![edad-Promedio-V.png](https://i.postimg.cc/vHS25ftW/edad-Promedio-V.png)](https://postimg.cc/bskRhGMJ)
 
-- El 100% de los Vets entrevistados viven en Lima.
-  [![viven-En-Lima-V.png](https://i.postimg.cc/prrYdc73/viven-En-Lima-V.png)](https://postimg.cc/K3Xgqfm5)
-- El dispositivo más usado por los Vets es el Smartphone.
-  [![dispositivo-Preferido-V.png](https://i.postimg.cc/fWV8DJNy/dispositivo-Preferido-V.png)](https://postimg.cc/PNkWMfNn)
-- El 66.6% usa Android frente al 33.3% restante.
-  [![SOPreferido-V.png](https://i.postimg.cc/brqY0K8F/SOPreferido-V.png)](https://postimg.cc/vgSdb24W)
-- Redes sociales:
-  [![redes-Sociales-V.png](https://i.postimg.cc/vHkFbpkF/redes-Sociales-V.png)](https://postimg.cc/hfL303Kp)
-- Especies atendidas:
-  [![especies-Atendidas-V.png](https://i.postimg.cc/JhKp4X0D/especies-Atendidas-V.png)](https://postimg.cc/672rMydt)
-- Los Vets atienden a 10 clientes diarios en promedio.
-  [![promedio-Clientes-Diarios-V.png](https://i.postimg.cc/wjqfKFT8/promedio-Clientes-Diarios-V.png)](https://postimg.cc/4m0bV69B)
-- El principal motivo de las consultas es por enfermedades.
-  [![principal-Motivo-Consultas-V.png](https://i.postimg.cc/5ypz85cL/principal-Motivo-Consultas-V.png)](https://postimg.cc/304WTvxx)
-- La fecuencia recomendada de las visitas es 2 por año.
-  [![cant-Visitas-Recomendadas-V.png](https://i.postimg.cc/02bjt1DL/cant-Visitas-Recomendadas-V.png)](https://postimg.cc/ykC7d5fP)
-- Sistemas usados por las clínicas veterinarias:
-  [![sistema-Registro-Hist-Medico-V.png](https://i.postimg.cc/NGVBj92z/sistema-Registro-Hist-Medico-V.png)](https://postimg.cc/LhzrysTt)
+| Pregunta                                                                   | Análisis                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Cuál es su edad?                                                          | La edad promedio de los usuarios Vets es de 31 años.                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ¿Dónde vive actualmente?                                                   | El 100% de los usuarios Vets entrevistados vive en Lima.                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                        ¿Cuál es su grado académico?                        | El 100% de los Vets entrevistados son Médicos Veterinarios o estudiantes de Medicina Veterinaria.                                                                                                                                                                                                                                                                                                                                                        |
+| ¿Cuál es el dispositivo móvil que más usa?                                 | El 100% de los Vets comenta que su dispositivo móvil más usado es el Smartphone.                                                                                                                                                                                                                                                                                                                                                                         |
+| ¿Cuál es el sistema operativo de su celular?                               | El 66.6% de los Vets prefieren Android frente al 33.3% que prefiere iOS.                                                                                                                                                                                                                                                                                                                                                                                 |
+| ¿Qué redes sociales usa?                                                   | El 33% usa Whatsapp y Facebook, el otro 33% usa whatsapp Facebook e Instagram, y el 33% solo Instagram.                                                                                                                                                                                                                                                                                                                                                  |
+| ¿Qué navegador web usa?                                                    | El 66.6% de los Vets prefieren Chrome frente al 33.3% que prefiere Safari.                                                                                                                                                                                                                                                                                                                                                                               |
+| ¿Cómo se comunica con sus clientes?                                        | El 66% de los Veterinarios agenda citas médicas con sus clientes solo a través de Llamadas o de manera presencial. El otro 33% también usa Whatsapp.                                                                                                                                                                                                                                                                                                     |
+| ¿Cuál es la especie de mascotas que más atiende?                           | El 100% de los veterinarios sostiene que las mascotas más atendidas son Perros y Gatos.                                                                                                                                                                                                                                                                                                                                                                  |
+| ¿Cuántos clientes regulares tiene aproximadamente?                         | El promedio de clientes atendidos es de 10 mascotas por día.                                                                                                                                                                                                                                                                                                                                                                                             |
+| ¿Cuál es el principal motivo de las visitas al veterinario?                | El 100% de los veterinarios sostienen que el principal motivo de las citas veterinarias es por enfermedades.                                                                                                                                                                                                                                                                                                                                             |
+| ¿Cada cuánto tiempo es recomendable que una mascota visite al veterinario? | El promedio de veces que el veterinario recomienda llevar a su mascota a un chequeo médico es de 1.7 veces por año en promedio.                                                                                                                                                                                                                                                                                                                          |
+| ¿Cómo llevan el registro médico de las mascotas?                           | El 33% de las clínicas veterinarias donde trabajan los Vets utilizan solo un Software propio para la administración de las citas e historial médico de las mascotas. Otro 33% utilizan solo reportes físicos para la administración de las citas e historial médico de las mascotas. Otro 33% utilizan reportes físicos y digitales para la administración de las citas e historial médico de las mascotas, sin embargo, no utilizan un software propio. |
 
-[Enlace a excel](https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EfvlPHpUGshHs-7rN9eOosMBJX_-CRykCce26yLYVVHufg?e=TYyfqn)
+Enlace a Excel: [https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EfvlPHpUGshHs-7rN9eOosMBJX_-CRykCce26yLYVVHufg?e=TYyfqn](https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EfvlPHpUGshHs-7rN9eOosMBJX_-CRykCce26yLYVVHufg?e=TYyfqn)
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+Se realizan las fichas de user persona para cada segmento objetivo (PetOwner y Vet), donde se consolidan los datos obtenidos a travéz de las entrevistas con los usuarios y el análisis de competidores.
+Estos artefactos se utilizan para la posterior ceación del As-Is Scenario map, To-Be Scenario map, Task Matrix y Journey Mapping.  
+
 - Dueños de mascotas:
 ![Pet Owner User Persona](./Resources/images/PetOwner.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/p/MUnXl)
+[https://uxpressia.com/w/4rB9D/p/MUnXl](https://uxpressia.com/w/4rB9D/p/MUnXl)
 - Médicos veterinarios:
 ![Vet User Persona](./Resources/images/Vet.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/p/rJ76I)
+[https://uxpressia.com/w/4rB9D/p/rJ76I](https://uxpressia.com/w/4rB9D/p/rJ76I)
 ### 2.3.2. User Task Matrix.
-|                       Task Matrix                     |  Pet Owner |  Pet Owner  |     Vet    |     Vet     |
-|:-----------------------------------------------------:|:----------:|:-----------:|:----------:|:-----------:|
-|                                               | Frecuencia | Importancia | Frecuencia | Importancia |
-|     Monitorización en tiempo real y análisis de salud |    Alta    |     Alta    |    Media   |     Alta    |
-|                  Alerta de estado anormal             |    Baja    |     Alta    |    Baja    |     Alta    |
-|         Reservación de cita en clínica veterinaria    |    Media   |     Alta    |    Media   |     Alta    |
-|                 Asignación de diagnóstico             |    Media   |    Media    |    Media   |    Media    |
-|           Edición   de Información de Mascota         |    Baja    |     Alta    |    Alta    |     Alta    |
-|         Gestión   de historia clínica de salud        |    Media   |     Alta    |    Alta    |     Alta    |
-|                  Gestión   de clientes                |      -     |      -      |    Alta    |    Media    |
-|             Gestión   de historial de citas           |    Media   |     Baja    |    Alta    |    Media    |
-|             Recordatorio   de citas médicas           |   Media    |    Media    |    Media   |     Baja    |
-|             Calificación a Veterinarias               |    Baja    |     Alta    |      -     |      -      |
+El siguiente cuadro muestra las tareas que completan los segmentos Pet Owner y Vets durante el cuidado y diagnóstico de las mascotas.  
+
+| Task Matriz                                                                                                         | Pet Owner  | Pet Owner   | Vet        | Vet         |
+|---------------------------------------------------------------------------------------------------------------------|------------|-------------|------------|-------------|
+|                                                                                                                     | Frecuencia | Importancia | Frecuencia | Importancia |
+| Alimentar a la mascota.                                                                                             | Alta       | Alta        |            |             |
+|                                  Sacar a pasear a la mascota según sus necesidades.                                 | Media      | Media       |            |             |
+| Programar y asistir a las citas con el veterinario para vacunas, chequeos regulares, y cualquier problema de salud. | Baja       | Alta        |            |             |
+| Administrar medicamentos según las indicaciones del veterinario.                                                    | Baja       | Media       |            |             |
+| Mantener al día las vacunas y tratamientos preventivos contra parásitos.                                            | Baja       | Alta        |            |             |
+| Jugar y participar en actividades que fomenten el vínculo entre el dueño y la mascota.                              | Media      | Media       |            |             |
+| Realizar exámenes físicos completos de los pacientes.                                                               |            |             | Media      | Alta        |
+| Diagnosticar enfermedades y lesiones basadas en los hallazgos clínicos y de laboratorio.                            |            |             | Media      | Alta        |
+| Prescribir y administrar medicamentos para tratar enfermedades y aliviar el dolor.                                  |            |             | Media      | Media       |
+| Monitorear la respuesta del paciente al tratamiento y ajustar según sea necesario.                                  | Alta       | Alta        | Baja       | Media       |
+| Realizar cirugías programadas y de emergencia según sea necesario.                                                  |            |             | Baja       | Alta        |
+| Realizar exámenes de salud preventivos y recomendar vacunas y tratamientos preventivos.                             |            |             | Media      | Media       |
+| Llevar registros detallados de la historia clínica de cada paciente y actualizarlos regularmente.                   |            |             | Alta       | Alta        |
+| Comunicarse con los propietarios sobre el estado de salud de sus mascotas y los planes de tratamiento.              | Media      | Media       | Media      | Media       |
 
 
 #### Leyenda:
@@ -440,44 +443,61 @@ Frecuencia:
 - Baja: La tarea no es crítica y puede haber margen para la simplificación o automatización.
 
 ### 2.3.3. User Journey Mapping.
+En esta sección se muestra la representación gráfica de la experiencia de usuario que atraviensan los segmentos objetivos desde que identifican hasta que completan su necesidad.  
+Este artefacto está elaborado sobre las versiones As-Is, es decir, el escenario antes de la existencia de la solución propuesta: "PetHealth".  
 - Dueños de mascotas:
+Se describe el viaje del usuario Pet Owner. Desde haber identicado su problema durante su rutina de cuidados a su mascota (mascota presenta síntomas extraños), agendar una cita médica, lo que hace durante una cita médica, y el cuidado posterior de su mascota. 
 ![Pet Owner Journey Mapping](./Resources/images/PetOwnerJM.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/m/RQ7Y9)
+Uxpressia: [https://uxpressia.com/w/4rB9D/m/RQ7Y9](https://uxpressia.com/w/4rB9D/m/RQ7Y9)
 - Médicos veterinarios:
-![Vet Journey Mapping](./Resources/images/VetJM.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/m/KXGlg)
+Se describe el viaje del usuario Vet. Desde haber identicado un problema durante su servicio (contacto de parte de un cliente), agendar una cita médica, editar o crear el historial médico de una mascota, el cuidado posterior de una mascota, agendar más citas de monitoreo y actualizar su estado de disponibilidad.   
+Uxpressia: ![Vet Journey Mapping](./Resources/images/VetJME.png)
+[https://uxpressia.com/w/4rB9D/m/KXGlg](https://uxpressia.com/w/4rB9D/m/KXGlg)
 ### 2.3.4. Empathy Mapping.
+En esta sección se utilizaron los User Personas previamente creados para que el equipo de desarrolo obtenga una visión más profunda de cada segmento. Esto se realizó a través de las preguntas:  ¿Con quién estamos empatizando? ¿Qué necesita hacer? ¿Qué está
+diciendo? ¿Qué está viendo? ¿Qué está haciendo? ¿Qué está escuchando? ¿Cómo se
+siente y qué piensa? Identificar Pains y Gains en base a las preguntas ¿Qué le
+preocupa? Y ¿Qué puede ayudar a resolver sus problemas? ¿Qué puede convencerlo
+de que somos la alternativa correcta? ¿Qué dice?
 - Dueños de mascotas:
 ![Pet Owner Empathy Mapping](./Resources/images/EmpathymapPetOwner.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/p/i8qXM)
+Uxpressia: [https://uxpressia.com/w/4rB9D/p/i8qXM](https://uxpressia.com/w/4rB9D/p/i8qXM)
 - Médicos veterinarios:
 ![Vet Empathy Mapping](./Resources/images/EmpathymapVet.png)
-[UxPressia](https://uxpressia.com/w/4rB9D/p/qYdfL)
+[https://uxpressia.com/w/4rB9D/p/qYdfL](https://uxpressia.com/w/4rB9D/p/qYdfL)
 ### 2.3.5. As-is Scenario Mapping.
+En esta sección se adjuntan los As-Is Scenarios trabajados por el equipo en la herramienta Miro. 
+Donde se detallaron las filas Steps, Doing, Thinking y Feeling para cada segmento objetivo antes de la existencia de la solución propuesta: "PetHealth".  
 - Dueños de mascotas:
 ![Pet Owner As-is Scenario Mapping](./Resources/images/AsIsPetOwner.jpg)
-[Miro](https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088)
+Miro: [https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088](https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088)
 - Médicos veterinarios:
 ![Vet As-is Scenario Mapping](./Resources/images/AsIsVet.jpg)
-[Miro](https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088)
+Miro: [https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088](https://miro.com/app/board/uXjVKVSc_10=/?share_link_id=389082642088)
 
 
 ## 2.4. Ubiquitous Language.
-* **PetHealth:** Se refiere a la aplicación que yace en los dispositivos de los usuarios.
-* **Control panel:** Se refiere a la interfaz de usuario dentro de la aplicación PetHealth donde los Pet Owners pueden visualizar y gestionar la información relacionada con la salud y bienestar de sus mascotas.
-* **Pet Owner:** Se refiere al dueño de una mascota. 
-* **PetHealt Collar:** Se refiere al collar, ofrecido por PetHealth, que servirá para monitorear la salud de la mascota y facilitar un reporte de estado al Pet Owner.
-* **Pet:** Se refiere a la mascota que usa el PetHealth Collar.
-* **Vet:** Se refiere al veterinario afiliado a la aplicación PetHealth.
-* **Your Vets:** Se refiere al listado de Vets a los que los Pet owners se encuentran afiliados, con los que comparten información de su mascota.
-* **In person Appointment:** Se refiere a la cita médica agendada haciendo uso de la aplicación PetHealth entre el Pet Owner y el Vet. 
-* **Online Review:** Se refiere a la consulta médica en línea realizada al Vet a travéz de la aplicación.
-* **Pet Report:** Se refiere al reporte que solicita la información médica recopilada de Pet. Puede ser solicitada por el Pet Owner y el Vet al que el Pet Owner se ha afiiado.
-* **Pet Medical History:** Se refiere al registro completo de la salud y tratamientos médicos de la mascota, almacenado y gestionado dentro de la aplicación PetHealth. 
-* **Notifications:** Se refiere a las alertas y notificaciones enviadas directamente a la aplicación del Pet Owner para informar sobre eventos importantes, como recordatorios de citas o reportes de estado.
-* **Pet warning:** Se refiere a la notificación enviada a la aplicación del Pet Owner que informa un estado anormal en los signos vitales o ubicación de Pet.
-* **Subscription plans:** Se refiere a las diferentes opciones de membresía o planes de suscripción ofrecidos a los Pet Owners para acceder a las funcionalidades premium de la aplicación PetHealth.
-* **Pet Registration:** Se refiere al proceso mediante el cual un Pet Owner registra a su mascota en la aplicación PetHealth, incluyendo detalles como nombre, raza, edad, y otros datos relevantes.
-* **Collar integration:** Se refiere a los pasos requeridos para sincronizar el nuevo PetHealth collar a la aplicación del Pet Owner.
-* **Client support:** Se refiere al servicio activo que atiende y busca resolver las inquietudes y problemas de los usuarios.
-* **Software updates:** Se refiere a las mejoras y correcciones de errores realizadas en la aplicación PetHealth para garantizar su rendimiento óptimo y mantenerla actualizada con las últimas tecnologías y estándares de seguridad.
+- **Pet Owner** (Dueño de Mascota):
+Definición: Persona responsable de cuidar y proporcionar atención a una mascota.
+- **Veterinarian** (Veterinario):
+Definición: Profesional médico especializado en el cuidado y tratamiento de animales.
+- **Examination** (Examen):
+Definición: Evaluación médica realizada por un veterinario para diagnosticar enfermedades, lesiones o problemas de salud en una mascota.
+- **Vaccination** (Vacunación):
+Definición: Administración de vacunas para prevenir enfermedades específicas en las mascotas.
+- **Spaying** (Esterilización):
+Definición: Procedimiento quirúrgico para la esterilización de hembras, especialmente en gatos y perros, mediante la extirpación de los ovarios y, a menudo, del útero.
+- **Neutering** (Castración):
+Definición: Procedimiento quirúrgico para la castración de machos, especialmente en gatos y perros, mediante la extirpación de los testículos.
+- **Check-up** (Chequeo):
+Definición: Evaluación de rutina realizada por un veterinario para asegurarse de que una mascota esté en buen estado de salud.
+- **Dental Cleaning** (Limpieza Dental):
+Definición: Procedimiento realizado por un veterinario para eliminar el sarro y la placa de los dientes de una mascota y promover la salud dental.
+- **Parasite Control** (Control de Parásitos):
+Definición: Medidas tomadas para prevenir y tratar infestaciones de parásitos como pulgas, garrapatas, gusanos intestinales, etc.
+**Microchip Implantation** (Implantación de Microchip):
+Definición: Colocación de un microchip de identificación bajo la piel de una mascota para facilitar su identificación en caso de pérdida o robo.
+- **Behavioral Training** (Entrenamiento de Comportamiento):
+Definición: Proceso de enseñanza y corrección de comportamientos no deseados en una mascota.
+- **Emergency Care** (Atención de Emergencia):
+Definición: Tratamiento médico inmediato y urgente proporcionado a una mascota en caso de lesiones graves, enfermedades repentinas u otras emergencias médicas.
