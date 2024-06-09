@@ -122,14 +122,32 @@ Sprint Goal: Durante el primer sprint, el equipo se centró en los siguientes en
 [https://www.pivotaltracker.com/n/projects/2703036](https://www.pivotaltracker.com/n/projects/2703036)
 #### 6.2.1.3. Development Evidence for Sprint Review.
 [![sprint.png](https://i.postimg.cc/dtKCDDG2/sprint.png)](https://postimg.cc/Z0VnMb7n)
-[https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EUnjzl5QYdVGvw-6Bya0SdsBwnEhiCo3WPQqITynuv9vPA?e=NR5nOv](https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EUnjzl5QYdVGvw-6Bya0SdsBwnEhiCo3WPQqITynuv9vPA?e=NR5nOv)
+[https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EUnjzl5QYdVGvw-6Bya0SdsBwnEhiCo3WPQqITynuv9vPA?e=NR5nOv](https://upcedupe-my.sharepoint.com/:x:/g/personal/u20201c163_upc_edu_pe/EUnjzl5QYdVGvw-6Bya0SdsBwnEhiCo3WPQqITynuv9vPA?e=NR5nOv)  
+
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 No se realizaron tests durante esta entrega.
 #### 6.2.1.5. Execution Evidence for Sprint Review.
-#### 6.2.1.6. Services Documentation Evidence for Sprint Review.
-#### 6.2.1.7. Software Deployment Evidence for Sprint Review.
-#### 6.2.1.8. Team Collaboration Insights during Sprint.
+Durante este sprint, se completaron los entregables:  
+- Primera versión de la Aplicación Web
+- Primera versión de la Landing Page  
 
+Vista pets y metrics  
+[![Imagen1.png](https://i.postimg.cc/CxBWs9qQ/Imagen1.png)](https://postimg.cc/18SC9CMG)  
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+Durante el desarrollo de este sprint, se utilizó Json-server para simular nuestro servicio de backend mientras este se encontraba en desarrollo.  
+Fake n-points:  
+[![Captura-de-pantalla-2024-06-08-203643.png](https://i.postimg.cc/9Xx9GkVT/Captura-de-pantalla-2024-06-08-203643.png)](https://postimg.cc/G9y9Rq4h)  
+[![Captura-de-pantalla-2024-06-08-203722.png](https://i.postimg.cc/CLzqJ4L2/Captura-de-pantalla-2024-06-08-203722.png)](https://postimg.cc/crGCLw37)  
+[![Captura-de-pantalla-2024-06-08-203750.png](https://i.postimg.cc/xThbZbX1/Captura-de-pantalla-2024-06-08-203750.png)](https://postimg.cc/jL65w26p)  
+
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+DUrante este Sprinte, se desplegó la primera versión de la aplicación web.
+[![Imagen1.png](https://i.postimg.cc/CxBWs9qQ/Imagen1.png)](https://postimg.cc/18SC9CMG)  
+https://pet-health.netlify.app/  
+
+#### 6.2.1.8. Team Collaboration Insights during Sprint.
+Se evidencia la participación del equipo de desarrollo durante el Sprint.  
+[![Imagen1.png](https://i.postimg.cc/tTjcNT3r/Imagen1.png)](https://postimg.cc/v10XQGS9)  
 ### 6.2.2. Sprint 2
 ##### 6.2.2.1.Sprint Planning 2.
 <table>
