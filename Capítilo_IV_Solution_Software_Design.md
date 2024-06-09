@@ -346,4 +346,3 @@ El Bounded Context Domain Layer Class Diagrams del bounded context del Appointme
 En esta sección se muestra la estructura de la base de datos y la relación que tendrán entre ellas. En este caso tenemos 4 tablas que representan la forma en la que se trabaja la gestión de citas, de modo que el usuario dueño de mascota pueda generar una cita de un veterinario.
 
 [![image.png](https://i.postimg.cc/QxLQLvQh/image.png)](https://postimg.cc/XX8GdH1z)
-

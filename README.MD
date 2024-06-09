@@ -5,31 +5,35 @@
 
 **Ingeniería de Software**
 
+Ciclo: 2024-1
+
 </div>
 
 Curso: Desarrollo de Soluciones IoT
 
-Sección: WS82
+Sección: WS71
 
 Profesor: Velasquez Nuñez, Angel Augusto
 
-Ciclo: 2024-1
-
 ---
 
-# TB1
+# Informe del Trabajo Final
 
-## TechSolutions
+## XForce
 
-### ChapaTuBus
+### PetHealth
 
 #### Team Members
 
 | Integrante                               | Código     |
 | ---------------------------------------- | ---------- |
 | Almeyda Alania, Fredy Antonio            | U20201B033 |
+| Aquino Cruz, Leonardo José               | U20201B949 |
+| Jaramillo Almora, Jesica Rut             | U20201C163 |
+| Mendoza Barco, Saúl Enrique              | U20211C677 |
+| Quispe Villegas, Emerson Gerardo         | U20181G936 |
 
 <div align="right"><Abril 2024></div>
 <p align="right">
-(<a href="https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/blob/develop/%C3%8Dndice.md"> Índice</a>)
+(<a href="https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/blob/develop/Contenido.md"> Tabla de Contenido</a>)
 </p>
