@@ -744,3 +744,25 @@ c) User Flow:
 [![MUF5-2.png](https://i.postimg.cc/3xKbdMHR/MUF5-2.png)](https://postimg.cc/VdVFVVvQ)
 
 ## 5.5. Applications Prototyping.
+
+En el desarrollo de nuestra aplicación móvil y web, nos hemos centrado en asegurar una experiencia de usuario fluida y efectiva. Para lograr esto, hemos establecido una serie de criterios fundamentales que guían nuestras decisiones de interacción. Estos criterios se basan en las necesidades y expectativas de nuestros usuarios, así como en las mejores prácticas de diseño de interfaces. A continuación, detallamos los principales criterios que hemos considerado al diseñar las siguientes funcionalidades clave:
+
+**1. Registro en la Aplicación:** Facilitamos el proceso de registro para que sea intuitivo y rápido, minimizando las barreras de entrada para nuevos usuarios.
+
+**2. Agregar una Mascota:** Permitimos a los usuarios agregar fácilmente información sobre sus mascotas, garantizando que el proceso sea claro y completo.
+
+**3. Agendar Cita:** Simplificamos la programación de citas para que sea accesible y eficiente, priorizando la comodidad del usuario.
+
+**4. Editar Perfil:** Brindamos opciones claras para que los usuarios puedan personalizar y actualizar su información de perfil de manera sencilla.
+
+**5. Cambiar Contraseña:** Proporcionamos un método seguro y claro para que los usuarios gestionen sus contraseñas de forma efectiva.
+
+**6. Supervisar Datos de Mascota:** Ofrecemos herramientas para que los usuarios puedan monitorear y gestionar los datos recopilados de sus mascotas de manera organizada.
+
+**7. Editar Información de Mascota:** Permitimos la edición y actualización de la información de la mascota de manera intuitiva y precisa.
+
+Estos criterios nos guían en la creación de una experiencia de usuario coherente, eficiente y satisfactoria en nuestra aplicación. A continuación, se muestra el enlace al video del prototipo de nuestra aplicación web y móvil.
+
+[![prototype.png](https://i.postimg.cc/85zBvmnc/prototype.png)](https://postimg.cc/t18xQWbG)
+
+**Link del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c677_upc_edu_pe/EVrmSzsruG9EhIKxgzCSAfsBQirW6X1e6S5CzW2YbHFawg?e=6C1W1b 
