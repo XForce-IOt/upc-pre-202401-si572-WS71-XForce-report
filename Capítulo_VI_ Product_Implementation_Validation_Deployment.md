@@ -129,4 +129,569 @@ No se realizaron tests durante esta entrega.
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 6.2.1.8. Team Collaboration Insights during Sprint.
+
+### 6.2.2. Sprint 2
+##### 6.2.2.1.Sprint Planning 2.
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint#
+
+</td>
+			<td>Sprint 2
+
+</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Planning Background
+
+</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>2024-05-13
+
+</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>10:00 pm
+
+</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Reunión virtual en la plataforma Discord
+
+</td>
+		</tr>
+		<tr>
+			<td>Prepared By</td>
+			<td>Rut Jaramillo</td>
+		</tr>
+		<tr>
+			<td>Attendees (to planning meeting)</td>
+			<td>Ruth Jaramillo, Leonardo Aquino, Saul Mendoza, Fredy Almeida, Emerson Quispe</td>
+		</tr>
+		<tr>
+			<td>Sprint n-1 Review Summary</td>
+			<td>Se desplegó correctamente el landing page y el frontend. Este último funcionaba con fakeApi</td>
+		</tr>
+		<tr>
+			<td>Sprint n-1 Retrospective Summary</td>
+			<td>No tuvimos demasiadas reuniones, no trabajamos mucho en conjunto
+
+</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal &amp; User Stories</td>
+		</tr>
+		<tr>
+			<td>Sprint n Goal</td>
+			<td>Tener desplegado el backend. 
+Terminar de implementar el frontend para el móvil, el IoT application y el edge backend
+</td>
+		</tr>
+		<tr>
+			<td>Sprint n Velocity
+
+</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>Sum of story Points
+
+</td>
+			<td>31</td>
+		</tr>
+	</tbody>
+</table>
+
+##### 6.2.2.2.Sprint Backlog 2.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint n
+
+</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story
+
+</td>
+			<td colspan="6">Work-item / Task
+
+</td>
+		</tr>
+		<tr>
+			<td>Id
+
+</td>
+			<td>Title
+
+</td>
+			<td>Id</td>
+			<td>Title
+
+</td>
+			<td>Descripción
+
+</td>
+			<td>Estimation (Hours)
+</td>
+			<td>Assigned To
+
+</td>
+			<td>Status
+(To-do/ In Process/ To-Review/ Done)
+
+</td>
+		</tr>
+		<tr>
+			<td rowspan="3">US048
+</td>
+			<td rowspan="3">Obtener listado de Mascotas a través de un RESTful API</td>
+			<td>T001</td>
+			<td>Crear la entidad y queries que se va a usar
+
+</td>
+			<td>Identificar los atributos para la entidad y los commands y queries que van a ser necesarios</td>
+			<td>3</td>
+			<td>Emerson
+
+</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T002</td>
+			<td>Crear servicio para obtener listado de mascotas</td>
+			<td>Desarrollar la lógica de negocio que maneja la obtención de mascotas desde la base de datos</td>
+			<td>3</td>
+			<td>Emerson</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T003</td>
+			<td>Crear endpoint para obtener listado de mascotas</td>
+			<td>Implementar un endpoint que devuelva un listado de mascotas para un PetOwner</td>
+			<td>2</td>
+			<td>Emerson</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">US049</td>
+			<td rowspan="3">Obtener datos de una mascota a través de un RESTful API</td>
+			<td>T004</td>
+			<td>Implementar el query</td>
+			<td>Identificar y desarrollar el query necesario</td>
+			<td>3</td>
+			<td>Emerson</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T005</td>
+			<td>Crear servicio para obtener datos de una mascota</td>
+			<td>Desarrollar la lógica de negocio para obtener los datos específicos de una mascota desde la base de datos</td>
+			<td>3</td>
+			<td>Emerson</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T006</td>
+			<td>Crear endpoint para obtener datos de una mascota</td>
+			<td>Implementar un endpoint que devuelva los datos específicos de una mascota</td>
+			<td>2</td>
+			<td>Emerson</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">US050</td>
+			<td rowspan="3">Editar perfil de mascota a través de un RESTful API</td>
+			<td>T007
+
+</td>
+			<td>Implementar el command para el edición de datos</td>
+			<td>Identificar y desarrollar el command para editar el perfil de una mascota</td>
+			<td>3</td>
+			<td>Fredy</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T008
+
+</td>
+			<td>Crear servicio para editar perfil de mascota</td>
+			<td>Desarrollar la lógica de negocio para editar el perfil de una mascota</td>
+			<td>3</td>
+			<td>Fredy</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T009
+
+</td>
+			<td>Crear endpoint para editar perfil de mascota</td>
+			<td>Implementar un endpoint que permita la edición del perfil de una mascota</td>
+			<td>2</td>
+			<td>Fredy</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US060</td>
+			<td rowspan="2">Obtener listado de Citas por un Dueño de mascota a través de un RESTful API</td>
+			<td>T010</td>
+			<td>Crear servicio para obtener listado de citas</td>
+			<td>Desarrollar la lógica de negocio que maneja la obtención de citas desde la base de datos</td>
+			<td>4</td>
+			<td>Leonardo</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T011</td>
+			<td>Crear endpoint para obtener listado de citas</td>
+			<td>Implementar un endpoint que devuelva un listado de citas para un PetOwner</td>
+			<td>2</td>
+			<td>Leonardo</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US061</td>
+			<td rowspan="2">Obtener listado de Clínicas a través de un RESTful API</td>
+			<td>T012</td>
+			<td>Crear servicio para obtener listado de clínicas</td>
+			<td>Desarrollar la lógica de negocio que maneja la obtención de clínicas desde la base de datos</td>
+			<td>4</td>
+			<td>Leonardo</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T013</td>
+			<td>Crear endpoint para obtener listado de clínicas</td>
+			<td>Implementar un endpoint que devuelva un listado de clínicas</td>
+			<td>2</td>
+			<td>Leonardo</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US062</td>
+			<td rowspan="2">Obtener listado de dirección de las Clínicas a través de un RESTful API</td>
+			<td>T014</td>
+			<td>Crear servicio para obtener listado de dirección de clínicas</td>
+			<td>Desarrollar la lógica de negocio que maneja la obtención de direcciones de clínicas desde la base de datos</td>
+			<td>
+4</td>
+			<td>Rut</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T015</td>
+			<td>Crear endpoint para obtener listado de dirección de clínicas</td>
+			<td>Implementar un endpoint que devuelva un listado de direcciones de clínicas</td>
+			<td>2</td>
+			<td>Rut</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US066</td>
+			<td rowspan="2">Obtener listado de horarios disponibles para un Veterinario a través de un RESTful API</td>
+			<td>T016</td>
+			<td>Crear servicio para obtener listado de horarios disponibles para un veterinario</td>
+			<td>Desarrollar la lógica de negocio para obtener el listado de horarios disponibles desde la base de datos</td>
+			<td>4</td>
+			<td>Saul</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T017</td>
+			<td>Crear endpoint para obtener listado de horarios disponibles para un veterinario</td>
+			<td>Implementar un endpoint que devuelva un listado de horarios disponibles para un veterinario</td>
+			<td>2</td>
+			<td>Saul</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
+
+##### 6.2.2.3.Development Evidence for Sprint Review.
+Durante este Sprint se realizaron los despliegues del Edge y el Main Backend. Para este despliegue, se creó una Base de Datos en Azure y se agregó la dirección en el application.propertties.  
+<table>
+	<tbody>
+		<tr>
+			<td>Repository
+
+</td>
+			<td>Branch
+
+</td>
+			<td>Commit Id
+
+</td>
+			<td>Commit Message
+
+</td>
+			<td>Commit Message Body
+
+</td>
+			<td>Commited on (Date)
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Backend
+
+</td>
+			<td>develop</td>
+			<td>032c81fd4cbf4868a6aea57e9fc2e989f58f403f
+</td>
+			<td>Update application.properties
+
+</td>
+			<td>-</td>
+			<td>06-06-2024
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Edge-Backend
+
+</td>
+			<td>develop</td>
+			<td>346c17f4900590fb16009de17d8cd94fe6bff99c
+
+</td>
+			<td>add az database configuration
+
+</td>
+			<td>-</td>
+			<td>05-06-2024
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/LAndingPage
+
+</td>
+			<td>develop</td>
+			<td>559d2031e6a1de5baecf9b575255fe2b06eddbb2</td>
+			<td>Update README.md
+
+</td>
+			<td>-</td>
+			<td>03-05-2024
+
+</td>
+		</tr>
+	</tbody>
+</table>
+
+##### 6.2.2.4.Testing Suite Evidence for Sprint Review.
+<table>
+	<tbody>
+		<tr>
+			<td>Repository
+
+</td>
+			<td>Branch</td>
+			<td>Commit </td>
+			<td>Commit Message
+
+</td>
+			<td>Commit Message Body
+
+</td>
+			<td>Commited on (Date)
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>615b1b7802a6c9515efbcd6e6e8c370622bd51a3</td>
+			<td>Create US48 feature
+
+</td>
+			<td>-</td>
+			<td>08/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>92d092b446ff90595c12a85a0e297d9371884fc7
+
+</td>
+			<td>Create US49 feature
+
+</td>
+			<td>-</td>
+			<td>08/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>8538e8f8d79727bc2c01eb25d96fda8a277859df</td>
+			<td>Create US50 feature
+
+</td>
+			<td>-</td>
+			<td>08/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>7e4a7f0cb405ec81b60dd4ee6bf1232aa2595809</td>
+			<td>Create US60 feature
+
+</td>
+			<td>-</td>
+			<td>08/06/2024
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>b05d4a8339b213d9779ca2935a112cc3794136d7</td>
+			<td>Create US61 feature
+
+</td>
+			<td>-</td>
+			<td>08/06/2024
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>f3bcb05f801a13d93071ec69224475a76a1ec6aa</td>
+			<td>Create US62 feature
+
+</td>
+			<td>-</td>
+			<td>08/06/2024
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>93b3fcd3b271892a2874e892a54ef86a9d6cff2c</td>
+			<td>Create US66 feature
+
+</td>
+			<td>-</td>
+			<td>08/06/2024
+
+</td>
+		</tr>
+	</tbody>
+</table>
+
+##### 6.2.2.5.Execution Evidence for Sprint Review.
+Durante este sprint, se completaron los entregables:  
+- Aplicación Web
+- Landing Page
+- Primera versión de los API Services que interactúan con la solución PetHealth (Main Backend y Edge Backend)
+- Primera versión de la aplicación Móvil 
+- Primera versión del dispositivo IoT.
+
+###### Aplicación Web:
+Vista pets y metrics  
+[![Imagen1.png](https://i.postimg.cc/CxBWs9qQ/Imagen1.png)](https://postimg.cc/18SC9CMG)  
+[![Imagen2.png](https://i.postimg.cc/qvPWbQcM/Imagen2.png)](https://postimg.cc/cvcD6R5V)  
+[![Imagen3.png](https://i.postimg.cc/25nMPvTd/Imagen3.png)](https://postimg.cc/PLrSDCgN)  
+###### Primera versión de los API Services que interactúan con la solución PetHealth (Main Backend y Edge Backend): 
+[![Imagen4.png](https://i.postimg.cc/DZFHFZY9/Imagen4.png)](https://postimg.cc/DWjBP2h6)  
+
+- Main backend:  
+https://backend-production-6ed3.up.railway.app/api/pethealth/v1/pet-owners/1/pets:  
+[![Imagen5.png](https://i.postimg.cc/cJdBLn0B/Imagen5.png)](https://postimg.cc/0zHwtr6z)  
+- Edge Backend:  
+https://hearty-serenity-production.up.railway.app/api/v1/sensor_data  
+[![Imagen6.png](https://i.postimg.cc/bvLHDwvc/Imagen6.png)](https://postimg.cc/Ny9rZYTp)  
+
+##### 6.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Durante este sprint, se desplegó la primera versión del Main  backend con los npoints:  
+https://backend-production-6ed3.up.railway.app/swagger-ui/index.html#  
+
+[![Imagen7.png](https://i.postimg.cc/xCcx9z3F/Imagen7.png)](https://postimg.cc/N9v74LV1)  
+[![Imagen8.png](https://i.postimg.cc/hj6CvtC4/Imagen8.png)](https://postimg.cc/ft77gDn1)  
+[![Imagen9.png](https://i.postimg.cc/fT42hktB/Imagen9.png)](https://postimg.cc/LhTBt9V1)  
+[![Imagen10.png](https://i.postimg.cc/wThWxHDH/Imagen10.png)](https://postimg.cc/rKwGgBhY)  
+[![Imagen11.png](https://i.postimg.cc/3x1npBLc/Imagen11.png)](https://postimg.cc/v41rwWwr)  
+[![Imagen12.png](https://i.postimg.cc/zBbjs1qs/Imagen12.png)](https://postimg.cc/qhryKShw)  
+
+##### 6.2.2.7.Software Deployment Evidence for Sprint Review.
+Durante este Sprint se realizaron los despliegues del Edge y el Main Backend. Para estos despliegues, se crearon 2 Bases de Datos en un servidor en Microsoft Azure.  
+[![Imagen13.png](https://i.postimg.cc/Qt2bsntH/Imagen13.png)](https://postimg.cc/FdxcVp04)  
+[![Imagen14.png](https://i.postimg.cc/CM87JYPD/Imagen14.png)](https://postimg.cc/Wt201RPb)  
+A continuación, se agregaron las direcciones en los archivos application.propertties de ambos proyectos.  
+pethealthmaindb (Main Database)  
+[![Imagen15.png](https://i.postimg.cc/sD9cdmRg/Imagen15.png)](https://postimg.cc/w7MJDhvC)  
+pethealthdb (Edge Database)  
+[![Imagen16.png](https://i.postimg.cc/sgjJVWV9/Imagen16.png)](https://postimg.cc/mtn9jt1t)  
+Finalmente se desplegaron ambos desde los repositorios en Github con la herramienta Railway.  
+[![Imagen17.png](https://i.postimg.cc/jSM4Cj2V/Imagen17.png)](https://postimg.cc/gx6ZTm34)  
+https://backend-production-6ed3.up.railway.app/  
+https://hearty-serenity-production.up.railway.app/  
+
+##### 6.2.2.8.Team Collaboration Insights during Sprint.
+En este sprint, el equipo dividió las tareas teniendo en cuenta los features (account-management, appointment-function, collar-function y pet-owner).  
+###### Web Frontend:  
+[![Imagen18.png](https://i.postimg.cc/ZRd8fFcZ/Imagen18.png)](https://postimg.cc/47XHycqF)  
+[![Imagen19.png](https://i.postimg.cc/6qxdF2jZ/Imagen19.png)](https://postimg.cc/3494vRHr)  
+###### IoT Application:
+[![Imagen20.png](https://i.postimg.cc/qvD24ZD4/Imagen20.png)](https://postimg.cc/0zmzCZqB)  
+[![Imagen21.png](https://i.postimg.cc/6QDRG4NP/Imagen21.png)](https://postimg.cc/v1tDJBT7)  
+###### Main Backend: 
+[![Imagen22.png](https://i.postimg.cc/nr1Q5dQ8/Imagen22.png)](https://postimg.cc/y3kd3yPn)  
+[![Imagen23.png](https://i.postimg.cc/ZYP3Cqsf/Imagen23.png)](https://postimg.cc/qgRgFpTn)  
+###### Edge-Backend:
+[![Imagen24.png](https://i.postimg.cc/zvpVpV98/Imagen24.png)](https://postimg.cc/hQzDtPD5)  
+[![Imagen25.png](https://i.postimg.cc/qMbN36sG/Imagen25.png)](https://postimg.cc/ZCNYkRD9)  
+
+## 6.3. Validation Interviews.
+### 6.3.1. Diseño de Entrevistas.
+1. Introducción:
+    - Presentación del entrevistador y del objetivo de la entrevista
+    - Explicación breve del proyecto y del propósito del collar IoT.
+2. Interacción con la aplicación:
+    - El entrevistado interactúa libremente con la aplicación.
+3. Preguntas:
+    - ¿Qué te pareció la interfaz de la aplicación la primera vez que la usaste?
+    - ¿Encontraste fácil de entender las funciones principales de la aplicación?
+    - ¿Desde tu punto de vista, la aplicación responde de manera rápida y eficiente a tus acciones?
+    - ¿Consideras útiles los datos y análisis proporcionados por la aplicación?
+    - ¿Hay alguna funcionalidad que crees que falta o que te gustaría mejorar?
+    - ¿Tuviste alguna dificultad al navegar por la aplicación?
+    - ¿Hay algún aspecto de la aplicación que encuentres confuso o frustrante?
+    - ¿Notaste errores o problemas mientras interactúas con la aplicación?
+    - ¿La aplicación cumple con tus expectativas o necesidades?
+    - ¿Recomendarías esta aplicación a otros dueños de mascotas? ¿Por qué?
+4. Feedback General y Conclusión:
+    - Comentarios adicionales y conclusión de la entrevista.
+    
+### 6.3.2. Registro de Entrevistas.
+### 6.3.3. Evaluaciones según heurísticas.
+## 6.4. Video About-the-Product.
 # Avance de Conclusiones, Bibliografía y Anexos.
+- Concluimos que las entrevistas y su respectivo análisis son un recurso de gran importancia ya que aportan perspectivas únicas que ayudarán a la Startup a mejorar la calidad y utilidad del producto final.
