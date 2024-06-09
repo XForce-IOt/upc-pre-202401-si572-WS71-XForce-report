@@ -13,4 +13,10 @@
   <li>
     <a href="https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/blob/develop/Cap%C3%ADtilo_IV_Solution_Software_Design.md">Capítulo IV: Solution Software Design</a>
   </li>
+  <li>
+    <a href="https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/blob/develop/Cap%C3%ADtilo_V_Solution_Software_Design.md">Capítulo V: Solution Ui UX Design</a>
+  </li>
+  <li>
+    <a href="https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/blob/develop/Cap%C3%ADtilo_VI_Solution_Software_Design.md">Capítulo VI: Product Implementation Validation</a>
+  </li>
 </ol>
