@@ -226,7 +226,7 @@ El uso de un diagrama de diseño de base de datos es fundamental para gestionar 
 
 En este diagrama de diseño de base de datos, se explica las relaciones de los entitys realizados.
 
-[![database.png](https://i.postimg.cc/6qM7h57c/image.png)](https://postimg.cc/jnJdxT4n)
+[![image.png](https://i.postimg.cc/0QbxCwNj/image.png)](https://postimg.cc/WFLQNtgc)
 
 ### 4.2.2. Bounded Context: User Account Management
 El dominio de **User Account Management** se centra en gestionar todas las interacciones y operaciones asociadas con cuentas de usuario. Este dominio es responsable de manejar las cuentas de usuario, tanto para editar como para actualizar su membresía.
