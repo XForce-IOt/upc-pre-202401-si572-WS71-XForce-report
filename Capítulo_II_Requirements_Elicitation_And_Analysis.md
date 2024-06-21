@@ -335,7 +335,7 @@ Min inicio: 13:08
 Min final: 15:33  
 [![Entrevista Veterinario 1](https://img.youtube.com/vi/4RhwqBvAMNs/0.jpg)](https://youtu.be/4RhwqBvAMNs)  
 - **Resumen**:
-  Cindia es una veterinaria de 37 años, que vive en Breña, usa principalmente Iphone iOS. En su trabajo, el animal que más atiende son los perros y lo traen al veterinario mayormente por enfermedades, tanto por su salud o edad. La cantidad de clientes que llegan cuando está en su turno es entre 10 a 12 clientes aproximadamente.  
+  Cindia es una veterinaria de 37 años, que vive en Breña, usa principalmente Iphone iOS. También nos cuenta que usa su computadora para administrar sus citas, ya que usa un sistema de software para administrarlo. En su trabajo, el animal que más atiende son los perros y lo traen al veterinario mayormente por enfermedades, tanto por su salud o edad. La cantidad de clientes que llegan cuando está en su turno es entre 10 a 12 clientes aproximadamente.  
   Cuenta que se debe llevar al veterinario a sus mascotas por lo menos 1 vez al mes. Manejan un software llamado MedPet, donde ingresan todos los datos de sus anteriores clientes, la salud de sus mascotas, el historial médico, como también la fecha del proximo baño de pulgas de la mascota. Las diferencias entre un procedimiento de emergencia para un cliente regular y para un cliente nuevo, según la doctora, para un cliente regular, es más fácil saber que es lo que tiene el animal, se obvia mucho procedimiento ya que tiene registrado sus anteriores enfermedades y puede calcular que es lo que tiene el animal, miéntras que un cliente nuevo, se tiene que realizar todos los examenes para saber exactamente que enfermedad tiene el animal.  
 
 - **Entrevista 2:**
