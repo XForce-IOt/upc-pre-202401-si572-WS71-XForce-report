@@ -291,7 +291,7 @@ El Bounded Context Domain Layer Class Diagrams del bounded context del User Acco
 ##### 4.2.2.7.2. Bounded Context Database Design Diagram.
 En esta sección se muestra la estructura de la base de datos y la relación que tendrán entre ellas. En este caso tenemos 4 tablas que representan la forma en la que se trabaja la gestión de cuentas de usuarios y la actualización de las suscripciones para las cuentas de los usuarios.
 
-[![image.png](https://i.postimg.cc/RFMp3Xwt/image.png)](https://postimg.cc/f3rfp72W)
+[![Captura.png](https://i.postimg.cc/nhb8QW7X/Captura.png)](https://postimg.cc/JGqYfPp8)
 
 ### 4.2.3. Bounded Context: Appointment Function
 El dominio de Appointment Function describe las funciones y procesos que se llevan a cabo en las aplicaciones web y móviles. Este dominio es responsable de manejar las funciones como el agendado de citas y el de poder visualizar las citas agendadas.  
