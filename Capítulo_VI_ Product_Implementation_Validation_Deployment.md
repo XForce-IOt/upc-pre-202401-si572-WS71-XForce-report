@@ -687,6 +687,357 @@ En este sprint, el equipo dividió las tareas teniendo en cuenta los features (a
 [![Imagen24.png](https://i.postimg.cc/zvpVpV98/Imagen24.png)](https://postimg.cc/hQzDtPD5)  
 [![Imagen25.png](https://i.postimg.cc/qMbN36sG/Imagen25.png)](https://postimg.cc/ZCNYkRD9)  
 
+### 6.2.3. Sprint 3
+#### 6.2.3.1 Sprint Planning 3
+
+<table>
+    <tbody>
+        <tr>
+            <td>Sprint#</td>
+            <td>Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-06-20</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>7:00 pm</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Reunión virtual en la plataforma Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>Rut Jaramillo</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Ruth Jaramillo, Leonardo Aquino, Saul Mendoza, Fredy Almeida, Emerson Quispe</td>
+        </tr>
+        <tr>
+            <td>Sprint n-2 Review Summary</td>
+            <td>Se realizaron correcciones en el backend y frontend, así como la realización del dispositivo IoT</td>
+        </tr>
+        <tr>
+            <td>Sprint n-2 Retrospective Summary</td>
+            <td>Faltó un poco más de comunicación, pero se mejoró con respecto al anterior sprint</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint n Goal</td>
+            <td>Tener desplegado el Edge backend y el dispositivo IoT. Terminar de implementar el frontend para el móvil.</td>
+        </tr>
+        <tr>
+            <td>Sprint n Velocity</td>
+            <td>40</td>
+        </tr>
+        <tr>
+            <td>Sum of story Points</td>
+            <td>45</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 6.2.3.2 Sprint Backlog 3
+
+<table>
+    <tbody>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7">Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripción</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do/ In Process/ To-Review/ Done)</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US051</td>
+            <td rowspan="3">Obtener métrica de Latidos de mascota actualizada a través de un RESTful API</td>
+            <td>T001</td>
+            <td>Crear la entidad y queries</td>
+            <td>Identificar los atributos necesarios y definir los commands y queries.</td>
+            <td>3</td>
+            <td>Fredy</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T002</td>
+            <td>Crear servicio para obtener métricas</td>
+            <td>Desarrollar la lógica de negocio para obtener métricas de latidos de la base de datos.</td>
+            <td>3</td>
+            <td>Fredy</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T003</td>
+            <td>Crear endpoint para obtener métricas</td>
+            <td>Implementar un endpoint que devuelva métricas de latidos actualizadas de una mascota.</td>
+            <td>2</td>
+            <td>Fredy</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US054</td>
+            <td rowspan="3">Obtener Latidos de mascota en tiempo real a través de un RESTful API</td>
+            <td>T004</td>
+            <td>Crear la entidad y queries</td>
+            <td>Identificar los atributos necesarios y definir los commands y queries.</td>
+            <td>3</td>
+            <td>Fredy</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T005</td>
+            <td>Crear servicio para obtener latidos</td>
+            <td>Desarrollar la lógica de negocio para obtener latidos en tiempo real de la base de datos.</td>
+            <td>3</td>
+            <td>Fredy</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T006</td>
+            <td>Crear endpoint para obtener latidos</td>
+            <td>Implementar un endpoint que devuelva los latidos en tiempo real de una mascota.</td>
+            <td>2</td>
+            <td>Fredy</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US056</td>
+            <td rowspan="3">Obtener Temperatura de mascota en tiempo real a través de un RESTful API</td>
+            <td>T007</td>
+            <td>Crear la entidad y queries</td>
+            <td>Identificar los atributos necesarios y definir los commands y queries.</td>
+            <td>3</td>
+            <td>Emerson</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T008</td>
+            <td>Crear servicio para obtener temperatura</td>
+            <td>Desarrollar la lógica de negocio para obtener temperatura en tiempo real de la base de datos.</td>
+            <td>3</td>
+            <td>Emerson</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T009</td>
+            <td>Crear endpoint para obtener temperatura</td>
+            <td>Implementar un endpoint que devuelva la temperatura en tiempo real de una mascota.</td>
+            <td>2</td>
+            <td>Emerson</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US058</td>
+            <td rowspan="3">Obtener Hidratación de mascota en tiempo real a través de un RESTful API</td>
+            <td>T010</td>
+            <td>Crear la entidad y queries</td>
+            <td>Identificar los atributos necesarios y definir los commands y queries.</td>
+            <td>3</td>
+            <td>Emerson</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T011</td>
+            <td>Crear servicio para obtener hidratación</td>
+            <td>Desarrollar la lógica de negocio para obtener hidratación en tiempo real de la base de datos.</td>
+            <td>3</td>
+            <td>Emerson</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T012</td>
+            <td>Crear endpoint para obtener hidratación</td>
+            <td>Implementar un endpoint que devuelva la hidratación en tiempo real de una mascota.</td>
+            <td>2</td>
+            <td>Emerson</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US063</td>
+            <td rowspan="3">Obtener datos de una Clínica a través de un RESTful API</td>
+            <td>T013</td>
+            <td>Crear la entidad y queries</td>
+            <td>Identificar los atributos necesarios y definir los commands y queries.</td>
+            <td>3</td>
+            <td>Rut</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T014</td>
+            <td>Crear servicio para obtener datos</td>
+            <td>Desarrollar la lógica de negocio para obtener datos de una clínica de la base de datos.</td>
+            <td>3</td>
+            <td>Rut</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T015</td>
+            <td>Crear endpoint para obtener datos</td>
+            <td>Implementar un endpoint que devuelva los datos de una clínica.</td>
+            <td>2</td>
+            <td>Rut</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US064</td>
+            <td rowspan="3">Obtener listado de Veterinarios por una Clínica a través de un RESTful API</td>
+            <td>T016</td>
+            <td>Crear la entidad y queries</td>
+            <td>Identificar los atributos necesarios y definir los commands y queries.</td>
+            <td>3</td>
+            <td>Rut</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T017</td>
+            <td>Crear servicio para obtener veterinarios</td>
+            <td>Desarrollar la lógica de negocio para obtener veterinarios de una clínica.</td>
+            <td>3</td>
+            <td>Rut</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T018</td>
+            <td>Crear endpoint para obtener veterinarios</td>
+            <td>Implementar un endpoint que devuelva el listado de veterinarios de una clínica.</td>
+            <td>2</td>
+            <td>Rut</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US070</td>
+            <td rowspan="3">Agregar nuevo veterinario a través de un RESTful API</td>
+            <td>T019</td>
+            <td>Crear la entidad y queries</td>
+            <td>Identificar los atributos necesarios y definir los commands y queries.</td>
+            <td>3</td>
+            <td>Leonardo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T020</td>
+            <td>Crear servicio para agregar veterinario</td>
+            <td>Desarrollar la lógica de negocio para agregar un nuevo veterinario a la base de datos.</td>
+            <td>3</td>
+            <td>Leonardo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T021</td>
+            <td>Crear endpoint para agregar veterinario</td>
+            <td>Implementar un endpoint que permita agregar un nuevo veterinario.</td>
+            <td>2</td>
+            <td>Leonardo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US071</td>
+            <td rowspan="3">Agregar nuevo dueño de mascota a través de un RESTful API</td>
+            <td>T022</td>
+            <td>Crear la entidad y queries</td>
+            <td>Identificar los atributos necesarios y definir los commands y queries.</td>
+            <td>3</td>
+            <td>Leonardo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T023</td>
+            <td>Crear servicio para agregar dueño</td>
+            <td>Desarrollar la lógica de negocio para agregar un nuevo dueño de mascota a la base de datos.</td>
+            <td>3</td>
+            <td>Leonardo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T024</td>
+            <td>Crear endpoint para agregar dueño</td>
+            <td>Implementar un endpoint que permita agregar un nuevo dueño de mascota.</td>
+            <td>2</td>
+            <td>Leonardo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US072</td>
+            <td rowspan="3">Sincronizar collar y agregar nueva Mascota a través de un RESTful API</td>
+            <td>T025</td>
+            <td>Crear la entidad y queries</td>
+            <td>Identificar los atributos necesarios y definir los commands y queries.</td>
+            <td>3</td>
+            <td>Saúl</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T026</td>
+            <td>Crear servicio para sincronizar collar</td>
+            <td>Desarrollar la lógica de negocio para sincronizar el collar y agregar una nueva mascota a la base de datos.</td>
+            <td>3</td>
+            <td>Saúl</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T027</td>
+            <td>Crear endpoint para sincronizar collar</td>
+            <td>Implementar un endpoint que permita sincronizar el collar y agregar una nueva mascota.</td>
+            <td>2</td>
+            <td>Saúl</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US073</td>
+            <td rowspan="3">Editar perfil de dueño de mascota a través de un RESTful API</td>
+            <td>T028</td>
+            <td>Crear la entidad y queries</td>
+            <td>Identificar los atributos necesarios y definir los commands y queries.</td>
+            <td>3</td>
+            <td>Saúl</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T029</td>
+            <td>Crear servicio para editar perfil</td>
+            <td>Desarrollar la lógica de negocio para editar el perfil de un dueño de mascota.</td>
+            <td>3</td>
+            <td>Saúl</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T030</td>
+            <td>Crear endpoint para editar perfil</td>
+            <td>Implementar un endpoint que permita editar el perfil de un dueño de mascota.</td>
+            <td>2</td>
+            <td>Saúl</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+
+#### 6.2.3.3 Development Evidence for Sprint Review
+#### 6.2.3.4 Testing Suite Evidence for Sprint Review
+#### 6.2.3.5 Execution Evidence for Sprint Review
+#### 6.2.3.6 Services Documentation Evidence for Sprint Review
+#### 6.2.3.7 Software Deployment Evidence for Sprint Review
+#### 6.2.3.8 Team Collaboration Insights during Sprint
+
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
 1. Introducción:
