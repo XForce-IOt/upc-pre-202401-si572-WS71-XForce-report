@@ -1033,6 +1033,158 @@ En este sprint, el equipo dividió las tareas teniendo en cuenta los features (a
 
 #### 6.2.3.3 Development Evidence for Sprint Review
 #### 6.2.3.4 Testing Suite Evidence for Sprint Review
+
+<table>
+	<tbody>
+		<tr>
+			<td>Repository
+
+</td>
+			<td>Branch</td>
+			<td>Commit </td>
+			<td>Commit Message
+
+</td>
+			<td>Commit Message Body
+
+</td>
+			<td>Commited on (Date)
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>552ff20729c7cb5222225b0c34978a1dcdd375eb</td>
+			<td>Create US51 feature
+
+</td>
+			<td>-</td>
+			<td>24/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>ca246d0ded7930369655a5a29851834f94f16be3</td>
+			<td>Create US54 feature
+
+</td>
+			<td>-</td>
+			<td>24/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>173c6971881ac8d6968a4d25d27f8623ed3d4e7d</td>
+			<td>Create US56 feature
+
+</td>
+			<td>-</td>
+			<td>24/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>61cc16949f7876db6ce4e99c15db92f9b0435ede</td>
+			<td>Create US58 feature
+
+</td>
+			<td>-</td>
+			<td>24/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>becc5656db115f45893f21709b2589c268264121</td>
+			<td>Create US63 feature
+
+</td>
+			<td>-</td>
+			<td>24/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>b6642b6af7a6477e5bda7bfdedf7dfada80df3d4</td>
+			<td>Create US64 feature
+
+</td>
+			<td>-</td>
+			<td>24/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>d4e2a27f7c3a0e2151dd5015f1914a7030b20a04</td>
+			<td>Create US70 feature
+
+</td>
+			<td>-</td>
+			<td>24/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>8a9c7d26f2842fc0115ae6dce25f9857fbf8c31e</td>
+			<td>Create US71 feature
+
+</td>
+			<td>-</td>
+			<td>24/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>9392d317f1bf4c2c902de7a3d3d14fe35af0909f</td>
+			<td>Create US72 feature
+
+</td>
+			<td>-</td>
+			<td>24/06/2024
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Gherkin
+
+</td>
+			<td>main</td>
+			<td>123addb66d38bb4a69ffcd2806f534f0aa1a0c0f</td>
+			<td>Create US73 feature
+
+</td>
+			<td>-</td>
+			<td>24/06/2024
+</td>
+		</tr>
+	</tbody>
+</table>
+
 #### 6.2.3.5 Execution Evidence for Sprint Review
 #### 6.2.3.6 Services Documentation Evidence for Sprint Review
 #### 6.2.3.7 Software Deployment Evidence for Sprint Review
