@@ -5,8 +5,11 @@
 | 2       | 26-04-2024 | Todos los integrantes | Se agrega Registro de versiones del Informe, Project Report Collaboration Insights, Student Outcome y corrección de Tabla de contenido.  |
 | 3       | 02-05-2024 | Todos los integrantes | Se realizan correcciones sobre la revisión de la TB1, se agrega capítulo 5.|
 | 4       | 08-06-2024 | Todos los integrantes | Se realizan correcciones sobre la revisión de la TP, se agrega capítulo 6.|
-| 5       | 17-06-2024 | Leonardo Aquino Cruz  | Creación y documentación del dispositivo IoT. |
-| 6       | 25-06-2024 |  Saúl Mendoza Barco   | Documentación del sprint 3, sprint planning, sprint backlog, development evidence, testing suite evidence y team collaboration insights. |
+| 5       | 10-06-2024 | Leonardo José Aquino Cruz | Creación y documentación del dispositivo IoT y edge backend. |
+| 6       | 17-06-2024 | Fredy Almeyda | Despliegue y documentacion del frontend para la aplicacion web. |
+| 7       | 18-06-2024 | Emerson Gerardo Quispe Villegas | Correcciones y actualizaciones de la aplicacion web y movil. |
+| 8       | 24-06-2024 | Saúl Enrique Mendoza Barco | Documentación del sprint 3, sprint planning, sprint backlog, development evidence, testing suite evidence y team collaboration insights. |
+| 9       | 25-06-2024 | Jesica Rut Jaramillo Almora | Despliegue de la aplicacion movil y documentación para el sprint 3, execution evidence, services documentation evidence y software deployment evidence. |
 
 ### Project Report Collaboration Insights
 Url del repositorio informe: [https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report)  
