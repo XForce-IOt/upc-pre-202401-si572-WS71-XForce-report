@@ -1514,6 +1514,7 @@ Reducir el tiempo de respuesta en la digitación de los inputs.
 
 
 ## 6.4. Video About-the-Product.
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/EQlFXwSR5CBBoly7CHE0BIIBTuN9TOgKQBlaNWMG4tul7w  
 # Conclusiones
 ## Conclusiones y recomendaciones
 - Concluimos que las entrevistas y su respectivo análisis son un recurso de gran importancia ya que aportan perspectivas únicas que ayudarán a la Startup a mejorar la calidad y utilidad del producto final.
@@ -1523,4 +1524,6 @@ Reducir el tiempo de respuesta en la digitación de los inputs.
 - Se ajustaron las configuraciones en un proyecto de Wokwi para simular el comportamiento de los sensores como el DHT22, el sensor ultrasónico y el sensor de Pulso. Esto incluyó cambios para variar las lecturas de los sensores y enviar datos a un servidor
 - Resolvimos varios errores de compilación y ejecución, tanto en el contexto de Spring Boot como en Arduino, mejorando la estabilidad y funcionalidad de los sistemas.
 ## Video About-the-Team 
+[![Captura-de-pantalla-2024-06-27-100126.png](https://i.postimg.cc/hvq5j4YN/Captura-de-pantalla-2024-06-27-100126.png)](https://postimg.cc/BLMg734C)  
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/EZB1fyfQRTdLq_sj28gg6TIBHaIJqtkoyFbxe4S2_DDKpA
 
