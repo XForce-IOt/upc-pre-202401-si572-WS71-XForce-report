@@ -1439,15 +1439,15 @@ Comenta que la aplicación le parece "algo complicada de entender al principio, 
 
 ### Entrevista 3:
 
-**Entrevistador:** Emerson  
+**Entrevistador:** Emerson Quispe
 
-**Entrevistado:**  
+**Entrevistado:**  Giovani Villegas
 
-**Edad:**  
+**Edad:**  21 años
 
-**Distrito:**  
+**Distrito:**  Callao
 
-**Resumen:**  
+**Resumen:** Giovani comenta que la aplicación le va ser muy util, no solo a el, sino a la mayoría de personas que tienen mascotas, debido a que le parece muy util la opción de geolocalización, ya que, así podrá saber en donde se encuentra su mascota a cualquier hora. Respecto a la interfaz de la aplicación web, nos comenta que la aplicación es fácil de entender, debido a que le parece sencillo y fácil de manejar. Tambien dice que la aplicación le parece rápido, no ha observado demoras, pero si comenta que se distorsiona un poco hacia la derecha cuando se recarga la pagina. El entrevistado considera que los datos mostrados son precisos, ya que al ser una aplicación para los mismos dueños no es necesario ser tan específicos. Por ultimo, opina que no ha encontrado algún fastidio o frustración al navegar por la aplicación y que si recomendaría el uso de la aplicación a sus amigos, ya que les ayudaría a mantener una mejor calidad de vida a sus mascotas.
 
 ### 6.3.3. Evaluaciones según heurísticas.
 **SITE o APP A EVALUAR:** PetHealth  
