@@ -1188,7 +1188,38 @@ En este sprint, el equipo dividió las tareas teniendo en cuenta los features (a
 #### 6.2.3.5 Execution Evidence for Sprint Review
 #### 6.2.3.6 Services Documentation Evidence for Sprint Review
 #### 6.2.3.7 Software Deployment Evidence for Sprint Review
+
 #### 6.2.3.8 Team Collaboration Insights during Sprint
+
+En este sprint, el equipo dividió las tareas para finalizar con la aplicación PetHealth
+
+###### Web Frontend:
+
+[![front1.png](https://i.postimg.cc/MGyHRvCw/front1.png)](https://postimg.cc/5H2fWN9K)
+
+[![front2.png](https://i.postimg.cc/hGggkMYF/front2.png)](https://postimg.cc/TKkZmjGQ)
+
+###### Web Backend:
+
+[![back1.png](https://i.postimg.cc/wM9wHRpj/back1.png)](https://postimg.cc/Q9nQJtC2)
+
+[![back2.png](https://i.postimg.cc/7YsK8LQq/back2.png)](https://postimg.cc/tY63F9jc)
+
+###### Mobile:
+
+[![mobile1.png](https://i.postimg.cc/0QPYJgHt/mobile1.png)](https://postimg.cc/LqQYrWSf)
+
+[![mobile2.png](https://i.postimg.cc/J4vj5H2H/mobile2.png)](https://postimg.cc/565Hxy1f)
+
+###### IoT Application:
+
+[![iot1.png](https://i.postimg.cc/nhq9KRmN/iot1.png)](https://postimg.cc/4YN3s1B1)
+
+[![iot2.png](https://i.postimg.cc/2jJ1sRFP/iot2.png)](https://postimg.cc/s1YfWLLc)
+
+###### Edge Backend:
+
+[![edge.png](https://i.postimg.cc/FRzK6Dfr/edge.png)](https://postimg.cc/WFRjFm6C)
 
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
