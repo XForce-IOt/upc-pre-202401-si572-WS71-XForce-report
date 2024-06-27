@@ -1422,6 +1422,10 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/EXVkU-qZ
 
 **Distrito:** Callao
 
+**Min inicio:** 0:04
+
+**Min final:** 7:32
+
 **Resumen:** Madelein es una dueña de mascota de 23 años. Viven en el Callao y su dispositivo más usado es su celular con sistema operativo Android, el navegador que más utiliza en Chrome. Las redes sociales que más usa son Whatsapp e Instagram. Tiene una sola mascota, un perro. Lleva a su mascota todos los meses para un chequeo o un baño, su mascota cuenta con una dieta balanceada y posee un registro en una agenda de las vacunas y medicamentos que haya tomado su mascota, cuando ella no se encuentra en casa, deja a su mascota con su madre. Madelein nos comenta que la aplicación le pareció muy intuitiva y útil, en especial para poder contactar con su veterinario de confianza, también nos dice que le es de mucha ayuda tener los datos vitales de su mascota pues se preocupa mucho por la salud y bienestar de esta.  
 
 ### Entrevista 2:
@@ -1433,6 +1437,10 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/EXVkU-qZ
 **Edad:** 56 años
 
 **Distrito:** Independencia
+
+**Min inicio:** 7:32
+
+**Min final:** 21:30
 
 **Resumen:** Beatriz es una dueña de mascota de 56 años. Vive en independencia y su dispositivo más usado en su celular con SO Android, además el navegador que más usa es Chrome.  
 Comenta que la aplicación le parece "algo complicada de entender al principio, pero se puede aprender". Además cree que la funcionalidad de reserva es muy útil para llevar el historial de citas médicas de su mascota. Además está dispuesta a recomendas la app web con sus conocidos por la tranquilidad que le brindan los datos críticos enviados en tiempo real mediante el collar.
@@ -1446,6 +1454,10 @@ Comenta que la aplicación le parece "algo complicada de entender al principio, 
 **Edad:**  21 años
 
 **Distrito:**  Callao
+
+**Min inicio:** 21:30
+
+**Min final:** 27:32
 
 **Resumen:** Giovani comenta que la aplicación le va ser muy util, no solo a el, sino a la mayoría de personas que tienen mascotas, debido a que le parece muy util la opción de geolocalización, ya que, así podrá saber en donde se encuentra su mascota a cualquier hora. Respecto a la interfaz de la aplicación web, nos comenta que la aplicación es fácil de entender, debido a que le parece sencillo y fácil de manejar. Tambien dice que la aplicación le parece rápido, no ha observado demoras, pero si comenta que se distorsiona un poco hacia la derecha cuando se recarga la pagina. El entrevistado considera que los datos mostrados son precisos, ya que al ser una aplicación para los mismos dueños no es necesario ser tan específicos. Por ultimo, opina que no ha encontrado algún fastidio o frustración al navegar por la aplicación y que si recomendaría el uso de la aplicación a sus amigos, ya que les ayudaría a mantener una mejor calidad de vida a sus mascotas.
 
