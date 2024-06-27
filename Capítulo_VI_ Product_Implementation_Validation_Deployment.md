@@ -1121,13 +1121,13 @@ Durante este Sprint se realizaron las mejoras y los despliegues de la aplicació
 
 </td>
 			<td>develop</td>
-			<td>
+			<td>99198f5cf62c9ebfe1988733db0783cedf9534cb
 </td>
-			<td>
+			<td>Merge pull request #1 from XForce-IOt/develop
 
 </td>
 			<td>-</td>
-			<td>
+			<td>05-05-2024
 
 </td>
 	</tbody>
@@ -1296,11 +1296,15 @@ En este sprint, el equipo dividió las tareas para finalizar con la aplicación 
 
 ###### Web Frontend:
 
+Las siguientes visualizaciones resaltan las colaboraciones de nuestro equipo en el desarrollo de la interfaz web para nuestro proyecto. Las contribuciones se desglosan por miembros individuales del equipo, mostrando sus respectivas adiciones y eliminaciones, lo que refleja la naturaleza colaborativa de nuestro proceso de desarrollo. 
+
 [![front1.png](https://i.postimg.cc/MGyHRvCw/front1.png)](https://postimg.cc/5H2fWN9K)
 
 [![front2.png](https://i.postimg.cc/hGggkMYF/front2.png)](https://postimg.cc/TKkZmjGQ)
 
 ###### Web Backend:
+
+Las siguientes visualizaciones resaltan las colaboraciones de nuestro equipo en el desarrollo backend para nuestra aplicación web.
 
 [![back1.png](https://i.postimg.cc/wM9wHRpj/back1.png)](https://postimg.cc/Q9nQJtC2)
 
@@ -1308,17 +1312,23 @@ En este sprint, el equipo dividió las tareas para finalizar con la aplicación 
 
 ###### Mobile:
 
+Las siguientes visualizaciones resaltan las colaboraciones de nuestro equipo en el desarrollo móvil para nuestra aplicación web.
+
 [![mobile1.png](https://i.postimg.cc/0QPYJgHt/mobile1.png)](https://postimg.cc/LqQYrWSf)
 
 [![mobile2.png](https://i.postimg.cc/J4vj5H2H/mobile2.png)](https://postimg.cc/565Hxy1f)
 
 ###### IoT Application:
 
+Las siguientes visualizaciones resaltan las colaboraciones de nuestro equipo en el desarrollo del dispositivo IoT collar inteligente para nuestro proyecto.
+
 [![iot1.png](https://i.postimg.cc/nhq9KRmN/iot1.png)](https://postimg.cc/4YN3s1B1)
 
 [![iot2.png](https://i.postimg.cc/2jJ1sRFP/iot2.png)](https://postimg.cc/s1YfWLLc)
 
 ###### Edge Backend:
+
+Las siguientes visualizaciones resaltan las colaboraciones de nuestro equipo en el desarrollo del edge backend para recopilar información del dispositivo IoT.
 
 [![edge.png](https://i.postimg.cc/FRzK6Dfr/edge.png)](https://postimg.cc/WFRjFm6C)
 
