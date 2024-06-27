@@ -1489,11 +1489,27 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 **TABLA RESUMEN:**  
 | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
 |---|----------|---------------------|---------------------------------|
-| 1 |          |                     |                                 |
-| 2 |          |                     |                                 |
+| 1 |La distribución es complicada de entender para un usuario nuevo|      3         | Usability: Libertad y control del usuario |
+| 2 |El log in y sign in demoran en responder| 2 |Usability: Libertad y control del usuario |
 
-**DESCRIPCIÓN DE PROBLEMAS:**
-...
+**DESCRIPCIÓN DE PROBLEMAS:**  
+**PROBLEMA #1:** La distribución es complicada de entender para un usuario nuevo  
+- Severidad: 3
+- Heurística violada: Usabilidad - Libertad y control del usuario
+- Problema:
+El formato dashboard empleado para mostrar los datos al usuario no es muy común, lo que dificulta que los usuarios se desplacen por el con facilidad la primera vez que ingresan a la app.  
+[![Captura-de-pantalla-2024-06-27-021415.png](https://i.postimg.cc/yxgLfyBc/Captura-de-pantalla-2024-06-27-021415.png)](https://postimg.cc/n9xKr7Xh)  
+Recomendación:
+Agregar una sección tutorial donde se muestre un video navegando por las secciones y funcionalidades de la app durante los primeros 7 días de un usuario en la applicación.
+**PROBLEMA #2:** El log in y sign in demoran en responder  
+- Severidad: 2
+- Heurística violada: Usabilidad - Libertad y control del usuario
+- Problema:
+Cuando el usuario quiere Registrarse o ingresar con una cuenta existente, los inputs tienen un delay al escribir los datos.  
+[![Captura-de-pantalla-2024-06-27-021241.png](https://i.postimg.cc/26XHFKpC/Captura-de-pantalla-2024-06-27-021241.png)](https://postimg.cc/KkBrmQvW)  
+Recomendación:
+Reducir el tiempo de respuesta en la digitación de los inputs.
+
 
 ## 6.4. Video About-the-Product.
 # Avance de Conclusiones, Bibliografía y Anexos.
