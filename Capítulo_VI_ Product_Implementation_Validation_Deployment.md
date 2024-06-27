@@ -1060,14 +1060,14 @@ Durante este Sprint se realizaron las mejoras y los despliegues de la aplicació
 			<td>XForce-IOt/Frontend
 
 </td>
-			<td>develop</td>
-			<td>
+			<td>master</td>
+			<td>1640e3ac98b7ce85b2370303a5cc047cfcdbb281
 </td>
-			<td>
+			<td>add routes clinics and veterinarians
 
 </td>
 			<td>-</td>
-			<td>
+			<td>26-06-2024
 
 </td>
 		</tr>
@@ -1075,14 +1075,14 @@ Durante este Sprint se realizaron las mejoras y los despliegues de la aplicació
 			<td>XForce-IOt/Backend
 
 </td>
-			<td>develop</td>
-			<td>
+			<td>master</td>
+			<td>11b92ae14f28c113c3563e8419a179a57a2d6501
 </td>
-			<td>
+			<td>Update WebConfig.java
 
 </td>
 			<td>-</td>
-			<td>
+			<td>21-06-2024
 
 </td>
 		</tr>
@@ -1090,14 +1090,14 @@ Durante este Sprint se realizaron las mejoras y los despliegues de la aplicació
 			<td>XForce-IOt/Mobile
 
 </td>
-			<td>develop</td>
-			<td>
+			<td>master</td>
+			<td>d2b3b43319acfab9cf1e89a24ffd4767e2f0ff1e
 </td>
-			<td>
+			<td>Add config to deploy
 
 </td>
 			<td>-</td>
-			<td>
+			<td>25-06-2024
 
 </td>
 		</tr>
@@ -1106,13 +1106,13 @@ Durante este Sprint se realizaron las mejoras y los despliegues de la aplicació
 
 </td>
 			<td>main</td>
-			<td>
+			<td>2b7966b9734707241cf097a49ea550ce3eebe8b8
 </td>
-			<td>
+			<td>Add Devices, diagram.json and sketch.ino
 
 </td>
 			<td>-</td>
-			<td>
+			<td>19-06-2024
 
 </td>
 		</tr>
@@ -1287,8 +1287,58 @@ Durante este Sprint se realizaron las mejoras y los despliegues de la aplicació
 </table>
 
 #### 6.2.3.5 Execution Evidence for Sprint Review
+Durante este sprint, se completaron los entregables:  
+
+- Aplicación Web (Correcciones en vistas)
+- Landing Page (Links de videos about the team y about the product)
+- Correcciones sobre los API Services que interactúan con la solución PetHealth (Main Backend y Edge Backend)
+- Aplicación Móvil
+- Dispositivo IoT.
+
+##### Aplicación web:
+Vista Login  
+[![Captura-de-pantalla-2024-06-27-021241.png](https://i.postimg.cc/26XHFKpC/Captura-de-pantalla-2024-06-27-021241.png)](https://postimg.cc/KkBrmQvW)  
+
+Vista Pets y Métrics  
+[![Captura-de-pantalla-2024-06-27-021415.png](https://i.postimg.cc/yxgLfyBc/Captura-de-pantalla-2024-06-27-021415.png)](https://postimg.cc/n9xKr7Xh)  
+
+Vista Appointments  
+[![Captura-de-pantalla-2024-06-27-021510.png](https://i.postimg.cc/bYZ8cXwH/Captura-de-pantalla-2024-06-27-021510.png)](https://postimg.cc/6TxFnmRy)  
+
+Vista Create Appointment  
+[![Captura-de-pantalla-2024-06-27-021620.png](https://i.postimg.cc/rsBQ7RFb/Captura-de-pantalla-2024-06-27-021620.png)](https://postimg.cc/V0FqC6tB)
+
+#### Dispositivo IoT:  
+[![Imagen3.png](https://i.postimg.cc/25nMPvTd/Imagen3.png)](https://postimg.cc/PLrSDCgN)  
+
+### API Services:
+Main y Side Backend  
+[![Captura-de-pantalla-2024-06-27-022314.png](https://i.postimg.cc/k4n4FTQY/Captura-de-pantalla-2024-06-27-022314.png)](https://postimg.cc/XZz4ncD9)  
+Appointments by user: http://backend-production-6ed3.up.railway.app/api/pet-health/v1/clinics/1/veterinarians/1/pet-owners/1/appointments    
+[![Captura-de-pantalla-2024-06-27-022430.png](https://i.postimg.cc/V6DN7X4f/Captura-de-pantalla-2024-06-27-022430.png)](https://postimg.cc/XGB3qGTm)  
+
+### Mobile application
+[![IMG-20240627-WA0004.jpg](https://i.postimg.cc/rwk3n3HJ/IMG-20240627-WA0004.jpg)](https://postimg.cc/LnxxhC2Y)
+[![IMG-20240627-WA0005.jpg](https://i.postimg.cc/QdJPRSGr/IMG-20240627-WA0005.jpg)](https://postimg.cc/jDCZfHS8)
+[![IMG-20240627-WA0003.jpg](https://i.postimg.cc/CKMtYDSn/IMG-20240627-WA0003.jpg)](https://postimg.cc/BjyNBj8J)
+[![IMG-20240627-WA0002.jpg](https://i.postimg.cc/wvZbhGJD/IMG-20240627-WA0002.jpg)](https://postimg.cc/BL5g3Nmv)
+
 #### 6.2.3.6 Services Documentation Evidence for Sprint Review
+En el presente sprint, se realizaron correcciones sobre las relaciones entre appointments y pets, además, se corrigió el método post de appointments. Finalmente, se presenta la versión final del Main Backend con los npoints:  
+- Veterinarians
+- Appointments
+- Sensor Data
+- Clinics
+- Pet-owner-controller
+https://backend-production-6ed3.up.railway.app/swagger-ui/index.html#/  
+
+[![Captura-de-pantalla-2024-06-27-023652.png](https://i.postimg.cc/s2KB8FgC/Captura-de-pantalla-2024-06-27-023652.png)](https://postimg.cc/7CGYGWzK)  
+[![Captura-de-pantalla-2024-06-27-023725.png](https://i.postimg.cc/fLL3QHVt/Captura-de-pantalla-2024-06-27-023725.png)](https://postimg.cc/QB2NpJkh)  
+[![Captura-de-pantalla-2024-06-27-023744.png](https://i.postimg.cc/MHfvvvbz/Captura-de-pantalla-2024-06-27-023744.png)](https://postimg.cc/Wqj2ypHy)  
+[![Captura-de-pantalla-2024-06-27-023807.png](https://i.postimg.cc/G909YdqG/Captura-de-pantalla-2024-06-27-023807.png)](https://postimg.cc/QKbXZGLd)  
+[![Captura-de-pantalla-2024-06-27-023823.png](https://i.postimg.cc/hP9Vr5Tc/Captura-de-pantalla-2024-06-27-023823.png)](https://postimg.cc/1f3gRMvj)
 #### 6.2.3.7 Software Deployment Evidence for Sprint Review
+
 
 #### 6.2.3.8 Team Collaboration Insights during Sprint
 
