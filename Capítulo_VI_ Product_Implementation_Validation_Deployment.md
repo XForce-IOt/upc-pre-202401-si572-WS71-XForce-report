@@ -1338,8 +1338,11 @@ https://backend-production-6ed3.up.railway.app/swagger-ui/index.html#/
 [![Captura-de-pantalla-2024-06-27-023807.png](https://i.postimg.cc/G909YdqG/Captura-de-pantalla-2024-06-27-023807.png)](https://postimg.cc/QKbXZGLd)  
 [![Captura-de-pantalla-2024-06-27-023823.png](https://i.postimg.cc/hP9Vr5Tc/Captura-de-pantalla-2024-06-27-023823.png)](https://postimg.cc/1f3gRMvj)
 #### 6.2.3.7 Software Deployment Evidence for Sprint Review
-
-
+Durante este Sprint, se utilizó Firebase para generar un ejecutable descargable de la aplicación móvil usando el APK generado por Android Studio.  
+[![Captura-de-pantalla-2024-06-27-025803.png](https://i.postimg.cc/zfJmB6SB/Captura-de-pantalla-2024-06-27-025803.png)](https://postimg.cc/XrD112PS)  
+[![Captura-de-pantalla-2024-06-27-025930.png](https://i.postimg.cc/HxhF6xGc/Captura-de-pantalla-2024-06-27-025930.png)](https://postimg.cc/N9RNMQjB)  
+Enlace de invitación: https://appdistribution.firebase.dev/i/8db9855f758383bf  
+[![Captura-de-pantalla-2024-06-27-030234.png](https://i.postimg.cc/66GBDsHJ/Captura-de-pantalla-2024-06-27-030234.png)](https://postimg.cc/CdSyq2Tm)  
 #### 6.2.3.8 Team Collaboration Insights during Sprint
 
 En este sprint, el equipo dividió las tareas para finalizar con la aplicación PetHealth
