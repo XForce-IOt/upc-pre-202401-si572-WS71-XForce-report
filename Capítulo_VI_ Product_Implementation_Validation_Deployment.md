@@ -1032,6 +1032,107 @@ En este sprint, el equipo dividió las tareas teniendo en cuenta los features (a
 
 
 #### 6.2.3.3 Development Evidence for Sprint Review
+Durante este Sprint se realizaron las mejoras y los despliegues de la aplicación web, aplicación móvil y el dispositivo IoT.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Repository
+
+</td>
+			<td>Branch
+
+</td>
+			<td>Commit Id
+
+</td>
+			<td>Commit Message
+
+</td>
+			<td>Commit Message Body
+
+</td>
+			<td>Commited on (Date)
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Frontend
+
+</td>
+			<td>develop</td>
+			<td>
+</td>
+			<td>
+
+</td>
+			<td>-</td>
+			<td>
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Backend
+
+</td>
+			<td>develop</td>
+			<td>
+</td>
+			<td>
+
+</td>
+			<td>-</td>
+			<td>
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Mobile
+
+</td>
+			<td>develop</td>
+			<td>
+</td>
+			<td>
+
+</td>
+			<td>-</td>
+			<td>
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/IoT-Application
+
+</td>
+			<td>main</td>
+			<td>
+</td>
+			<td>
+
+</td>
+			<td>-</td>
+			<td>
+
+</td>
+		</tr>
+		<tr>
+			<td>XForce-IOt/Edge-Backend
+
+</td>
+			<td>develop</td>
+			<td>
+</td>
+			<td>
+
+</td>
+			<td>-</td>
+			<td>
+
+</td>
+	</tbody>
+</table>
+
 #### 6.2.3.4 Testing Suite Evidence for Sprint Review
 
 <table>
