@@ -1367,9 +1367,9 @@ Las siguientes visualizaciones resaltan las colaboraciones de nuestro equipo en 
 
 Las siguientes visualizaciones resaltan las colaboraciones de nuestro equipo en el desarrollo móvil para nuestra aplicación web.
 
-[![mobile1.png](https://i.postimg.cc/0QPYJgHt/mobile1.png)](https://postimg.cc/LqQYrWSf)
+[![mobile1.png](https://i.postimg.cc/dVCSBPCh/image.png)](https://postimg.cc/189HmdJS)
 
-[![mobile2.png](https://i.postimg.cc/J4vj5H2H/mobile2.png)](https://postimg.cc/565Hxy1f)
+[![mobile2.png](https://i.postimg.cc/Z5YCPZ2c/image.png)](https://postimg.cc/RN8S4rM6)
 
 ###### IoT Application:
 
