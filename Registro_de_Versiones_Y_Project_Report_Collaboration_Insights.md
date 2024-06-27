@@ -49,23 +49,24 @@ En este sprint, el equipo se encargó de hacer correcciones sobre la Aplicación
 [![evidence2.png](https://i.postimg.cc/FKdccNk6/image.png)](https://postimg.cc/1gSf1xH0)
 ###### Landing page:
 Se añadió el about the team y about the product.
-**Despliegue:** [Enlace del despliegue](https://fredy002.github.io/Landing-Page-Pet-Health/)  
+**Despliegue:** [https://fredy002.github.io/Landing-Page-Pet-Health/](https://fredy002.github.io/Landing-Page-Pet-Health/)  
 [![landing1.png](https://i.postimg.cc/TPM276HF/image.png)](https://postimg.cc/SndpRw4f)  
 [![landing2.png](https://i.postimg.cc/4ySszk98/image.png)](https://postimg.cc/ZvpGSQj3)
 
 ###### Web Frontend:
 Se realizaron correcciones en la web, para los appointment, agregar los apis y conectarlo con la base de datos, corregir errores de despliegue y por ultimo, mejorar la estética.  
-**Despliegue:** [Enlace del despliegue](https://pet-health.netlify.app/login)  
+**Despliegue:** [https://pet-health.netlify.app/login](https://pet-health.netlify.app/login)  
 [![web1.png](https://i.postimg.cc/bN1qZMvR/image.png)](https://postimg.cc/qzBPY1yt)  
 [![web2.png](https://i.postimg.cc/NMWwM7qV/image.png)](https://postimg.cc/VrBhZtNB)
 
 ###### IoT Application:
 Se realizaron cambios en el sketch.ino, dividiendole por clases y añadiendo el api del edge backend.  
-**Link del proyecto:** [Proyecto en Wokwi](https://wokwi.com/projects/398787385478053889)  
+**Link del proyecto:** [https://wokwi.com/projects/398787385478053889](https://wokwi.com/projects/398787385478053889)  
 [![iot1.png](https://i.postimg.cc/yd3wwggT/image.png)](https://postimg.cc/YGknFSx4)  
 [![iot2.png](https://i.postimg.cc/nV7y2mtF/image.png)](https://postimg.cc/HjYvsVxR)
 
 ##### Front mobile:
+**Enlace:** [https://appdistribution.firebase.dev/i/8db9855f758383bf](https://appdistribution.firebase.dev/i/8db9855f758383bf)
 Se realizaron correcciones y se añadió una lista de appointments, a la par que se desplegó, creando un apk en firebase.  
 [![movil1.png](https://i.postimg.cc/SNkvGtrd/image.png)](https://postimg.cc/vD2hYhCx)  
 [![movil2.png](https://i.postimg.cc/zGP28D12/image.png)](https://postimg.cc/k2KvymGW)
