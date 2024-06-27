@@ -72,15 +72,15 @@ Hoy en día las veterinarias son tan importantes como un centro de salud, debido
  - *Resolveremos esto a través de* realizar campañas que ayuden a las veterinarias a obtener más clientes.
 
 **Business Outcomes**
- - Incremento en la satisfacción del cliente: Al proporcionar un servicio que les permite monitorear la salud de sus mascotas en tiempo real, los clientes experimentan una mayor tranquilidad y confianza en el bienestar de sus mascotas, lo que se traducirá en una mayor satisfacción y fidelidad hacia nuestra marca.
+ - Incremento en la satisfacción del cliente: Aumentar el índice de satisfacción del cliente en un 25% dentro de los primeros 12 meses al proporcionar un servicio de monitoreo en tiempo real de la salud de sus mascotas, lo que se reflejará en encuestas de satisfacción y tasas de retención.
 
- - Mayor compromiso y responsabilidad con la salud de las mascotas: Al enfocarnos en el compromiso y responsabilidad con la salud de las mascotas, lograremos establecer una relación sólida y duradera con nuestros clientes, lo que aumentará su lealtad hacia nuestra marca y fomentará recomendaciones positivas.
+ - Mayor compromiso y responsabilidad con la salud de las mascotas: Incrementar la lealtad de los clientes en un 50% y obtener al menos un 25% de recomendaciones positivas dentro de los primeros 18 meses, enfocándonos en el compromiso y responsabilidad con la salud de las mascotas.
 
- - Incremento en la eficiencia de la atención veterinaria: Al proporcionar servicios adicionales como agendar citas desde la aplicación y hacer llamados de emergencia a veterinarios afiliados, contribuiremos a una atención veterinaria más eficiente y oportuna, lo que resultará en una mejora en la salud y bienestar de las mascotas.
+ - Incremento en la eficiencia de la atención veterinaria: Reducir el tiempo promedio de espera para citas veterinarias en un 30% y aumentar la respuesta a emergencias veterinarias en un 40% dentro del primer año mediante la aplicación.
 
- - Generación de ingresos sostenibles: A través de modelos de suscripción y la venta del collar inteligente, generaremos ingresos recurrentes y estables que nos permitirán mantener y mejorar continuamente nuestros servicios.
+ - Generación de ingresos sostenibles: Lograr un crecimiento mensual del 10% en suscripciones y ventas del collar inteligente, alcanzando ingresos recurrentes y estables que permitan la mejora continua de nuestros servicios en un plazo de 18 meses.
 
- - Diferenciación y liderazgo en el mercado nacional: Al ser pioneros en ofrecer un producto y servicio único en el país, nos posicionaremos como líderes en el mercado y estableceremos una ventaja competitiva significativa sobre la competencia extranjera. Esto nos permitirá captar una parte importante del mercado y consolidar nuestra presencia a largo plazo.
+ - Diferenciación y liderazgo en el mercado nacional: Capturar al menos el 25% del mercado nacional dentro de los primeros 24 meses y posicionarnos como líderes en el sector, siendo reconocidos por al menos el 40% de los clientes potenciales como la opción principal frente a la competencia extranjera.
 
 
 **User Assumptions**
@@ -103,33 +103,38 @@ Visualizar el estado de salud de las mascotas, obtener su historial sobre sus ú
 La interfaz de usuario de la aplicación móvil debe ser sencilla de comprender, con un diseño de colores atractivos que ayude a identificar cada botón
 
 **User Outcomes**
-- Mejora en el bienestar y cuidado de las mascotas: Al proporcionar a los usuarios la capacidad de monitorear la salud de sus mascotas en tiempo real, así como acceder a su historial de salud y ubicación, nuestro producto contribuirá a mejorar el bienestar y cuidado general de las mascotas, permitiendo a los usuarios detectar y abordar rápidamente cualquier problema de salud.
 
-- Mayor tranquilidad y confianza para los dueños de mascotas: Al ofrecer una herramienta que les permite a los usuarios verificar el estado de salud de sus mascotas en cualquier momento y desde cualquier lugar, nuestro producto brindará a los dueños de mascotas una mayor tranquilidad y confianza en el bienestar de sus compañeros peludos, reduciendo así la ansiedad y preocupación relacionada con su salud.
+- Mayor tranquilidad y confianza para los dueños de mascotas: Tranquilidad y confianza al poder monitorear la salud de sus mascotas en tiempo real, permitiendo una detección temprana de problemas de salud y la posibilidad de tomar medidas preventivas. Las alertas personalizadas y recomendaciones proactivas ayudan a mantener a la mascota en óptimas condiciones de salud
 
-- Mayor conveniencia y accesibilidad en la atención veterinaria: Al permitir a los usuarios comunicarse con veterinarios afiliados y agendar citas desde la aplicación móvil, nuestro producto mejorará la accesibilidad y conveniencia de la atención veterinaria, facilitando a los usuarios el acceso a servicios veterinarios de calidad cuando más lo necesiten.
+- Mayor conocimiento y control sobre la salud de su mascota: A través de un historial detallado, gráficos y reportes mensuales podras compartir con mayor facilidad el seguimiento de la salud de la mascota con el veterinario.
 
-- Experiencia de usuario intuitiva y satisfactoria: Al diseñar una interfaz de usuario sencilla y atractiva para la aplicación móvil, nuestro producto proporcionará a los usuarios una experiencia de usuario intuitiva y satisfactoria, facilitando la navegación y comprensión de las características y funcionalidades del producto, lo que conducirá a una mayor adopción y retención de usuarios.
+- Mayor conveniencia y accesibilidad en la atención veterinaria: Conveniencia y eficiencia al poder agendar citas veterinarias fácilmente desde la aplicación. El sistema de gestión de emergencias asegura una respuesta rápida en situaciones críticas, lo que puede ser crucial para la salud de la mascota. Esto reduce el tiempo de espera y mejora la calidad de la atención veterinaria.
+
+- Multiplicidad de suscripciones: Acceso a servicios y productos exclusivos a través de distintos niveles de suscripción, proporcionando opciones de análisis avanzados de salud y acceso a una tienda en línea con productos seleccionados para mejorar el cuidado de la mascota. Esto ofrece flexibilidad y valor añadido, adaptándose a las necesidades específicas de cada usuario.
+
+- Seguridad y confianza: Mayor confianza en un producto respaldado por influencers y veterinarios reconocidos. Las campañas de marketing informativas y educativas aumentan el conocimiento sobre el cuidado de las mascotas y las innovaciones en salud animal, ayudando a los usuarios a tomar decisiones informadas y sentir que están eligiendo un servicio líder en el mercado.
 
 **Features**
-- Permitir a los usuarios verificar el estado de salud de sus mascotas en tiempo real a través de la aplicación móvil, además de poder visualizar métricas vitales como la temperatura corporal, ritmo cardíaco y niveles de actividad.
-- Poder guardar los registros del estado de salud y comportamientos de la mascota, para que los dueños puedan acceder a ellos y compartirlo con los veterinarios, esto le ayudará a que pueda entender mejor los síntomas y brindar un mejor diagnóstico.
-- Facilitar la comunicación con veterinarios afiliados a través de la aplicación móvil, permitiendo que los usuarios visualicen sus canales de atención, como botones directos para que puedan llamar o escribir por sus redes sociales como facebook o whatsapp.
-- Integrar una función de llamada de emergencia que permita a los usuarios contactar rápidamente con las veterinarias afiliadas más cercanas o una de su preferencia.
+- Función de monitoreo en tiempo real: Permitir a los usuarios ver en tiempo real los datos de salud de sus mascotas (temperatura, ritmo cardíaco, niveles de actividad, geolocalizacion, nivel de sueño y nivel de hidratacion) a través de la aplicación, con alertas personalizadas y recomendaciones proactivas basadas en el comportamiento y los datos de salud de la mascota. 
+- Historial de salud de la mascota: Poder guardar los registros del estado de salud y comportamientos de la mascota, para que los dueños puedan acceder a ellos y compartirlo con los veterinarios, esto le ayudará a que pueda entender mejor los síntomas y brindar un mejor diagnóstico.
+- Agendamiento y gestión de citas mediante la aplicación: Permitir a los dueños agendar citas veterinarias directamente desde la aplicación y un sistema de gestión de emergencias que priorice las urgencias y envíe alertas a veterinarios afiliados cercanos, optimizando la respuesta.
+- Modelos de suscripción: Ofrecer múltiples niveles de suscripción con beneficios adicionales, como análisis avanzados de datos de salud, consultas veterinarias gratuitas o con descuento, y acceso exclusivo a productos en una tienda en línea que venda el collar inteligente y otros accesorios para mascotas.
+- Programa de embajadores y campañas de marketing: Implementar un programa de embajadores de marca que incluya influencers de mascotas y veterinarios reconocidos, junto con campañas de marketing en redes sociales y medios tradicionales que destaquen las características únicas del producto y servicio, consolidando la percepción de liderazgo y diferenciación en el mercado nacional.
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-**Creemos que** permitir a los usuarios verificar el estado de salud de sus mascotas en tiempo real a través de la aplicación móvil, así como visualizar métricas vitales como la temperatura corporal, ritmo cardíaco y niveles de actividad, mejorará significativamente la tranquilidad y confianza de los propietarios en el bienestar de sus mascotas. **Sabremos que** hemos tenido éxito cuando veamos un aumento en la frecuencia de uso de la función de monitoreo de salud en la aplicación móvil, así como una alta tasa de retención de usuarios.
+**Creemos que** el incremento en la satisfacción del cliente **se logrará si** el dueño de la mascota **obtiene** mayor tranquilidad y confianza **con** la función de monitoreo en tiempo real.
 
-**Creemos que** poder guardar los registros del estado de salud y comportamiento de la mascota, para que los dueños puedan acceder a ellos y compartirlos con los veterinarios, mejorará la comunicación entre los propietarios y los profesionales de la salud animal. **Sabremos que** estamos bien cuando sepamos que los propietarios expresan satisfacción al poder registrar y acceder fácilmente a los datos de salud de sus mascotas, ya que les permite comunicarse de manera más efectiva con los veterinarios.
+**Creemos que** un mayor compromiso y responsabilidad con la salud de las mascotas **se logrará si** el dueño de la mascota **obtiene** mayor conocimiento y control sobre la salud de su mascota **con** el historial de la salud de sus mascotas.
 
-**Creemos que** facilitar la comunicación con veterinarios afiliados a través de la aplicación móvil, permitiendo que los usuarios visualicen sus canales de atención, como botones directos para llamar o escribir por sus redes sociales como Facebook o WhatsApp, mejorará la accesibilidad y la conveniencia de obtener asistencia veterinaria para los usuarios, lo que resultará en una atención más rápida y efectiva para las mascotas. **Sabremos que** estamos teniendo éxito cuando veamos un aumento en el número de interacciones entre usuarios y veterinarios a través de los canales de comunicación facilitados en la aplicación móvil, así como un incremento en la frecuencia de uso de estas funciones.
+**Creemos que** el incremento en la eficiencia de la atención veterinaria **se logrará si** el dueño de la mascota **obtiene** mayor conveniencia y accesibilidad en la atención veterinaria **con** agendamientos y gestión de citas mediante la aplicación.
 
-**Creemos que** integrar una función de llamada de emergencia que permita a los usuarios contactar rápidamente con las veterinarias afiliadas más cercanas o una de su preferencia aumentará la sensación de seguridad y tranquilidad de los propietarios de mascotas, además de proporcionar una solución rápida y eficaz en situaciones de emergencia relacionadas con la salud de las mascotas. **Sabremos que** estamos bien cuando sepamos que los usuarios expresan alivio al saber que tienen acceso inmediato a ayuda veterinaria en caso de emergencia, lo que les brinda confianza en la capacidad de nuestra aplicación para cuidar a sus mascotas.
+**Creemos que** la generación de ingresos sostenibles **se logrará si** el dueño de la mascota **obtiene** multiplicidad de suscripciones **con** los modelos de suscripción.
+
+**Sabremos que** la diferenciación y liderazgo en el mercado nacional **se logrará si** el dueño de la mascota **obtiene** seguridad y confianza **con** el programa de embajadores y campañas de marketing.
 
 #### 1.2.2.4. Lean UX Canvas.
-
-![canvas](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/aea02668-7766-424a-bdc4-25b179bc0415)
+![image](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/af1fd6c5-2364-4195-ae9d-aec45afd4f56)
 
 ## 1.3. Segmentos objetivo.
 Actualmente las mascotas son más que simples compañeros, sino miembros queridos de la familia, reconocemos la importancia de su salud y bienestar. Es por eso que presentamos XForce, una innovadora solución diseñada para revolucionar la forma en que cuidamos a nuestros amigos peludos.
