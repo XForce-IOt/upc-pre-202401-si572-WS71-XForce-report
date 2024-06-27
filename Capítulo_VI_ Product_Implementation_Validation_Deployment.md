@@ -1424,7 +1424,40 @@ Las siguientes visualizaciones resaltan las colaboraciones de nuestro equipo en 
 
 https://www.youtube.com/watch?v=P0n4a9h1IEA 
 
-**Resumen:** Madelein es una dueña de mascota de 23 años. Viven en el Callao y su dispositivo más usado es su celular con sistema operativo Android, el navegador que más utiliza en Chrome. Las redes sociales que más usa son Whatsapp e Instagram. Tiene una sola mascota, un perro. Lleva a su mascota todos los meses para un chequeo o un baño, su mascota cuenta con una dieta balanceada y posee un registro en una agenda de las vacunas y medicamentos que haya tomado su mascota, cuando ella no se encuentra en casa, deja a su mascota con su madre. Madelein nos comenta que la aplicación le pareció muy intuitiva y útil, en especial para poder contactar con su veterinario de confianza, también nos dice que le es de mucha ayuda tener los datos vitales de su mascota pues se preocupa mucho por la salud y bienestar de esta. 
+**Resumen:** Madelein es una dueña de mascota de 23 años. Viven en el Callao y su dispositivo más usado es su celular con sistema operativo Android, el navegador que más utiliza en Chrome. Las redes sociales que más usa son Whatsapp e Instagram. Tiene una sola mascota, un perro. Lleva a su mascota todos los meses para un chequeo o un baño, su mascota cuenta con una dieta balanceada y posee un registro en una agenda de las vacunas y medicamentos que haya tomado su mascota, cuando ella no se encuentra en casa, deja a su mascota con su madre. Madelein nos comenta que la aplicación le pareció muy intuitiva y útil, en especial para poder contactar con su veterinario de confianza, también nos dice que le es de mucha ayuda tener los datos vitales de su mascota pues se preocupa mucho por la salud y bienestar de esta.  
+
+### Entrevista 2:
+
+**Entrevistador:** Jesica Rut Jaramillo Almora 
+
+**Entrevistado:** Beatriz Almora
+
+**Edad:** 56 años
+
+**Distrito:** Independencia
+
+[![Captura-de-pantalla-2024-06-27-031644.png](https://i.postimg.cc/BQHHZVnR/Captura-de-pantalla-2024-06-27-031644.png)](https://postimg.cc/bsYs3LbR)  
+
+https://www.youtube.com/watch?v=P0n4a9h1IEAavsntr 
+
+**Resumen:** Beatriz es una dueña de mascota de 56 años. Vive en independencia y su dispositivo más usado en su celular con SO Android, además el navegador que más usa es Chrome.  
+Comenta que la aplicación le parece "algo complicada de entender al principio, pero se puede aprender". Además cree que la funcionalidad de reserva es muy útil para llevar el historial de citas médicas de su mascota. Además está dispuesta a recomendas la app web con sus conocidos por la tranquilidad que le brindan los datos críticos enviados en tiempo real mediante el collar.
+
+### Entrevista 3:
+
+**Entrevistador:** Emerson  
+
+**Entrevistado:**  
+
+**Edad:**  
+
+**Distrito:**  
+
+[![Captura-de-pantalla-2024-06-27-031644.png](https://i.postimg.cc/BQHHZVnR/Captura-de-pantalla-2024-06-27-031644.png)](https://postimg.cc/bsYs3LbR)  
+
+https://www.youtube.com/watch?v=P0n4a9h1IEAavsntrfwgaw 
+
+**Resumen:**  
 
 ### 6.3.3. Evaluaciones según heurísticas.
 **SITE o APP A EVALUAR:** PetHealth  
