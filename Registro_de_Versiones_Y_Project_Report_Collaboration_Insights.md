@@ -42,6 +42,39 @@ En este sprint, el equipo dividió las tareas teniendo en cuenta los features (a
 ##### Front mobile
 [![Captura-de-pantalla-2024-06-08-220100.png](https://i.postimg.cc/gJsgyKkJ/Captura-de-pantalla-2024-06-08-220100.png)](https://postimg.cc/Q9Bgh17G)
 
+#### Evidencias de la TF
+En este sprint, el equipo se encargó de hacer correcciones sobre la Aplicación web, móvil, IoT y sobre los main y side backends. Además de habilitar un link descargable para la Aplicación móvil.
+
+[![evidence1.png](https://i.postimg.cc/J0WbMvn2/image.png)](https://postimg.cc/KkJK59tP)  
+[![evidence2.png](https://i.postimg.cc/FKdccNk6/image.png)](https://postimg.cc/1gSf1xH0)
+###### Landing page:
+Se añadió el about the team y about the product.
+**Despliegue:** [Enlace del despliegue](https://fredy002.github.io/Landing-Page-Pet-Health/)  
+[![landing1.png](https://i.postimg.cc/TPM276HF/image.png)](https://postimg.cc/SndpRw4f)  
+[![landing2.png](https://i.postimg.cc/4ySszk98/image.png)](https://postimg.cc/ZvpGSQj3)
+
+###### Web Frontend:
+Se realizaron correcciones en la web, para los appointment, agregar los apis y conectarlo con la base de datos, corregir errores de despliegue y por ultimo, mejorar la estética.  
+**Despliegue:** [Enlace del despliegue](https://pet-health.netlify.app/login)  
+[![web1.png](https://i.postimg.cc/bN1qZMvR/image.png)](https://postimg.cc/qzBPY1yt)  
+[![web2.png](https://i.postimg.cc/NMWwM7qV/image.png)](https://postimg.cc/VrBhZtNB)
+
+###### IoT Application:
+Se realizaron cambios en el sketch.ino, dividiendole por clases y añadiendo el api del edge backend.  
+**Link del proyecto:** [Proyecto en Wokwi](https://wokwi.com/projects/398787385478053889)  
+[![iot1.png](https://i.postimg.cc/yd3wwggT/image.png)](https://postimg.cc/YGknFSx4)  
+[![iot2.png](https://i.postimg.cc/nV7y2mtF/image.png)](https://postimg.cc/HjYvsVxR)
+
+##### Front mobile:
+Se realizaron correcciones y se añadió una lista de appointments, a la par que se desplegó, creando un apk en firebase.  
+[![movil1.png](https://i.postimg.cc/SNkvGtrd/image.png)](https://postimg.cc/vD2hYhCx)  
+[![movil2.png](https://i.postimg.cc/zGP28D12/image.png)](https://postimg.cc/k2KvymGW)
+
+###### Main Backend:
+Se realizó correcciones en las relaciones y en el api de appointment.  
+[![backend1.png](https://i.postimg.cc/g2r4S96V/image.png)](https://postimg.cc/RW5chDdh)  
+[![backend2.png](https://i.postimg.cc/kgZsLjxk/image.png)](https://postimg.cc/gxV3ZHtD)
+
 ### Student Outcome
 | Criterio Específico                                                                                                                                 | Acciones Realizadas         | Conclusiones |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------|
