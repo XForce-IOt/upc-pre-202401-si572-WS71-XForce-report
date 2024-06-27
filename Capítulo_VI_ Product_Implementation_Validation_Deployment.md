@@ -1407,6 +1407,8 @@ Las siguientes visualizaciones resaltan las colaboraciones de nuestro equipo en 
     - Comentarios adicionales y conclusión de la entrevista.
     
 ### 6.3.2. Registro de Entrevistas.
+[![e1.png](https://i.postimg.cc/vTQXfBcM/e1.png)](https://postimg.cc/S2vWpm6t)
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/EXVkU-qZnSBLjcNFT0ExGPUBj07YoZWpcAv_9F6fQUYl2w?e=rvcacs
 
 ### Segmento Objetivo: Dueño de mascota
 
@@ -1420,9 +1422,9 @@ Las siguientes visualizaciones resaltan las colaboraciones de nuestro equipo en 
 
 **Distrito:** Callao
 
-[![e1.png](https://i.postimg.cc/vTQXfBcM/e1.png)](https://postimg.cc/S2vWpm6t)
+**Min inicio:** 0:04
 
-https://www.youtube.com/watch?v=P0n4a9h1IEA 
+**Min final:** 7:32
 
 **Resumen:** Madelein es una dueña de mascota de 23 años. Viven en el Callao y su dispositivo más usado es su celular con sistema operativo Android, el navegador que más utiliza en Chrome. Las redes sociales que más usa son Whatsapp e Instagram. Tiene una sola mascota, un perro. Lleva a su mascota todos los meses para un chequeo o un baño, su mascota cuenta con una dieta balanceada y posee un registro en una agenda de las vacunas y medicamentos que haya tomado su mascota, cuando ella no se encuentra en casa, deja a su mascota con su madre. Madelein nos comenta que la aplicación le pareció muy intuitiva y útil, en especial para poder contactar con su veterinario de confianza, también nos dice que le es de mucha ayuda tener los datos vitales de su mascota pues se preocupa mucho por la salud y bienestar de esta.  
 
@@ -1436,28 +1438,28 @@ https://www.youtube.com/watch?v=P0n4a9h1IEA
 
 **Distrito:** Independencia
 
-[![Captura-de-pantalla-2024-06-27-031644.png](https://i.postimg.cc/BQHHZVnR/Captura-de-pantalla-2024-06-27-031644.png)](https://postimg.cc/bsYs3LbR)  
+**Min inicio:** 7:32
 
-https://www.youtube.com/watch?v=P0n4a9h1IEAavsntr 
+**Min final:** 21:30
 
 **Resumen:** Beatriz es una dueña de mascota de 56 años. Vive en independencia y su dispositivo más usado en su celular con SO Android, además el navegador que más usa es Chrome.  
 Comenta que la aplicación le parece "algo complicada de entender al principio, pero se puede aprender". Además cree que la funcionalidad de reserva es muy útil para llevar el historial de citas médicas de su mascota. Además está dispuesta a recomendas la app web con sus conocidos por la tranquilidad que le brindan los datos críticos enviados en tiempo real mediante el collar.
 
 ### Entrevista 3:
 
-**Entrevistador:** Emerson  
+**Entrevistador:** Emerson Quispe
 
-**Entrevistado:**  
+**Entrevistado:**  Giovani Villegas
 
-**Edad:**  
+**Edad:**  21 años
 
-**Distrito:**  
+**Distrito:**  Callao
 
-[![Captura-de-pantalla-2024-06-27-031644.png](https://i.postimg.cc/BQHHZVnR/Captura-de-pantalla-2024-06-27-031644.png)](https://postimg.cc/bsYs3LbR)  
+**Min inicio:** 21:30
 
-https://www.youtube.com/watch?v=P0n4a9h1IEAavsntrfwgaw 
+**Min final:** 27:32  
 
-**Resumen:**  
+**Resumen:** Giovani comenta que la aplicación le va ser muy util, no solo a el, sino a la mayoría de personas que tienen mascotas, debido a que le parece muy util la opción de geolocalización, ya que, así podrá saber en donde se encuentra su mascota a cualquier hora. Respecto a la interfaz de la aplicación web, nos comenta que la aplicación es fácil de entender, debido a que le parece sencillo y fácil de manejar. Tambien dice que la aplicación le parece rápido, no ha observado demoras, pero si comenta que se distorsiona un poco hacia la derecha cuando se recarga la pagina. El entrevistado considera que los datos mostrados son precisos, ya que al ser una aplicación para los mismos dueños no es necesario ser tan específicos. Por ultimo, opina que no ha encontrado algún fastidio o frustración al navegar por la aplicación y que si recomendaría el uso de la aplicación a sus amigos, ya que les ayudaría a mantener una mejor calidad de vida a sus mascotas.
 
 ### 6.3.3. Evaluaciones según heurísticas.
 **SITE o APP A EVALUAR:** PetHealth  
@@ -1512,6 +1514,13 @@ Reducir el tiempo de respuesta en la digitación de los inputs.
 
 
 ## 6.4. Video About-the-Product.
-# Avance de Conclusiones, Bibliografía y Anexos.
-- Concluimos que las entrevistas y su respectivo análisis son un recurso de gran importancia ya que aportan perspectivas únicas que ayudarán a la Startup a mejorar la calidad y utilidad del producto final.  
+# Conclusiones
+## Conclusiones y recomendaciones
+- Concluimos que las entrevistas y su respectivo análisis son un recurso de gran importancia ya que aportan perspectivas únicas que ayudarán a la Startup a mejorar la calidad y utilidad del producto final.
+- Con la implementación de c4 model nos ayudará para visualizar y describir nuestra arquitectura de sistemas de software.
+- Con la implementación de los diagramas de base de datos, se visualizará unas posibles conexiones de lo que debería ser la base de datos para el proyecto.
+- Implementamos las aplicaciones web, móvil y iot, como también se implementó el main backend y el edge backend, para la web se usó angular para su desarrollo, móvil se usó el flutter y para iot se simuló en wokwi.
+- Se ajustaron las configuraciones en un proyecto de Wokwi para simular el comportamiento de los sensores como el DHT22, el sensor ultrasónico y el sensor de Pulso. Esto incluyó cambios para variar las lecturas de los sensores y enviar datos a un servidor
+- Resolvimos varios errores de compilación y ejecución, tanto en el contexto de Spring Boot como en Arduino, mejorando la estabilidad y funcionalidad de los sistemas.
+## Video About-the-Team 
 
