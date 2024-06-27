@@ -1512,6 +1512,13 @@ Reducir el tiempo de respuesta en la digitación de los inputs.
 
 
 ## 6.4. Video About-the-Product.
-# Avance de Conclusiones, Bibliografía y Anexos.
-- Concluimos que las entrevistas y su respectivo análisis son un recurso de gran importancia ya que aportan perspectivas únicas que ayudarán a la Startup a mejorar la calidad y utilidad del producto final.  
+# Conclusiones
+## Conclusiones y recomendaciones
+- Concluimos que las entrevistas y su respectivo análisis son un recurso de gran importancia ya que aportan perspectivas únicas que ayudarán a la Startup a mejorar la calidad y utilidad del producto final.
+- Con la implementación de c4 model nos ayudará para visualizar y describir nuestra arquitectura de sistemas de software.
+- Con la implementación de los diagramas de base de datos, se visualizará unas posibles conexiones de lo que debería ser la base de datos para el proyecto.
+- Implementamos las aplicaciones web, móvil y iot, como también se implementó el main backend y el edge backend, para la web se usó angular para su desarrollo, móvil se usó el flutter y para iot se simuló en wokwi.
+- Se ajustaron las configuraciones en un proyecto de Wokwi para simular el comportamiento de los sensores como el DHT22, el sensor ultrasónico y el sensor de Pulso. Esto incluyó cambios para variar las lecturas de los sensores y enviar datos a un servidor
+- Resolvimos varios errores de compilación y ejecución, tanto en el contexto de Spring Boot como en Arduino, mejorando la estabilidad y funcionalidad de los sistemas.
+## Video About-the-Team 
 
