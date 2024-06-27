@@ -48,7 +48,7 @@ En este sprint, el equipo se encargó de hacer correcciones sobre la Aplicación
 [![evidence1.png](https://i.postimg.cc/J0WbMvn2/image.png)](https://postimg.cc/KkJK59tP)  
 [![evidence2.png](https://i.postimg.cc/FKdccNk6/image.png)](https://postimg.cc/1gSf1xH0)
 ###### Landing page:
-Se añadió el about the team y about the product.
+Se añadió el about the team y about the product.  
 **Despliegue:** [https://fredy002.github.io/Landing-Page-Pet-Health/](https://fredy002.github.io/Landing-Page-Pet-Health/)  
 [![landing1.png](https://i.postimg.cc/TPM276HF/image.png)](https://postimg.cc/SndpRw4f)  
 [![landing2.png](https://i.postimg.cc/4ySszk98/image.png)](https://postimg.cc/ZvpGSQj3)
@@ -66,8 +66,8 @@ Se realizaron cambios en el sketch.ino, dividiendole por clases y añadiendo el 
 [![iot2.png](https://i.postimg.cc/nV7y2mtF/image.png)](https://postimg.cc/HjYvsVxR)
 
 ##### Front mobile:
-**Enlace:** [https://appdistribution.firebase.dev/i/8db9855f758383bf](https://appdistribution.firebase.dev/i/8db9855f758383bf)
 Se realizaron correcciones y se añadió una lista de appointments, a la par que se desplegó, creando un apk en firebase.  
+**Enlace:** [https://appdistribution.firebase.dev/i/8db9855f758383bf](https://appdistribution.firebase.dev/i/8db9855f758383bf)  
 [![movil1.png](https://i.postimg.cc/SNkvGtrd/image.png)](https://postimg.cc/vD2hYhCx)  
 [![movil2.png](https://i.postimg.cc/zGP28D12/image.png)](https://postimg.cc/k2KvymGW)
 
